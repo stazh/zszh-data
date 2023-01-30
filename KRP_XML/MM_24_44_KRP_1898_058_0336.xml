@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Kreditgesuch des Regierungsrates betreffend Anschaffung einer Waschmaschine
+          für den Kantonsspital.</title>
+				<respStmt>
+					<resp ref="#OCR/lsz" key="transcript">Transkript: OCR/lsz<date when="2011-09-28">28.09.2011</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2011</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Kantonsratsprotokolle seit 1803 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl><title>Kreditgesuch des Regierungsrates betreffend Anschaffung einer
+            Waschmaschine für den Kantonsspital.</title><date when="1898-08-15">15.08.1898</date><ident>StAZH MM 24.44 KRP
+            1898/058/0336</ident><idno>359</idno><edition>Kantonsratsprotokolle seit
+            1803 online</edition><figure>
+						<graphic url="PDF_Dokumente/MM_24_44_KRP_1898_058_0336_p.pdf"/>
+					</figure><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3604244"/><listRelation><relation name="Fortsetzung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3604244" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3604264"/></listRelation></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<p><pb n="359"/></p>
+			<p>Der Kantonsrat, auf den Antrag seines Vorsitzenden, beschliesst:</p>
+			<p>I. Das Kreditgesuch des Regierungsrates betr. Anschaffung einer Waschmaschine für den
+        Kantonsspital Zürich wird der zu bestellenden Staatsrechnungsprüfungskommission zur
+        Begutachtung überwiesen mit der Einladung zu möglichst beförderlicher
+        Behandlung.</p>
+			<p>II. Mitteilung an dieselbe.</p>
+		</body>
+	</text>
+</TEI>

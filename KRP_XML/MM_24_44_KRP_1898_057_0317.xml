@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Abwesenheiten.</title>
+        <respStmt>
+          <resp ref="#lsz" key="transcript">Transkript: lsz<date when="2015-12-08"
+              >08.12.2015</date></resp>
+          <name key="editor">Staatsarchiv des Kantons Zürich</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Staatsarchiv des Kantons Zürich</authority>
+        <date>2011</date>
+        <pubPlace>Zürich</pubPlace>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Kantonsratsprotokolle seit 1803 online</title>
+        <editor>Staatsarchiv des Kantons Zürich</editor>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl><title>Abwesenheiten.</title><date when="1898-07-11"
+            >11.07.1898</date><ident>StAZH MM 24.44 KRP
+            1898/057/0317</ident><idno>351</idno><edition>Kantonsratsprotokolle seit
+            1803 online</edition><figure>
+            <graphic url="PDF_Dokumente/MM_24_44_KRP_1898_057_0317_p.pdf"/>
+          </figure>
+          <ref
+            target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3604222"
+          />
+        </bibl> 
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p><pb n="351"/>Entschuldigt abwesend sind die Herren Baumgartner, <hi
+        rend="sup">a-</hi>Biber, Frick,<hi rend="sup">-a</hi> Fritschi,
+        Graf, Guyer Uster, Guyer Bauma, Hablützel, Hofstetter, Jenny, Klauser, Kleinert,
+        Knell, Kunz Wald, Pestalozzi <hi rend="sup">a-</hi>Stadtpräs.<hi
+        rend="sup">-a</hi>, Pfister, Schaufelberger Gossau, Scheller, Schoch,
+        <hi rend="sup">a-</hi>Dr.<hi rend="sup">-a</hi> Sträuli,
+        <hi rend="sup">a-</hi>Dr.<hi rend="sup">-a</hi> Usteri,
+        Wanner, <hi rend="sup">a-</hi>Winkler<hi
+        rend="sup">-a</hi>[,] Wissmann, Zuppinger.</p>
+      <p>Unentschuldigt die Herren <hi rend="sup">a-</hi>Frick<hi
+        rend="sup">-a</hi>, Meister, Schaufelberger Wald, Schneebeli, Sulzer, Weber
+        Rüti, <hi rend="sup">a-</hi>Winkler<hi
+        rend="sup">-a</hi>.</p>
+    </body>
+  </text>
+</TEI>

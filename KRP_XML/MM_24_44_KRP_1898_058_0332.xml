@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Verordnung betreffend den Verkehr mit Milch und Milchprodukten, Vorlage des
+          Regierungsrates zur Genehmigung.</title>
+				<respStmt>
+					<resp ref="#OCR/lsz" key="transcript">Transkript: OCR/lsz<date when="2011-09-28">28.09.2011</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2011</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Kantonsratsprotokolle seit 1803 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl><title>Verordnung betreffend den Verkehr mit Milch und Milchprodukten, Vorlage
+            des Regierungsrates zur Genehmigung.</title><date when="1898-08-15">15.08.1898</date><ident>StAZH MM 24.44 KRP
+            1898/058/0332</ident><idno>358</idno><edition>Kantonsratsprotokolle seit
+            1803 online</edition><figure>
+						<graphic url="PDF_Dokumente/MM_24_44_KRP_1898_058_0332_p.pdf"/>
+					</figure><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3604240"/><listRelation><relation name="Fortsetzung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3604240" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3604336"/></listRelation></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<p><pb n="358"/>Der Regierungsrat legt eine Verordnung betreffend den Verkehr mit Milch
+        und Milchprodukten, datirt den 21. Juli 1998, zur Genehmigung vor.</p>
+			<p>Der Kantonsrat, auf den Antrag seines Vorsitzenden, beschliesst:</p>
+			<p>I. Ueberweisung an eine Kommission von 7 Mitgliedern, welche durch das, Bureau zu
+        wählen ist.</p>
+			<p>II. Derselben Kommission wird ein Antrag des Herrn Asper zur Behandlung übermittelt,
+        welcher lautet:</p>
+			<p>„Die Kommission hat zu untersuchen und Antrag zu stellen, ob nicht das Verbot
+        betreffend Verkauf von bezeichneter Marktmilch den gesetzlichen Bestimmungen der
+        Lebensmittelpolizei widerspreche. Wenn diese Frage verneint würde, ob nicht das
+        Feilbieten von andern künstlich erzeugten Lebensmitteln, welche die Landwirtschaft
+        im Allgemeinen schädigen, ebenfalls zu verbieten seien.“</p>
+		</body>
+	</text>
+</TEI>
