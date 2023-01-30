@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo" commit-id="c1bae2a1145664bce4f03f130cea5f96a7d24b29" commit-time="1675082775">
+  <description>Dieses Paket enthält die Daten für die Rechtsquellen des Kantons Zürich</description>
+  <author/>
+  <website/>
+  <status>alpha</status>
+  <license>GNU-LGPL</license>
+  <copyright>true</copyright>
+  <type>application</type>
+  <target>zszh-data</target>
+  <prepare>pre-install.xql</prepare>
+  <finish>post-install.xql</finish>
+  <permissions user="zszh" group="tei" password="zszh" mode="rw-rw-r--"/>
+</meta>
