@@ -12,5 +12,5 @@ declare variable $dir external;
 declare variable $target external;
 
 xmldb:create-collection($target, "temp"),
-sm:chown(xs:anyURI($target || "/temp"), "rqzh"),
+sm:chown(xs:anyURI($target || "/temp"), "zszh"),
 sm:chgrp(xs:anyURI($target || "/temp"), "tei")

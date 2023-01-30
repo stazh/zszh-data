@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project default="xar" name="rqzh">
+<project default="xar" name="zszh">
   <xmlproperty file="expath-pkg.xml"/>
   <property name="project.version" value="${package(version)}"/>
-  <property name="project.app" value="rqzh-data"/>
+  <property name="project.app" value="zszh-data"/>
   <property name="build.dir" value="build"/>
   <property name="git.repo.path" value="${basedir}/.git"/>
   <available file="${git.repo.path}" type="dir" property="git.present"/>

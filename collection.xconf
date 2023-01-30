@@ -27,7 +27,7 @@
                 <field name="keyword" expression="nav:get-metadata(ancestor::tei:TEI, 'keyword')"/>
 
                 <field name="language" expression="nav:get-metadata(ancestor::tei:TEI, 'language')"/>
-                <field name="corpus" expression="'rqzh'"/>
+                <field name="corpus" expression="'zszh'"/>
 
                 <field name="date" expression="nav:get-metadata(ancestor::tei:TEI, 'date')"/>
                 <field name="file" expression="util:document-name(.)"/-->
