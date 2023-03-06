@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Vollzugsverordnung zur eidgenössischen Epidemiengesetzgebung (Änderung) (vom <date when="1995-12-20">20. Dezember 1995)</date></title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_131_r21"/>Vollzugsverordnung<lb facs="#facs_131_r22"/>zur eidgenössischen Epidemiengesetzgebung<lb facs="#facs_131_r23"/>(Änderung)<lb facs="#facs_131_r24"/>(vom <date when="1995-12-20">20. Dezember 1995)</date></head>
+			<p>
+				<lb facs="#facs_131_r26"/>Der Regierungsrat beschliesst:</p>
+			<p>
+				<lb facs="#facs_131_r27"/>I. Die Vollzugsverordnung zur eidgenössischen Epidemienge<lb break="no" facs="#facs_131_r28"/>setzgebung vom <date when="1975-03-19">19. März 1975</date> wird wie folgt geändert:</p>
+			<p>
+				<lb facs="#facs_131_r34"/>§ 6. Der Kanton ermöglicht im Rahmen der Massnahmen zur<lb facs="#facs_131_r35"/>Verhütung der Weiterverbreitung der Tuberkulose den Kantons<lb break="no" facs="#facs_131_r36"/>einwohnern die unentgeltliche Tuberkulinprobe und BCG-Impfung.</p>
+			<p>
+				<lb facs="#facs_131_r37"/>Sind im Rahmen einer vom Kantonsarzt angeordneten Impfkam<lb break="no" facs="#facs_131_r38"/>pagne zum Schutze der Gesamtbevölkerung oder von Teilen der</p>
+			<pb n="132" facs="#facs_132"/>
+			<fw type="pageNum" place="top-left">
+				<lb facs="#facs_132_r0"/>130</fw>
+			<p>
+				<lb facs="#facs_132_r1"/>Bevölkerung andere Reihenimpfungen durchzuführen, übernimmt der<lb facs="#facs_132_r2"/>Kanton die Kosten.</p>
+			<p>
+				<lb facs="#facs_132_r3"/>Jeder praxisberechtigte Arzt kann auf Kosten des Kantons impfen.<lb facs="#facs_132_r4"/>Die Direktion des Gesundheitswesens kann auch andere geeignete<lb facs="#facs_132_r5"/>Stellen dazu ermächtigen.</p>
+			<p>
+				<lb facs="#facs_132_r8"/>§ 7. Die Kantonsapotheke liefert den im Kanton praxisberechtig<lb break="no" facs="#facs_132_r9"/>ten Ärzten und den anderen ermächtigten Impfstellen unentgeltlich<lb facs="#facs_132_r10"/>Impfstoffe, welche gemäss § 6 benötigt werden.</p>
+			<p>
+				<lb facs="#facs_132_r11"/>Abs. 2 unverändert.</p>
+			<p>
+				<lb facs="#facs_132_r15"/>§ 8. Für Impfungen gemäss § 6 - ausser für die Verabreichung von<lb facs="#facs_132_r16"/>oralen Impfstoffen - richtet der Kanton den Impfstellen folgende<lb facs="#facs_132_r17"/>Entschädigungen aus:</p>
+			<table>
+				<row>
+					<cell>1.</cell>
+					<cell>bei Impfungen im Sprechzimmer des Arztes:für jede Impfungfür jede Tuberkulinprobe (Mantoux)</cell>
+					<cell>Fr. 12.00Fr. 5.50</cell>
+				</row>
+				<row>
+					<cell>2.</cell>
+					<cell>bei Impfungen ausserhalb des Sprechzimmers des Arztes:für jede Impfungfür jede Tuberkulinprobe (Mantoux)</cell>
+					<cell>Fr. 7.50Fr. 3.50</cell>
+				</row>
+			</table>
+			<p>
+				<lb facs="#facs_132_r33"/>§ 9. Ärzte, die zu besonderen vom Kantonsarzt angeordneten<lb facs="#facs_132_r34"/>Impfkampagnen zugezogen werden, erhalten vom Staat eine pauschale<lb facs="#facs_132_r35"/>Entschädigung von Fr. 120 je Stunde.</p>
+			<p>
+				<lb facs="#facs_132_r36"/>§ 10. Dem Geimpften darf keine Rechnung gestellt werden:<lb facs="#facs_132_r37"/>Ziff. 1 unverändert.</p>
+			<p>
+				<lb facs="#facs_132_r38"/>2. für Impfungen, die dem Kanton verrechnet werden oder mit<lb facs="#facs_132_r39"/>Impfstoff erfolgen, den die Kantonsapotheke unentgeltlich geliefert<lb facs="#facs_132_r40"/>hat.</p>
+			<p>
+				<lb facs="#facs_132_r41"/>II. Diese Änderung tritt am <date when="1996-01-01">1. Januar 1996</date> in Kraft.</p>
+			<p>
+				<lb facs="#facs_132_r44"/>III. Veröffentlichung in der Gesetzessammlung.</p>
+			<closer>
+				<dateline>
+					<lb facs="#facs_132_r45"/>Zürich, den <date when="1995-12-20">20. Dezember 1995</date></dateline>
+				<salute>
+					<lb facs="#facs_132_r47"/>Im Namen des Regierungsrates</salute>
+				<signed>
+					<lb facs="#facs_132_r48"/>Der Präsident:<lb facs="#facs_132_r49"/>Homberger</signed>
+				<signed>
+					<lb facs="#facs_132_r50"/>Der Staatsschreiber:<lb facs="#facs_132_r51"/>Husi</signed>
+			</closer>
+			<pb n="133" facs="#facs_133"/>
+			<fw type="pageNum" place="top-right">
+				<lb facs="#facs_133_r0"/>131</fw>
+		</body></text></TEI>

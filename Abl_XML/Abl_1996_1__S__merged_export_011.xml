@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Ersatzwahl in die evangelisch-reformierte Kirchensynode im Synodalwahlkreis XVIII</title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_22_r1"/>Ersatzwahl<lb facs="#facs_22_r2"/>in die evangelisch-reformierte Kirchensynode<lb facs="#facs_22_r3"/>im Synodalwahlkreis XVIII</head>
+			<p>
+				<lb facs="#facs_22_r4"/>Im Synodalwahlkreis XVIII (Winterthur-Land, Gemeinden des<lb facs="#facs_22_r5"/>Bezirks Winterthur ohne Stadt Winterthur) ist die Ersatzwahl für den<lb facs="#facs_22_r6"/>zurückgetretenen Synodalen Peter Müller, Gladiolenstr. 1, 8472 Seu<lb break="no" facs="#facs_22_r7"/>zach, vorzunehmen.</p>
+			<p>
+				<lb facs="#facs_22_r8"/>Auf die Ausschreibung vom <date when="1995-10-27">27. Oktober 1995</date> im kantonalen<lb facs="#facs_22_r11"/>Amtsblatt hin ist der Direktion des Innern innert der gesetzlich<lb facs="#facs_22_r12"/>angeordneten Frist der nachstehende Wahlvorschlag eingereicht wor<lb break="no" facs="#facs_22_r13"/>den. Er wird in Anwendung von § 55 Abs. 2 des Gesetzes über Wahlen<lb facs="#facs_22_r14"/>und Abstimmungen (Wahlgesetz) vom <date when="1983-09-04">4. September 1983</date> bekannt<lb break="no" facs="#facs_22_r17"/>gemacht.<lb facs="#facs_22_r18"/>Ursula Sigg-Suter, 1948, lic. phil. I,<lb facs="#facs_22_r19"/>Büelstrasse 41, 8474 Dinhard.</p>
+			<p>
+				<lb facs="#facs_22_r20"/>Der eingebrachte Wahlvorschlag kann bis am <date when="1996-01-12">12. Januar 1996</date><lb facs="#facs_22_r22"/>geändert oder zurückgezogen werden. Auch können der Direktion des<lb facs="#facs_22_r23"/>Innern, Abteilung Abstimmungen und Wahlen, Bleicherweg 5, 8090<lb facs="#facs_22_r24"/>Zürich, bis zu diesem Datum weitere Wahlvorschläge eingereicht<lb facs="#facs_22_r25"/>werden. Jeder Wahlvorschlag muss von mindestens 15 der evangelisch<lb break="no" facs="#facs_22_r26"/>reformierten Landeskirche des Kantons Zürich angehörenden Stimm<lb break="no" facs="#facs_22_r27"/>berechtigten, die im Synodalwahlkreis XVIII politischen Wohnsitz<lb facs="#facs_22_r28"/>haben, unterzeichnet sein. Die Mitglieder der französischen Kirch<lb break="no" facs="#facs_22_r29"/>gemeinschaften sind bei dieser Wahl vom Stimmrecht ausgeschlossen.<lb facs="#facs_22_r30"/>Für die Unterzeichner eines Wahlvorschlags sind Namen, Vornamen,<lb facs="#facs_22_r31"/>Geburtsjahr und genaue Adresse erforderlich. Die oder der Vorgeschla<lb break="no" facs="#facs_22_r32"/>gene muss mit Namen und Vornamen, Geburtsjahr, Beruf und genauer<lb facs="#facs_22_r33"/>Adresse bezeichnet sein.</p>
+			<p>
+				<lb facs="#facs_22_r34"/>Sollte nach dieser siebentägigen Nachfrist nur ein Wahlvorschlag<lb facs="#facs_22_r35"/>bestehen, würde der oder die Vorgeschlagene durch die Direktion des<lb facs="#facs_22_r36"/>Innern als gewählt erklärt (Stille Wahl).</p>
+			<closer>
+				<dateline>
+					<lb facs="#facs_22_r37"/>Zürich, den <date when="1996-01-05">5. Januar 1996</date></dateline>
+				<signed>
+					<lb facs="#facs_22_r39"/>Direktion des Innern<lb facs="#facs_22_r40"/>Der Stellvertreter</signed>
+				<signed>
+					<lb facs="#facs_22_r41"/>Honegger</signed>
+			</closer>
+			<pb n="23" facs="#facs_23"/>
+			<fw type="pageNum" place="top-right">
+				<lb facs="#facs_23_r0"/>21</fw>
+		</body></text></TEI>

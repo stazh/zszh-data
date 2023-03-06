@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Beschluss des Kantonsrates über die Erwahrung der Ergebnisse des zweiten Wahlganges der Erneuerungswahl eines zürcherischen Mitglieds des Ständerates für die Amtsdauer 1995-1999 vom <date when="1995-11-26">26. November 1995</date> (vom <date when="1996-01-08">8. Januar 1996)</date></title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_104_r1"/>Beschluss des Kantonsrates<lb facs="#facs_104_r2"/>über die Erwahrung der Ergebnisse des zweiten<lb facs="#facs_104_r3"/>Wahlganges der Erneuerungswahl eines zürcherischen<lb facs="#facs_104_r4"/>Mitglieds des Ständerates für die Amtsdauer 1995-1999<lb facs="#facs_104_r5"/>vom <date when="1995-11-26">26. November 1995</date><lb facs="#facs_104_r7"/>(vom <date when="1996-01-08">8. Januar 1996)</date></head>
+			<p>
+				<lb facs="#facs_104_r9"/>Der Kantonsrat,</p>
+			<p>
+				<lb facs="#facs_104_r10"/>nach Einsichtnahme in den am <date when="1995-12-15">15. Dezember 1995</date> im Amtsblatt,<lb facs="#facs_104_r13"/>Textteil, Seite 2401 ff. veröffentlichten Beschluss des Büros des Kantons<lb break="no" facs="#facs_104_r14"/>rates vom <date when="1995-12-07">7. Dezember 1995</date> über die Ergebnisse des zweiten<lb facs="#facs_104_r17"/>Wahlganges der Erneuerungswahl eines zürcherischen Mitglieds des<lb facs="#facs_104_r18"/>Ständerates für die Amtsdauer 1995-1999 vom <date when="1995-11-26">26. November 1995</date> und<lb facs="#facs_104_r21"/>nach Vormerknahme, dass innerhalb der angesetzten Frist keine<lb facs="#facs_104_r22"/>Einsprache eingereicht worden ist,<lb facs="#facs_104_r23"/>beschliesst:</p>
+			<p>
+				<lb facs="#facs_104_r24"/>I. Die Ständerätin Vreni Spoerry, Horgen, wird als gewählt<lb facs="#facs_104_r25"/>erklärt.</p>
+			<p>
+				<lb facs="#facs_104_r26"/>II. Mitteilung an den Regierungsrat.</p>
+			<closer>
+				<salute>
+					<lb facs="#facs_104_r27"/>Im Namen des Kantonsrates</salute>
+				<signed>
+					<lb facs="#facs_104_r28"/>Der Präsident:<lb facs="#facs_104_r29"/>Markus Kägi</signed>
+				<signed>
+					<lb facs="#facs_104_r30"/>Der Sekretär:<lb facs="#facs_104_r31"/>Thomas Dähler</signed>
+			</closer>
+		</body></text></TEI>

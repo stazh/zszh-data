@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Gesetz über das Vorschlagsrecht des Volkes und Gesetz über die Organisation und die Geschäftsordnung des Kantonsrates (Kantonsratsgesetz) (Inkraftsetzung) (vom <date when="1995-12-18">18. Dezember 1995)</date></title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_5_r12"/>Gesetz über das Vorschlagsrecht des Volkes<lb facs="#facs_5_r13"/>und Gesetz über die Organisation und die<lb facs="#facs_5_r14"/>Geschäftsordnung des Kantonsrates (Kantonsratsgesetz)<lb facs="#facs_5_r15"/>(Inkraftsetzung)<lb facs="#facs_5_r16"/>(vom <date when="1995-12-18">18. Dezember 1995)</date></head>
+			<p>
+				<lb facs="#facs_5_r18"/>Der Kantonsrat,<lb facs="#facs_5_r19"/>nach Einsichtnahme in einen Antrag seines Büros,</p>
+			<p>
+				<lb facs="#facs_5_r20"/>beschliesst:</p>
+			<p>
+				<lb facs="#facs_5_r21"/>I. Die von den Stimmberechtigten am <date when="1995-09-24">24. September 1995</date><lb facs="#facs_5_r23"/>angenommene Änderung des Gesetzes über das Vorschlagsrecht des<lb facs="#facs_5_r24"/>Volkes (Initiativgesetz) sowie des Gesetzes über die Organisation und<lb facs="#facs_5_r25"/>die Geschäftsordnung des Kantonsrates (Kantonsratsgesetz) werden<lb facs="#facs_5_r26"/>auf <date when="1996-01-01">1. Januar 1996</date> in Kraft gesetzt.</p>
+			<p>
+				<lb facs="#facs_5_r29"/>II. Veröffentlichung im Amtsblatt und in der Gesetzessammlung.</p>
+			<closer>
+				<salute>
+					<lb facs="#facs_5_r30"/>Im Namen des Kantonsrates</salute>
+				<signed>
+					<lb facs="#facs_5_r31"/>Der Präsident:<lb facs="#facs_5_r32"/>Markus Kägi</signed>
+				<signed>
+					<lb facs="#facs_5_r33"/>Der Sekretär:<lb facs="#facs_5_r34"/>Thomas Dähler</signed>
+			</closer>
+			<pb n="6" facs="#facs_6"/>
+			<fw type="pageNum" place="top-left">
+				<lb facs="#facs_6_r0"/>4</fw>
+		</body></text></TEI>

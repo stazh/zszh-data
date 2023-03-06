@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Verfügung der Direktion des Innern über die Ersatzwahl in die evangelisch-reformierte Kirchensynode im Synodalwahlkreis XV (Pfäffikon) (vom <date when="1996-01-17">17. Januar 1996)</date></title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_134_r1"/>Verfügung der Direktion des Innern<lb facs="#facs_134_r2"/>über die Ersatzwahl in die evangelisch-reformierte<lb facs="#facs_134_r3"/>Kirchensynode im Synodalwahlkreis XV (Pfäffikon)<lb facs="#facs_134_r4"/>(vom <date when="1996-01-17">17. Januar 1996)</date></head>
+			<p>
+				<lb facs="#facs_134_r6"/>Auf die Veröffentlichung des Wahlvorschlages vom <date when="1996-01-05">5. Januar 1996</date><lb facs="#facs_134_r8"/>im kantonalen Amtsblatt hin sind der Direktion des Innern keine<lb facs="#facs_134_r9"/>weiteren Wahlvorschläge eingereicht worden. Damit sind die Voraus<lb break="no" facs="#facs_134_r10"/>setzungen für eine stille Wahl im Sinne von § 57 des Wahlgesetzes vom<lb facs="#facs_134_r11"/><date when="1983-09-04">4. September 1983</date> (WG) erfüllt.</p>
+			<p>
+				<lb facs="#facs_134_r13"/>In Anwendung der §§ 57 und 101 Abs. 1 WG<lb facs="#facs_134_r14"/>verfügt die Direktion des Innern:</p>
+			<p>
+				<lb facs="#facs_134_r15"/>I. Als Mitglied der evangelisch-reformierten Kirchensynode im<lb facs="#facs_134_r16"/>Synodalwahlkreis XV Pfäffikon (Gemeinden des Bezirks Pfäffikon) für<lb facs="#facs_134_r17"/>die verstorbene Synodale Käthi Villiger Waldvogel, Sternenberg, wird<lb facs="#facs_134_r18"/>für den Rest der Amtsdauer 1995-1999 als gewählt erklärt:<lb facs="#facs_134_r19"/>Willi Honegger, 1962, Pfarrer,<lb facs="#facs_134_r20"/>Wolfsbergstrasse 1, 8494 Bauma.</p>
+			<p>
+				<lb facs="#facs_134_r21"/>II. Beschwerden gegen diese Verfügung sind innert 20 Tagen, von<lb facs="#facs_134_r22"/>der Veröffentlichung im kantonalen Amtsblatt an gerechnet, an das<lb facs="#facs_134_r23"/>Sekretariat des Kirchenrates, Blaufahnenstrasse 10, 8001 Zürich,<lb facs="#facs_134_r24"/>zuhanden der Kirchensynode zu richten.</p>
+			<p>
+				<lb facs="#facs_134_r25"/>III. Veröffentlichung im Amtsblatt des Kantons Zürich, Textteil.</p>
+			<p>
+				<lb facs="#facs_134_r26"/>IV. Mitteilung an den Gewählten sowie an das Sekretariat des<lb facs="#facs_134_r27"/>Kirchenrates zuhanden der Kirchensynode, des Kirchenrates und der<lb facs="#facs_134_r28"/>Kirchenpflegen des Synodalwahlkreises XV.</p>
+			<closer>
+				<dateline>
+					<lb facs="#facs_134_r29"/>Zürich, den <date when="1996-01-17">17. Januar 1996</date></dateline>
+				<salute>
+					<lb facs="#facs_134_r31"/>Direktion des Innern<lb facs="#facs_134_r32"/>Der Stellvertreter:</salute>
+				<signed>
+					<lb facs="#facs_134_r33"/>Hofmann</signed>
+			</closer>
+			<pb n="135" facs="#facs_135"/>
+			<fw type="pageNum" place="top-right">
+				<lb facs="#facs_135_r0"/>133</fw>
+		</body></text></TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Weinbezeichnung und Mischungsverhältnisse in den einheitlichen Produktionsgebieten (Übergangsregelung) (vom <date when="1995-12-20">20. Dezember 1995)</date></title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_130_r38"/>Weinbezeichnung und Mischungsverhältnisse<lb facs="#facs_130_r39"/>in den einheitlichen Produktionsgebieten<lb facs="#facs_130_r40"/>(Übergangsregelung)<lb facs="#facs_130_r41"/>(vom <date when="1995-12-20">20. Dezember 1995)</date></head>
+			<p>
+				<lb facs="#facs_130_r43"/>Die Direktion der Volkswirtschaft verfügt:</p>
+			<p>
+				<lb facs="#facs_130_r44"/>I. Die bisherige - in der per Ende <date when="1995-06">Juni 1995</date> aufgehobenen<lb facs="#facs_130_r47"/>Vollzugsverordnung zur Bundesgesetzgebung über die Lebensmittel<lb facs="#facs_130_r48"/>und Gebrauchsgegenstände enthaltene - Regelung der Weinbezeich<lb break="no" facs="#facs_130_r49"/>nung und der Mischverhältnisse in den einheitlichen Produktionsgebie<lb break="no" facs="#facs_130_r50"/>ten wird bis zur Inkraftsetzung der neuen Rebbauverordnung aufrecht<lb break="no" facs="#facs_130_r51"/>erhalten. Sie lautet:</p>
+			<p>
+				<lb facs="#facs_130_r52"/>Weine mit ähnlichen Eigenschaften aus einheitlichen Produktions<lb break="no" facs="#facs_130_r53"/>gebieten verschiedener Gemeinden dürfen die Bezeichnung einer<lb facs="#facs_130_r54"/>dieser Gemeinden tragen.</p>
+			<p>
+				<lb facs="#facs_130_r55"/>Der Wein aus der Gemeinde, deren Name als Bezeichnung dient,<lb facs="#facs_130_r56"/>muss jedoch der Menge nach mindestens 60% betragen; Lagebezeich<lb break="no" facs="#facs_130_r57"/>nungen dürfen für solche Weine nicht verwendet werden.</p>
+			<p>
+				<lb facs="#facs_130_r58"/>Zu den nachstehend aufgeführten einheitlichen Produktionsgebie<lb break="no" facs="#facs_130_r59"/>ten im oben genannten Sinn gehören folgende Gemeinden:<lb facs="#facs_130_r60"/>Limmattal:</p>
+			<p>
+				<lb facs="#facs_130_r61"/>Höngg (Zürich), Oberengstringen, Untereng<lb break="no" facs="#facs_130_r62"/>stringen, Weiningen, Geroldswil, Oetwil a. d. L.<lb facs="#facs_130_r63"/>Zürichsee:</p>
+			<p>
+				<lb facs="#facs_130_r64"/>Zollikon, Küsnacht, Erlenbach, Herrliberg, Mei<lb break="no" facs="#facs_130_r65"/>len, Uetikon a. S ., Männedorf, Stäfa, Feldbach<lb facs="#facs_130_r66"/>(Hombrechtikon), Kilchberg, Wädenswil.</p>
+			<pb n="131" facs="#facs_131"/>
+			<fw type="pageNum" place="top-right">
+				<lb facs="#facs_131_r0"/>129</fw>
+			<p>
+				<lb facs="#facs_131_r1"/>Weinland:</p>
+			<p>
+				<lb facs="#facs_131_r2"/>Dinhard, Rickenbach, Dägerlen, Neftenbach,<lb facs="#facs_131_r3"/>Dättlikon, Winterthur, Pfungen, Wiesendangen,<lb facs="#facs_131_r4"/>Elsau, Hettlingen, Benken, Dachsen, Laufen-<lb facs="#facs_131_r5"/>Uhwiesen, Flurlingen, Trüllikon-Rudolfingen,<lb facs="#facs_131_r6"/>Marthalen, Adlikon, Buch a. I ., Henggart, Thal<lb break="no" facs="#facs_131_r7"/>heim, Ossingen, Humlikon, Truttikon, Andelfin<lb break="no" facs="#facs_131_r8"/>gen, Kleinandelfingen, Dorf, Flaach, Berg a. I .,<lb facs="#facs_131_r9"/>Volken, Oberstammheim, Unterstammheim,<lb facs="#facs_131_r10"/>Waltalingen-Guntalingen, Rheinau.<lb facs="#facs_131_r11"/>Rafz, Eglisau, Wil, Hüntwangen, Wasterkingen,<lb facs="#facs_131_r12"/>Bachenbülach, Bülach, Winkel, Embrach, Ober<lb break="no" facs="#facs_131_r13"/>embrach, Lufingen, Freienstein-Teufen, Rorbas,<lb facs="#facs_131_r14"/>Glattfelden, Kloten, Nürensdorf, Boppelsen,<lb facs="#facs_131_r15"/>Buchs, Otelfingen, Regensberg, Dielsdorf, Re<lb break="no" facs="#facs_131_r16"/>gensdorf, Steinmaur, Neerach, Stadel, Weiach.<lb facs="#facs_131_r17"/>II. Veröffentlichung im Amtsblatt.</p>
+			<p>
+				<lb facs="#facs_131_r18"/>Zürcher Unterland:</p>
+			<closer>
+				<salute>
+					<lb facs="#facs_131_r19"/>Direktion der Volkswirtschaft</salute>
+				<signed>
+					<lb facs="#facs_131_r20"/>Homberger</signed>
+			</closer>
+		</body></text></TEI>

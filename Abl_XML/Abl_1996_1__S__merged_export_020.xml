@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>DER KANTONSRAT DES EIDGENÖSSISCHEN STANDES ZÜRICH</title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_41_r1"/>DER KANTONSRAT<lb facs="#facs_41_r2"/>DES EIDGENÖSSISCHEN STANDES ZÜRICH</head>
+			<p>
+				<lb facs="#facs_41_r3"/>EINLADUNG<lb facs="#facs_41_r4"/>zur 35. Sitzung auf Montag, <date when="1996-01-15">15. Januar 1996,</date> 8.15 Uhr, ins Rathaus in<lb facs="#facs_41_r7"/>Zürich</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_41_r8"/>Verhandlungsgegenstände:</head>
+				<table>
+					<row>
+						<cell>1.</cell>
+						<cell>Mitteilungen</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell>2.</cell>
+						<cell>Eintritt eines neuen Ratsmitglieds für die zurückgetretene IrèneMeier, Küsnacht</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell>3.</cell>
+						<cell>Postulat Christoph Schürch, Winterthur, und Roland Brunner,Rheinau, vom<date when="1995-03-13">13. März 1995</date>betreffend Zentrierung der KlinikRheinau in eine Psychiatrie-Region Weinland-Südwürttemberg(schriftlich begründet)KR-Nr. 70/1995, Entgegennahme</cell>
+						<cell>G</cell>
+					</row>
+					<row>
+						<cell>4.</cell>
+						<cell>Motion Franziska Frey-Wettstein, Zürich, Dr. Doris Weber, Zürich,und Thomas Isler, Rüschlikon, vom<date when="1995-06-26">26. Juni 1995</date>betreffendEinreichung einer Standesinitiative zwecks gesetzlicher Neuregelung von Cannabisprodukten (schriftlich begründet)KR-Nr. 153/1995, Entgegennahme</cell>
+						<cell>G</cell>
+					</row>
+					<row>
+						<cell>5.</cell>
+						<cell>Motion Prof. Kurt Schellenberg, Wetzikon, und Mitunterzeichnende vom<date when="1995-06-12">12. Juni 1995</date>betreffend Änderung des Wahlgesetzesbetreffend Urnenwahl (schriftlich begründet)KR-Nr. 139/1995, Entgegennahme</cell>
+						<cell>I</cell>
+					</row>
+					<row>
+						<cell>6.</cell>
+						<cell>Motion Dr. Balz Hösly, Zürich, und Dr. Lukas Briner, Uster, vom<date when="1995-10-02">2. Oktober 1995</date>betreffend Definition und Ablösung der «historischen Rechtstitel» (schriftlich begründet)KR-Nr. 251/1995, Entgegennahme</cell>
+						<cell>I</cell>
+					</row>
+					<row>
+						<cell>7.</cell>
+						<cell>Fristerstreckung zur Behördeninitiative des Grossen Gemeinderates Winterthur betreffend kantonale Beiträge an überkommunaleStrassen (Antrag des Regierungsrates vom<date when="1995-10-04">4. Oktober 1995</date>undgleichlautender Antrag der Geschäftsprüfungskommission vom<date when="--10">10.</date><date when="1995-11">November 1995)</date>KR-Nr. 34/1994</cell>
+						<cell>B</cell>
+					</row>
+					<row>
+						<cell>8.</cell>
+						<cell>Postulat KR-Nr. 97/1992 betreffend Ortsdurchfahrt Eglisau, Massnahmen zur Entlastung der Anwohner (Bericht und Antrag des</cell>
+						<cell/>
+					</row>
+				</table>
+				<note>
+					<lb facs="#facs_41_r61"/>* Aus dem Kantonsrat ausgeschieden.</note>
+				<pb n="42" facs="#facs_42"/>
+				<fw type="pageNum" place="top-left">
+					<lb facs="#facs_42_r0"/>40</fw>
+				<table>
+					<row>
+						<cell/>
+						<cell>Regierungsrates vom<date when="1995-06-07">7. Juni 1995</date>und gleichlautender Antrag derKommission vom<date when="1995-11-09">9. November 1995)</date>3452</cell>
+						<cell>B</cell>
+					</row>
+					<row>
+						<cell>9.</cell>
+						<cell>Motion Hansjörg Schmid, Dinhard, Werner Schwendimann,Stammheim, und Richard Weilenmann, Buch a. I ., vom<date when="--09-25">25. Sep</date><date when="1995">tember 1995</date>betreffend Abgeltung der Folgeschäden durch Revitalisierungsmassnahmen (schriftlich begründet)KR-Nr. 234/1995, RRB-Nr. 3379/15. 11.<date when="1995">1995</date>(Stellungnahme)</cell>
+						<cell>B</cell>
+					</row>
+					<row>
+						<cell>10.</cell>
+						<cell>Motion Christoph Schürch, Winterthur, und Roland Brunner,Rheinau, vom<date when="1995-03-13">13. März 1995</date>betreffend Umwandlung des Bettenhauses II des Kantonsspitals Winterthur (KSW) in eine geriatrischeÜbergangspflegestation und eine gerontopsychiatrische Abklärungsstation (Assessment unit) (schriftlich begründet)KR-Nr. 68/1995, RRB-Nr. 2581/23.8. 1995 (Stellungnahme)</cell>
+						<cell>G</cell>
+					</row>
+					<row>
+						<cell>11.</cell>
+						<cell>Postulat Christoph Schürch, Winterthur, und Roland Brunner,Rheinau, vom 13.<date when="1995-03">März 1995</date>betreffend Eingliederung vongerontopsychiatrisch erkrankten Langzeitpatienten und -patientinnen in ihre Wohngemeinde (schriftlich begründet)KR-Nr. 69/1995, RRB-Nr. 2582/23.8. 1995 (Stellungnahme)</cell>
+						<cell>G</cell>
+					</row>
+					<row>
+						<cell>12.</cell>
+						<cell>Interpellation Christoph Schürch, Winterthur, und Dr. RuthGurny Cassee, Maur, vom<date when="1995-09-11">11. September 1995</date>betreffend Formulierung von Ausschlusskriterien für die Behandlung von Patientinnenund Patienten und Rationierung medizinischer und pflegerischerLeistungen an Zürcher Spitälern (schriftlich begründet)</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell/>
+						<cell>KR-Nr. 213/1995, RRB-Nr. 3322/8. 11. 1995</cell>
+						<cell>G</cell>
+					</row>
+					<row>
+						<cell>13.</cell>
+						<cell>Motion Thomas Büchi, Zürich, vom<date when="1995-01-30">30. Januar 1995</date>betreffendÄnderung der Bestimmungen über den Konsumkredit (schriftlichbegründet)KR-Nr. 32/1995, RRB-Nr. 3600/6. 12.<date when="1995">1995</date>(Stellungnahme)</cell>
+						<cell>V</cell>
+					</row>
+					<row>
+						<cell>14.</cell>
+						<cell>Interpellation Prof. Dr. Richard Hirt, Fällanden, und WillyGermann, Winterthur, vom<date when="1995-06-19">19. Juni 1995</date>betreffend Hochgeschwindigkeitsbahnverbindungen nach Stuttgart, München und Wien(schriftlich begründet)KR-Nr. 149/1995, RRB-Nr. 2294/26. 7.1995</cell>
+						<cell>V</cell>
+					</row>
+					<row>
+						<cell>15.</cell>
+						<cell>Postulat Daniel Schloeth, Zürich, vom<date when="1995-08-21">21. August 1995</date>betreffendden Boykott von Produkten und Dienstleistungen aus Frankreich(schriftlich begründet)KR-Nr. 182/1995, RRB-Nr. 2969/4.10.1995 (Stellungnahme)</cell>
+						<cell>V</cell>
+					</row>
+					<row>
+						<cell>16.</cell>
+						<cell>Interpellation Willy Germann, Winterthur, Helen Kunz, Opfikon,und Kurt Schreiber, Wädenswil, vom<date when="1995-09-04">4. September 1995</date>betreffendAlternativen zum Brüttenertunnel (schriftlich begründet)KR-Nr. 203/1995, RRB-Nr. 3120/18. 10. 1995</cell>
+						<cell>V</cell>
+					</row>
+				</table>
+				<pb n="43" facs="#facs_43"/>
+				<fw type="pageNum" place="top-right">
+					<lb facs="#facs_43_r0"/>41</fw>
+				<table>
+					<row>
+						<cell>17.</cell>
+						<cell>Interpellation Daniel Vischer, Zürich, vom<date when="1995-09-18">18. September 1995</date>betreffend den Abbau von 1600 Stellen bei der Swissair (schriftlichbegründet)KR-Nr. 225/1995, RRB-Nr. 3321/8. 11. 1995</cell>
+						<cell>V</cell>
+					</row>
+					<row>
+						<cell>18.</cell>
+						<cell>Postulat Remo Patroni, Uster, und Bruno Bösel, Richterswil, vom<date when="1995-02-13">13. Februar 1995</date>betreffend Gewährung von humanitären Aufenthaltsbewilligungen (schriftlich begründet)KR-Nr. 40/1995, RRB-Nr. 1083/12. 4.<date when="1995">1995</date>(Stellungnahme)</cell>
+						<cell>P</cell>
+					</row>
+					<row>
+						<cell>19.</cell>
+						<cell>Motion Renata Huonker, Zürich, und Christoph Schürch, Winterthur, vom<date when="1995-07-10">10. Juli 1995</date>betreffend Aufenthaltsrechte von Ex-Ehepartnerinnen und -partnern von Schweizer Bürgern undBürgerinnen sowie von Gogo-Tänzerinnen (schriftlich begründet)KR-Nr. 172/1995, RRB-Nr. 2898/27.9.1995 (Stellungnahme)</cell>
+						<cell>P</cell>
+					</row>
+					<row>
+						<cell>20.</cell>
+						<cell>Interpellation Hans Fehr, Eglisau, Ernst Schibli, Otelfingen, undWerner Schwendimann, Oberstammheim, vom<date when="1995-09-25">25. September 1995</date>betreffend Massnahmen gegen unbewilligte Demonstrationen undAusschreitungen (schriftlich begründet)KR-Nr. 237/1995, RRB-Nr. 3437/22. 11. 1995</cell>
+						<cell>P</cell>
+					</row>
+					<row>
+						<cell>21.</cell>
+						<cell>Motion Hans Peter Amstutz, Fehraltorf, und Mitunterzeichnendevom<date when="1995-01-19">19. Januar 1995</date>betreffend Reform der Oberstufe derVolksschule (schriftlich begründet)KR-Nr. 24/1995, Entgegennahme als Postulat, Diskussion</cell>
+						<cell>E</cell>
+					</row>
+					<row>
+						<cell>22.</cell>
+						<cell>Motion Dr. Ueli Mägli, Zürich, und Mitunterzeichnende vom 28.<date when="1995-08">August 1995</date>betreffend Aufwertung der Erziehungsdirektion durchdie Integration der Berufsbildung (schriftlich begründet)KR-Nr. 196/1995, Entgegennahme, Diskussion</cell>
+						<cell>E</cell>
+					</row>
+					<row>
+						<cell>23.</cell>
+						<cell>Postulat Liliane Waldner, Zürich, und Dr. Ueli Mägli, Zürich, vom<date when="1995-09-11">11. September 1995</date>betreffend Heraufsetzung der Altersgrenze beiAusbildungsbeiträgen auf 45 Jahre (schriftlich begründet)KR-Nr. 212/1995, RRB-Nr. 3187/24.10.1995 (Stellungnahme)</cell>
+						<cell>E</cell>
+					</row>
+					<row>
+						<cell>24.</cell>
+						<cell>Postulat Dr. Werner Hegetschweiler, Langnau a. A ., FranziskaTroesch-Schnyder, Zollikon, und Dr. Jean-Jacques Bertschi, Wettswil a. A ., vom<date when="1995-09-18">18. September 1995</date>betreffend Finanzierung derStütz- und Fördermassnahmen in der Volksschule (schriftlichbegründet)KR-Nr. 223/1995, RRB-Nr. 3443/22. 11.<date when="1995">1995</date>(Stellungnahme)</cell>
+						<cell>E</cell>
+					</row>
+					<row>
+						<cell>25.</cell>
+						<cell>Postulat Mario Fehr, Adliswil, und Dr. Markus Notter, Dietikon,vom<date when="1995-09-04">4. September 1995</date>betreffend Einrichtung einer kantonalenFachstelle für die Beziehungen zum Bund und für Fragen derBundespolitik (schriftlich begründet)KR-Nr. 201/1995, Entgegennahme, Diskussion</cell>
+						<cell>F</cell>
+					</row>
+				</table>
+				<pb n="44" facs="#facs_44"/>
+				<fw type="pageNum" place="top-left">
+					<lb facs="#facs_44_r0"/>42</fw>
+				<table>
+					<row>
+						<cell>26.</cell>
+						<cell>Motion Willy Spieler, Küsnacht, Mario Fehr, Adliswil, undGabrielle Keller, Turbenthal, vom<date when="1995-10-09">9. Oktober 1995</date>betreffendKirchensteuer für juristische Personen (schriftlich begründet)KR-Nr. 260/1995, Entgegennahme, Diskussion</cell>
+						<cell>F</cell>
+					</row>
+					<row>
+						<cell>27.</cell>
+						<cell>Interpellation Hans-Peter Portmann, Zürich, und Germain Mittaz,Dietikon, vom<date when="1995-10-09">9. Oktober 1995</date>betreffend Bezifferung offenerRisiken und damit verbundenem Verlustpotential bei der ZürcherKantonalbank ZKB (schriftlich begründet)KR-Nr. 262/1995, RRB-Nr. 3439/22. 11. 1995</cell>
+						<cell>F</cell>
+					</row>
+					<row>
+						<cell>28.</cell>
+						<cell>Postulat Erwin Kupper *, Glattfelden, und Peter Grau, Zürich, vom<date when="1994-07-04">4. Juli 1994</date>betreffend Pilotversuch für eine drogenfreie StrafanstaltPöschwies-Regensdorf (schriftlich begründet)KR-Nr. 208/1994, RRB-Nr. 2347/3.8.1994 (Stellungnahme)</cell>
+						<cell>Jz</cell>
+					</row>
+					<row>
+						<cell>29.</cell>
+						<cell>Motion Willy Haderer, Unterengstringen, Kurt Krebs, Zürich, undAnnelies Schneider-Schatz, Bäretswil, vom<date when="1994-07-11">11. Juli 1994</date>betreffendTeilprivatisierung im Strafvollzug (schriftlich begründet)KR-Nr. 221/1994, Entgegennahme als Postulat, Diskussion</cell>
+						<cell>Jz</cell>
+					</row>
+					<row>
+						<cell>30.</cell>
+						<cell>Postulat Peter Reinhard, Kloten, Lucius Dürr, Zürich, und HelenKunz, Opfikon, vom<date when="1994-07-11">11. Juli 1994</date>betreffend Sitz und Liegenschaftenzuweisung für kantonale Gerichte durch den Regierungsrat(schriftlich begründet)KR-Nr. 225/1994, Entgegennahme, Diskussion</cell>
+						<cell>Jz</cell>
+					</row>
+					<row>
+						<cell>31.</cell>
+						<cell>Postulat Hans Peter Amstutz, Fehraltorf, vom<date when="1994-08-29">29. August 1994</date>betreffend Prüfung eines behördlichen Einweisungsstopps fürDrogenabhängige in Drogenentzugsstationen der Organisation «LePatriarche» (schriftlich begründet)KR-Nr. 265/1994, RRB-Nr. 227/18.1.1995 (Stellungnahme)</cell>
+						<cell>Jz</cell>
+					</row>
+					<row>
+						<cell>32.</cell>
+						<cell>Postulat Paul Zweifel, Zürich, Annelies Schneider-Schatz, Bäretswil, und Markus Kägi, Niederglatt, vom<date when="1994-10-03">3. Oktober 1994</date>betreffendWeisungen an die Vormundschaftsbehörden über die Handhabungdes fürsorgerischen Freiheitsentzuges (schriftlich begründet)KR-Nr. 302/1994, RRB-Nr. 162/11.1.1995 (Stellungnahme)</cell>
+						<cell>Jz</cell>
+					</row>
+					<row>
+						<cell>33.</cell>
+						<cell>Postulat Theo Schaub, Zürich, und Dr. Robert Chanson, Zürich,vom<date when="1994-12-19">19. Dezember 1994</date>betreffend Zusammenlegung der statistischen Ämter von Stadt und Kanton (schriftlich begründet)KR-Nr. 419/1994, RRB-Nr. 1218/26. 4.<date when="1995">1995</date>(Stellungnahme)</cell>
+						<cell>I</cell>
+					</row>
+					<row>
+						<cell>34.</cell>
+						<cell>Interpellation Thomas Dähler, Zürich, und Max Moser *, Meilen,vom<date when="1995-01-09">9. Januar 1995</date>betreffend Totalrevision der Kantonsverfassung(schriftlich begründet)KR-Nr. 5/1995, RRB-Nr. 693/8.3.1995</cell>
+						<cell>I</cell>
+					</row>
+				</table>
+				<pb n="45" facs="#facs_45"/>
+				<fw type="pageNum" place="top-right">
+					<lb facs="#facs_45_r0"/>43</fw>
+				<table>
+					<row>
+						<cell>35.</cell>
+						<cell>Motion Urs-Christoph Dieterle *, Uster, und Mitunterzeichnendevom<date when="1994-08-22">22. August 1994</date>betreffend Änderung der Kantonsverfassung(Einsetzung eines Verfassungsrates) (schriftlich begründet)KR-Nr. 242/1994, Entgegennahme, Diskussion</cell>
+						<cell>I</cell>
+					</row>
+					<row>
+						<cell>36.</cell>
+						<cell>Postulat Roland Brunner, Rheinau, und Thomas Dähler, Zürich,vom<date when="1995-01-16">16. Januar 1995</date>betreffend Schaffung von Wahlkreisverbändenbei den Kantonsratswahlen (schriftlich begründet)KR-Nr. 14/1995, Entgegennahme, Diskussion</cell>
+						<cell>I</cell>
+					</row>
+					<row>
+						<cell>37.</cell>
+						<cell>Postulat Anjuska Weil, Zürich, vom<date when="1995-03-27">27. März 1995</date>betreffendvereinfachte Einbürgerung junger Ausländerinnen und Ausländer(schriftlich begründet)KR-Nr. 90/1995, Entgegennahme, Diskussion</cell>
+						<cell>I</cell>
+					</row>
+					<row>
+						<cell>38.</cell>
+						<cell>Parlamentarische Initiative Dr. Ruth Gurny Cassee, Maur, WillySpieler, Küsnacht, und Ruedi Winkler, Zürich, vom<date when="1995-03-06">6. März 1995</date>betreffend garantiertes Mindesteinkommen für Langzeitarbeitslose(schriftlich begründet)KR-Nr. 59/1995</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell>39.</cell>
+						<cell>Parlamentarische Initiative Dr. Bernhard Gubler, Pfäffikon, undDorothée Fierz, Egg, vom<date when="1995-09-04">4. September 1995</date>betreffend Genehmigung der Spitalliste durch den Kantonsrat (schriftlich begründet)KR-Nr. 200/1995</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell>40.</cell>
+						<cell>Parlamentarische Initiative Astrid Kugler, Zürich, und AntonSchaller, Zürich, vom<date when="1995-09-25">25. September 1995</date>betreffend Änderung derKantonsverfassung (schriftlich begründet)KR-Nr. 231/1995</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell>41.</cell>
+						<cell>Parlamentarische Initiative Thomas Dähler, Zürich, Dr. JörgRappold, Küsnacht, und Christian Bretscher, Birmensdorf, vom<date when="--12">12.</date><date when="1995-12">Dezember 1995</date>betreffend Verfassungs- und Gesetzesänderungenfür die Einsetzung eines Verfassungsrates (schriftlich begründet)KR-Nr. 339/1995</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell>42.</cell>
+						<cell>Einzelinitiative Paul Eduard Schenker, Zollikerberg, vom<date when="1995-09-28">28. September 1995</date>betreffend Beschluss für die Erstellung einervierspurigen, unterirdischen Verbindung zwischen den Autobahnen N3 und N 1KR-Nr. 266/1995</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell>43.</cell>
+						<cell>Einzelinitiative Peter Schäppi, Thalwil, vom<date when="1995-10-03">3. Oktober 1995</date>betreffend Einführung des fakultativen Gesetzesreferendums (Änderung der Kantonsverfassung)KR-Nr. 267/1995</cell>
+						<cell/>
+					</row>
+				</table>
+				<pb n="46" facs="#facs_46"/>
+				<fw type="pageNum" place="top-left">
+					<lb facs="#facs_46_r0"/>44</fw>
+				<table>
+					<row>
+						<cell>44.</cell>
+						<cell>Einzelinitiative Dr. Helmut Meyer, Zürich, vom<date when="1995-10-04">4. Oktober 1995</date>betreffend Einführung einer eidgenössischen Motorfahrzeugsteuer(Einreichung einer Standesinitiative)KR-Nr. 269/1995</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell>45.</cell>
+						<cell>Einzelinitiative Rolf Strasser, Wetzikon, vom<date when="1995-10-18">18. Oktober 1995</date>betreffend Abgeltung historischer Rechtstitel gegenüber den TäufernKR-Nr. 278/1995</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell>46.</cell>
+						<cell>Einzelinitiative Walter Kappeler, Bassersdorf, vom<date when="--09-14">14. September</date><date when="1995">1995</date>betreffend Änderung des Planungs- und BaugesetzesKR-Nr. 303/1995</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell>47.</cell>
+						<cell>Einzelinitiative Ernst Hadorn, Oberhasli, vom<date when="1995-11-13">13. November 1995</date>betreffend Abschaffung der BezirksschulpflegenKR-Nr. 309/1995</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell>48.</cell>
+						<cell>Einzelinitiative Dietrich M. Weidmann, Zürich, vom<date when="--12-04">4. Dezember</date><date when="1995">1995</date>betreffend Festlegung einer Bruttoeinkommenshöchstgrenzefür die kantonalen Beamten und Angestellten, Regierungsmitglieder usw.KR-Nr. 332/1995</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell>49.</cell>
+						<cell>Einzelinitiative Hans Forrer, Hochfelden, vom<date when="1995-12-11">11. Dezember 1995</date>betreffend Änderung von Art. 80 der Bundesverfassung (Einreichung einer Standesinitiative)KR-Nr. 342/1995</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell>50.</cell>
+						<cell>Behördeninitiative des Gemeinderates von Zürich vom<date when="--09-19">19. Septem</date><date when="1995">ber 1995</date>betreffend Änderung § 108 Abs. 2 des WahlgesetzesKR-Nr. 247/1995</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell>51.</cell>
+						<cell>Behördeninitiative des Gemeinderates von Zürich vom<date when="--10-03">3. Oktober</date><date when="1995">1995</date>betreffend Erlass eines Einführungsgesetzes zum Bundesgesetz über die Krankenversicherung (KVG)KR-Nr. 268/1995</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell>52.</cell>
+						<cell>Motion KR-Nr. 187/1992 betreffend Abschaffung des Geschworenengerichts (Bericht und Antrag des Regierungsrates vom<date when="--06-14">14. Juni</date><date when="1995">1995</date>und gleichlautender Antrag der Kommission vom<date when="--10-31">31. Oktober</date><date when="1995">1995)</date>3453</cell>
+						<cell>Jz</cell>
+					</row>
+					<row>
+						<cell>53.</cell>
+						<cell>Parlamentarische Initiative Vreni Püntener-Bugmann, Wallisellen,und Mitunterzeichnende, vom<date when="1993-06-28">28. Juni 1993</date>betreffend Verankerung von Tempo 30 und Verkehrsberuhigung im Strassengesetz(Antrag der Kommission vom<date when="1995-10-26">26. Oktober 1995)</date>KR-Nr. 205 a/1993</cell>
+						<cell/>
+					</row>
+				</table>
+				<pb n="47" facs="#facs_47"/>
+				<fw type="pageNum" place="top-right">
+					<lb facs="#facs_47_r0"/>45</fw>
+				<table>
+					<row>
+						<cell>54.</cell>
+						<cell>Postulat KR-Nr. 44/1993 betreffend Bewilligungspraxis für denmotorisierten Fahrzeugverkehr auf den Uetliberg (Bericht undAntrag des Regierungsrates vom<date when="1995-08-02">2. August 1995</date>und gleichlautender Antrag der Kommission vom<date when="1995-11-15">15. November 1995)</date>3457</cell>
+						<cell>P</cell>
+					</row>
+					<row>
+						<cell>55.</cell>
+						<cell>Strafprozessordnung (Änderung) (Antrag des Regierungsrates vom<date when="1995-10-04">4. Oktober 1995</date>und gleichlautender Antrag der Justizverwaltungskommission vom<date when="1995-11-27">27. November 1995)</date>3471</cell>
+						<cell>Jz</cell>
+					</row>
+					<row>
+						<cell>56.</cell>
+						<cell>Beschluss des Kantonsrates betreffend Neubau eines Schmutzwasserentlastungskanals auf dem Flughafen Zürich (Antrag des Regierungsrates vom<date when="1995-06-28">28. Juni 1995</date>und gleichlautender Antrag derKommission vom<date when="1995-11-30">30. November 1995)</date>3455</cell>
+						<cell>V</cell>
+					</row>
+					<row>
+						<cell>57.</cell>
+						<cell>Beschluss des Kantonsrates über die Einsetzung einer Parlamentarischen Untersuchungskommission (Antrag Dr. M. Notter undMitunterzeichnende vom<date when="1995-09-25">25. September 1995</date>und Eventualantragdes Büros des Kantonsrates vom<date when="1995-11-30">30. November 1995)</date>KR-Nr. 241/1995</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell>58.</cell>
+						<cell>Fristerstreckungsgesuch zur Motion KR-Nr. 120/1992 betreffendPrivatisierung der Gebäudeversicherung (Antrag des Regierungsrates vom<date when="1995-10-24">24. Oktober 1995</date>und gleichlautender Antrag derGeschäftsprüfungskommission vom<date when="1995-11-24">24. November 1995)</date></cell>
+						<cell>I</cell>
+					</row>
+					<row>
+						<cell>59.</cell>
+						<cell>Einzelinitiative Regula Gutiérrez, Uster, betreffend die Wahl vonVolksschullehrkräften für Voll- oder Teilzeitpensen (Bericht undAntrag des Regierungsrates vom<date when="1995-08-09">9. August 1995</date>und Antrag der</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell/>
+						<cell>Kommission vom<date when="1995-12-01">1. Dezember 1995)</date>3458 a</cell>
+						<cell>E</cell>
+					</row>
+					<row>
+						<cell>60.</cell>
+						<cell>Einzelinitiative Dr. Marianne Klug Arter, Zürich, betreffend Änderung des Gesetzes über die Finanzierung von Massnahmen für denNatur- und Heimatschutz und für Erholungsgebiete (Bericht undAntrag des Regierungsrates vom<date when="1995-04-05">5. April 1995</date>und geänderterAntrag der Kommission vom<date when="1995-11-17">17. November 1995)</date>3440 a</cell>
+						<cell>B</cell>
+					</row>
+				</table>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_47_r68"/>Neu auf der Traktandenliste</head>
+					<table>
+						<row>
+							<cell>61.</cell>
+							<cell>Interpellation Hartmuth Attenhofer, Zürich, Peter Stirnemann,Zürich, und Ruedi Winkler, Zürich, vom<date when="1995-05-22">22. Mai 1995</date>betreffendErlass einer Bau- und Zonenordnung für die Stadt Zürich durch dieBaudirektion (mündlich begründet)KR-Nr. 122/1995, RRB-Nr. 3805/20.12.1995</cell>
+							<cell>B</cell>
+						</row>
+						<row>
+							<cell>62.</cell>
+							<cell>Interpellation Ruth Genner, Zürich, und Daniel Schloeth, Zürich,vom<date when="1995-05-22">22. Mai 1995</date>betreffend Erlass einer Bau- und Zonenordnungfür die Stadt Zürich durch die Baudirektion (mündlich begründet)KR-Nr. 121/1995, RRB-Nr. 3805/20.12.1995</cell>
+							<cell>B</cell>
+						</row>
+					</table>
+					<pb n="48" facs="#facs_48"/>
+					<fw type="pageNum" place="top-left">
+						<lb facs="#facs_48_r0"/>46</fw>
+					<table>
+						<row>
+							<cell>63.</cell>
+							<cell>Postulat Peter Bielmann, Zürich, und Mitunterzeichnende vom<date when="1995-09-04">4. September 1995</date>betreffend Vereinfachung der Abrechnungöffentlicher Aufträge (schriftlich begründet)KR-Nr. 202/1995, RRB-Nr. 71/3.1.1996 (Stellungnahme)</cell>
+							<cell>B</cell>
+						</row>
+						<row>
+							<cell>64.</cell>
+							<cell>Postulat Daniel Schloeth, Zürich, und Willy Germann, Winterthur,vom<date when="1995-09-25">25. September 1995</date>betreffend Sicherstellung einer umfassenden Inventarisierung von kommunalen Naturschutzobjekten(schriftlich begründet)KR-Nr. 235/1995, RRB-Nr. 72/3.1.1996 (Stellungnahme)</cell>
+							<cell>B</cell>
+						</row>
+						<row>
+							<cell>65.</cell>
+							<cell>Postulat Helen Kunz, Opfikon, vom<date when="1995-10-02">2. Oktober 1995</date>betreffendEinsparungen beim Autobahnzusammenschluss Kloten-Bülach(schriftlich begründet)KR-Nr. 252/1995, RRB-Nr. 3804/20.12.1995 (Stellungnahme)</cell>
+							<cell>B</cell>
+						</row>
+						<row>
+							<cell>66.</cell>
+							<cell>Postulat Helen Kunz, Opfikon, vom<date when="1995-10-02">2. Oktober 1995</date>betreffendverursachergerechte Lösung beim Frachthof-Anschluss an dieFlughafenautobahn (schriftlich begründet)KR-Nr. 253/1995, RRB-Nr. 3804/20.12.1995 (Stellungnahme)</cell>
+							<cell>B</cell>
+						</row>
+						<row>
+							<cell>67.</cell>
+							<cell>Postulat Ruedi Keller, Hochfelden, und Peter Stirnemann, Zürich,vom<date when="1995-10-30">30. Oktober 1995</date>betreffend Autobahnzusammenschluss Kloten (schriftlich begründet)KR-Nr. 280/1995, RRB-Nr. 3804/20.12.1995 (Stellungnahme)</cell>
+							<cell>B</cell>
+						</row>
+						<row>
+							<cell>68.</cell>
+							<cell>Motion Hans-Jacob Heitz, Winterthur, Dr. Jörg N. Rappold,Küsnacht, und Theo Schaub, Zürich, vom<date when="1995-10-02">2. Oktober 1995</date>betreffend Kirchensteuer für juristische Personen und Kollektivgesellschaften (schriftlich begründet)KR-Nr. 250/1995, Entgegennahme</cell>
+							<cell>F</cell>
+						</row>
+						<row>
+							<cell>69.</cell>
+							<cell>Postulat Regula Ziegler, Winterthur, Peter Stirnemann, Zürich, undKurt Schreiber, Wädenswil, vom<date when="1995-10-02">2. Oktober 1995</date>betreffend direkteIC-Schnellzugsverbindungen Ostschweiz-Westschweiz (schriftlichbegründet)KR-Nr. 255/1995, RRB-Nr. 3793/20.12.1995 (Stellungnahme)</cell>
+							<cell>V</cell>
+						</row>
+						<row>
+							<cell>70.</cell>
+							<cell>Interpellation Martin Ott, Bäretswil, vom<date when="1995-10-23">23. Oktober 1995</date>betreffend ärztliche Interessenkonflikte/Sterbebegleitung von Patienten(schriftlich begründet)KR-Nr. 273/1995, RRB-Nr. 3798/20.12.1995</cell>
+							<cell>G</cell>
+						</row>
+						<row>
+							<cell>71.</cell>
+							<cell>Postulat Peter Stirnemann, Zürich, Dr. Hans Jakob Mosimann,Winterthur, und Esther Arnet, Schlieren, vom<date when="1995-06-19">19. Juni 1995</date>betreffend die Aufnahme verkehrsorganisatorischer Sofortmassnahmen in die Sanierungsplanung zur Reduktion der Lärmbelastung auf Staats- und Gemeindestrassen (schriftlich begründet)KR-Nr. 148/1995, RRB-Nr. 64/3.1.1996 (Stellungnahme)</cell>
+							<cell>P</cell>
+						</row>
+					</table>
+					<pb n="49" facs="#facs_49"/>
+					<fw type="pageNum" place="top-right">
+						<lb facs="#facs_49_r0"/>47</fw>
+					<table>
+						<row>
+							<cell>72.</cell>
+							<cell>Postulat Regula Ziegler, Winterthur, und Peter Stirnemann, Zürich,vom<date when="1995-08-28">28. August 1995</date>betreffend verkehrsorganisatorische Sofortmassnahmen zur Umsetzung des Fussgängerinnen- und Fussgängervortritts am Zebrastreifen (schriftlich begründet)KR-Nr. 197/1995, RRB-Nr. 63/3.1.1996 (Stellungnahme)</cell>
+							<cell>P</cell>
+						</row>
+						<row>
+							<cell>73.</cell>
+							<cell>Postulat Esther Zumbrunn, Winterthur, vom<date when="1995-09-18">18. September 1995</date>betreffend Bereiche für Fussgänger und Fussgängerinnen stattZebrastreifen (schriftlich begründet)KR-Nr. 224/1995, RRB-Nr. 62/3.1.1996 (Stellungnahme)</cell>
+							<cell>P</cell>
+						</row>
+					</table>
+					<closer>
+						<dateline>
+							<lb facs="#facs_49_r17"/>Zürich, den <date when="1996-01-08">8. Januar 1996</date></dateline>
+						<signed>
+							<lb facs="#facs_49_r19"/>Der Präsident:<lb facs="#facs_49_r20"/>Markus Kägi</signed>
+					</closer>
+				</div>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_49_r21"/>Aus den Verhandlungen des Regierungsrates<lb facs="#facs_49_r22"/>vom <date when="1995-11-29">29. November 1995</date></head>
+				<p>
+					<lb facs="#facs_49_r24"/>Der Regierungsrat hat die von den Stimmberechtigten am <date when="--09-25">25. Septem<lb break="no" facs="#facs_49_r26"/>ber 1994</date> beschlossene Änderung der Kantonsverfassung auf den<lb facs="#facs_49_r28"/><date when="1996-01-01">1. Januar 1996</date> in Kraft gesetzt.<lb facs="#facs_49_r30"/>Der Regierungsrat genehmigte ein neues Nutzungskonzept für das<lb facs="#facs_49_r31"/>Kasernenhauptgebäude, das Zeughaus 4 und dazugehörende Neubau<lb break="no" facs="#facs_49_r32"/>ten.</p>
+				<p>
+					<lb facs="#facs_49_r33"/>Für den Umbau der Zürcherstrasse (Fussgängersteg an der Rhein<lb break="no" facs="#facs_49_r34"/>brücke, Einmündung Obergasse/Rheinstrasse, Radweg) von der Rhein<lb break="no" facs="#facs_49_r35"/>strasse bis Alte Landstrasse in der Gemeinde Eglisau wird ein<lb facs="#facs_49_r36"/>Objektkredit von Fr. 3200000 bewilligt. Davon sind Fr. 1 870 000 neue<lb facs="#facs_49_r37"/>Ausgaben und Fr. 1 330 000 gebundene Ausgaben (Erneuerungsunter<lb break="no" facs="#facs_49_r38"/>halt Staatsstrassen).</p>
+				<p>
+					<lb facs="#facs_49_r39"/>Unter Verdankung der geleisteten Dienste sind aus dem Staatsdienst<lb facs="#facs_49_r40"/>entlassen worden:</p>
+				<p>
+					<lb facs="#facs_49_r41"/>Bruno Domeisen, Dr. sc. techn ., Direktor der Zentralwäscherei Zürich,<lb facs="#facs_49_r42"/>Gesundheitsdirektion, altershalber auf Ende <date when="1996-06">Juni 1996;</date></p>
+				<p>
+					<lb facs="#facs_49_r44"/>Werner Bühler, Hauptlehrer für berufskundlichen Unterricht an der<lb facs="#facs_49_r45"/>Technischen Berufsschule Zürich, Abteilung Elektro/Elektronik, al<lb break="no" facs="#facs_49_r46"/>tershalber auf Ende <date when="1996-02">Februar 1996;</date></p>
+				<p>
+					<lb facs="#facs_49_r48"/>Adelrich Zumbach, Informatiker mbA beim Amt für Informatikdien<lb break="no" facs="#facs_49_r49"/>ste, Finanzdirektion, seinem Gesuch entsprechend auf Ende <date when="1995-12">Dezember<lb facs="#facs_49_r51"/>1995.</date></p>
+				<pb n="50" facs="#facs_50"/>
+				<fw type="pageNum" place="top-left">
+					<lb facs="#facs_50_r0"/>48</fw>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_50_r1"/>Auszug aus dem Protokoll des Kantonsrates<lb facs="#facs_50_r2"/>15. Sitzung, Montag, <date when="1995-09-18">18. September 1995,</date> 8.15 Uhr</head>
+				<p>
+					<lb facs="#facs_50_r5"/>Antwort auf eine Anfrage</p>
+				<p>
+					<lb facs="#facs_50_r6"/>-<lb facs="#facs_50_r7"/>von Richard Weilenmann (SVP, Buch a. I.) betreffend Abbau von<lb facs="#facs_50_r8"/>Arbeitsplätzen im Kanton Zürich im Zusammenhang mit der<lb facs="#facs_50_r9"/>Reform des Eidgenössischen Militärdepartements</p>
+				<p>
+					<lb facs="#facs_50_r10"/>Einzelinitiative Patrick Hasenbühler, Zürich, betreffend Offenlegung<lb facs="#facs_50_r11"/>der Listenverbindungen bei Kantonsratswahlen<lb facs="#facs_50_r12"/>Für vorläufige Unterstützung der Einzelinitiative stimmen 54 Ratsmit<lb break="no" facs="#facs_50_r13"/>glieder.</p>
+				<p>
+					<lb facs="#facs_50_r14"/>Die vorläufige Unterstützung ist nicht zustande gekommen; die<lb facs="#facs_50_r15"/>Einzelinitiative ist abgelehnt.</p>
+				<p>
+					<lb facs="#facs_50_r16"/>Beschluss des Kantonsrates über einen zeitlich limitierten Versuch der<lb facs="#facs_50_r17"/>Redezeitbeschränkung</p>
+				<p>
+					<lb facs="#facs_50_r18"/>Der Rat stimmt dem Antrag des Büros mit 117 : 14 Stimmen zu.</p>
+				<p>
+					<lb facs="#facs_50_r19"/>Parlamentarische Initiative Franz Cahannes, Zürich, und Renata<lb facs="#facs_50_r20"/>Huonker, Zürich, betreffend Verfassungsänderung zur Einführung des<lb facs="#facs_50_r21"/>Stimm- und Wahlrechts für Ausländer und Ausländerinnen in Angele<lb break="no" facs="#facs_50_r22"/>genheiten, welche Schulfragen betreffen</p>
+				<p>
+					<lb facs="#facs_50_r23"/>Der Antrag auf Rückweisung der Parlamentarischen Initiative an die<lb facs="#facs_50_r24"/>vorberatende Kommission wird mit 87 : 62 Stimmen abgelehnt.<lb facs="#facs_50_r25"/>Mit 91 : 65 Stimmen beschliesst der Rat, auf die Parlamentarische<lb facs="#facs_50_r26"/>Initiative nicht einzutreten.</p>
+				<p>
+					<lb facs="#facs_50_r27"/>Postulat Hansjörg Schmid, Dinhard, und Ulrich Isler, Seuzach, betref<lb break="no" facs="#facs_50_r28"/>fend Einsparungen bei der Erziehungsdirektion<lb facs="#facs_50_r29"/>Der Rat beschliesst mit 75:71 Stimmen, das Postulat nicht zu<lb facs="#facs_50_r30"/>überweisen.</p>
+				<p>
+					<lb facs="#facs_50_r31"/>Postulat Peter Aisslinger, Zürich, Dr. Armin Heinimann, Illnau-<lb facs="#facs_50_r32"/>Effretikon, und Rolf Bolli, Fällanden, betreffend Überprüfung von<lb facs="#facs_50_r33"/>Möglichkeiten zur Straffung sowie zur Zusammenlegung von Abteilun<lb break="no" facs="#facs_50_r34"/>gen der Erziehungsdirektion und des Pestalozzianums<lb facs="#facs_50_r35"/>Der Rat beschliesst mit 103 : 1 Stimme, das Postulat zu überweisen.</p>
+				<pb n="51" facs="#facs_51"/>
+				<fw type="pageNum" place="top-right">
+					<lb facs="#facs_51_r0"/>49</fw>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_51_r1"/>Kantonale Volksabstimmung vom <date when="1996-03-10">10. März 1996</date></head>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_51_r3"/>1.<lb facs="#facs_51_r4"/>Unterrichtsgesetz<lb facs="#facs_51_r5"/>Änderung)<lb facs="#facs_51_r6"/>(vom<lb facs="#facs_51_r7"/>.. )</head>
+					<p>
+						<lb facs="#facs_51_r8"/>Art. I</p>
+					<p>
+						<lb facs="#facs_51_r9"/>Das Unterrichtsgesetz vom <date when="1859-12-23">23. Dezember 1859</date> wird wie folgt<lb facs="#facs_51_r12"/>geändert:</p>
+					<p>
+						<lb facs="#facs_51_r13"/>§ 142 Abs. 1-6 unverändert.<lb facs="#facs_51_r14"/>Der Regierungsrat kann Vereinbarungen über Hochschulbeiträge<lb facs="#facs_51_r15"/>abschliessen. Die Gesamtbeiträge an den Kanton Zürich sind so zu<lb facs="#facs_51_r16"/>bemessen, dass mindestens die anteilmässigen Betriebsaufwendungen<lb facs="#facs_51_r17"/>der Universität Zürich gedeckt werden. Die Vereinbarungen bedürfen<lb facs="#facs_51_r18"/>der Genehmigung durch den Kantonsrat.</p>
+					<p>
+						<lb facs="#facs_51_r19"/>Art. II</p>
+					<p>
+						<lb facs="#facs_51_r20"/>Diese Gesetzesänderung untersteht der Volksabstimmung. Der<lb facs="#facs_51_r21"/>Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.</p>
+					<closer>
+						<dateline>
+							<lb facs="#facs_51_r22"/>Zürich, den <date when="1995-10-02">2. Oktober 1995</date></dateline>
+						<salute>
+							<lb facs="#facs_51_r24"/>Im Namen des Kantonsrates</salute>
+						<signed>
+							<lb facs="#facs_51_r25"/>Der Präsident:<lb facs="#facs_51_r26"/>Markus Kägi</signed>
+						<signed>
+							<lb facs="#facs_51_r27"/>Der Sekretär:<lb facs="#facs_51_r28"/>Thomas Dähler</signed>
+					</closer>
+					<pb n="52" facs="#facs_52"/>
+					<fw type="pageNum" place="top-left">
+						<lb facs="#facs_52_r0"/>50</fw>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_52_r1"/>2.<lb facs="#facs_52_r2"/>Volksinitiative<lb facs="#facs_52_r3"/>«gegen Meinungsüberwachung»</head>
+					<p>
+						<lb facs="#facs_52_r4"/>Die nachstehenden im Kanton Zürich stimmberechtigten Bürgerin<lb break="no" facs="#facs_52_r5"/>nen und Bürger unterbreiten, gestützt auf Art. 29 KV und §§ 12 ff. des<lb facs="#facs_52_r6"/>Gesetzes über das Vorschlagsrecht des Volkes vom <date when="1969-06-01">1. Juni 1969,</date> das<lb facs="#facs_52_r9"/>folgende Initiativbegehren in der Form des ausgearbeiteten Entwurfs:</p>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_52_r10"/>Begehren</head>
+						<p>
+							<lb facs="#facs_52_r11"/>Es sei Art. 3 der Zürcher Kantonsverfassung wie folgt zu ergänzen:<lb facs="#facs_52_r12"/>Art. 3bis (neu):<lb facs="#facs_52_r13"/>Der Staat und staatliche Organe gewährleisten den Schutz der<lb facs="#facs_52_r14"/>Privatsphäre und wahren in weltanschaulichen, religiösen, partei -,<lb facs="#facs_52_r15"/>berufs- und vereinspolitischen Fragen Neutralität.</p>
+						<p>
+							<lb facs="#facs_52_r16"/>Staatliche Überwachung der Privatsphäre ist unzulässig, insbeson<lb break="no" facs="#facs_52_r17"/>dere das Fichieren und Registrieren von Fakten aus dem Privatleben.<lb facs="#facs_52_r18"/>Die Ausübung verfassungsmässiger Rechte, namentlich der Meinungs<lb break="no" facs="#facs_52_r19"/>freiheit, Vereinsfreiheit, Glaubens -, Gewissens- und Überzeugungsfrei<lb break="no" facs="#facs_52_r20"/>heit, darf von den Behörden nicht überwacht und registriert werden,<lb facs="#facs_52_r21"/>auch nicht durch Verwendung von Daten Dritter. Vorbehalten bleiben<lb facs="#facs_52_r22"/>Vorschriften des Bundesrechts. Ebenso sind im kantonalen Bereich<lb facs="#facs_52_r23"/>Massnahmen zur Verbrechensbekämpfung, zur Wahrung der öffent<lb break="no" facs="#facs_52_r24"/>lichen Ordnung und Sicherheit sowie zur ordnungsgemässen Besorgung<lb facs="#facs_52_r25"/>der kommunalen und kantonalen Verwaltung zulässig, soweit diese auf<lb facs="#facs_52_r26"/>einer klaren gesetzlichen Grundlage beruhen.</p>
+						<p>
+							<lb facs="#facs_52_r27"/>Bei Anstellungs -, Wahl -, Wiederwahl -, Beförderungs- oder Ent<lb break="no" facs="#facs_52_r28"/>lassungsverfahren im Bereich des öffentlichen Dienstes wahren und<lb facs="#facs_52_r29"/>achten die Behörden die verfassungsmässigen Grundrechte. Streitigkei<lb break="no" facs="#facs_52_r30"/>ten aus diesen Verfahren entscheidet das Verwaltungsgericht. Soweit es<lb facs="#facs_52_r31"/>bei Eingehen von Dienstverhältnissen aus Gründen der öffentlichen<lb facs="#facs_52_r32"/>Sicherheit erforderlich ist, kann eine Sicherheitsüberprüfung angeord<lb break="no" facs="#facs_52_r33"/>net werden, namentlich im Militär- und Polizeibereich.</p>
+						<p>
+							<lb facs="#facs_52_r34"/>Übergangsbestimmung zur Art. 3bis Abs. 2 und Abs. 3, jeweils letzter<lb facs="#facs_52_r35"/>Satz: Soweit in diesem Bereich gesetzliche Bestimmungen fehlen, ist der<lb facs="#facs_52_r36"/>Regierungsrat befugt, solche vorübergehend auf dem Verordnungsweg<lb facs="#facs_52_r37"/>zu erlassen. Sie treten fünf Jahre nach Annahme dieser Verfassungs<lb break="no" facs="#facs_52_r38"/>bestimmung ausser Kraft.</p>
+						<pb n="53" facs="#facs_53"/>
+						<fw type="pageNum" place="top-right">
+							<lb facs="#facs_53_r0"/>51</fw>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_53_r1"/>Begründung</head>
+						<p>
+							<lb facs="#facs_53_r2"/>1. Die Öffentlichkeit und die Medien sind keine Garanten der<lb facs="#facs_53_r3"/>Privatsphäre und der Meinungsfreiheit. Der beliebigen Fichierung,<lb facs="#facs_53_r4"/>Registrierung und Verbreitung ungerechtfertigter Verdächtigungen<lb facs="#facs_53_r5"/>und Herabsetzungen steht der einzelne hilflos gegenüber. Dagegen<lb facs="#facs_53_r6"/>ist der zivilrechtliche Persönlichkeitsschutz weitgehend machtlos.<lb facs="#facs_53_r7"/>Die Würde des Menschen ist damit bedroht.</p>
+						<p>
+							<lb facs="#facs_53_r8"/>2. Staatliche Organe aller Stufen sind wenig immun gegenüber<lb facs="#facs_53_r9"/>öffentlichem Druck und können sich dazu verleiten lassen, persön<lb break="no" facs="#facs_53_r10"/>lichen Diskriminierungen nicht entgegenzutreten oder sogar selbst<lb facs="#facs_53_r11"/>Überwachungsmassnahmen anzuordnen. Dagegen bieten auch die<lb facs="#facs_53_r12"/>verfassungsmässigen Grund- und Abwehrrechte nicht hinreichend<lb facs="#facs_53_r13"/>Schutz.</p>
+						<p>
+							<lb facs="#facs_53_r14"/>3. Die unterzeichneten Stimmbürgerinnen und Stimmbürger halten es<lb facs="#facs_53_r15"/>darum für dringend notwendig, die entsprechenden staatsbürger<lb break="no" facs="#facs_53_r16"/>lichen Grundsätze in der Verfassung zu verdeutlichen. Dem Respekt<lb facs="#facs_53_r17"/>vor der Privatsphäre kommt für die gute Ordnung des Zusammen<lb break="no" facs="#facs_53_r18"/>lebens eine hervorragende Bedeutung zu.</p>
+						<p>
+							<lb facs="#facs_53_r19"/>4. Der Schutz der Privatsphäre und dementsprechend die Neutralität<lb facs="#facs_53_r20"/>in weltanschaulichen, religiösen, partei -, berufs- und vereinspoliti<lb break="no" facs="#facs_53_r21"/>schen Fragen sind für den Staat und die staatlichen Organe<lb facs="#facs_53_r22"/>ebensosehr Sache der allgemeinen Haltung wie des Rechts. Dazu<lb facs="#facs_53_r23"/>gehört auch vorbildliches Verhalten in Anstellungsfragen. Es steht<lb facs="#facs_53_r24"/>einem freien Land wohl an, wenn in seiner Verfassung Raum auch<lb facs="#facs_53_r25"/>für Fragen der Ethik ist.</p>
+						<p>
+							<lb facs="#facs_53_r26"/>Die untengenannten Mitglieder des Initiativkomitees sind befugt, die<lb facs="#facs_53_r27"/>Initiative mit einfachem Mehr zurückzuziehen:</p>
+						<p>
+							<lb facs="#facs_53_r28"/>Co-Präsidium: Jean-Richard Charles, Jurist, Kirchenpflegepräsident,<lb facs="#facs_53_r29"/>Erlenstrasse 7, 8810 Horgen; Styger Maria, alt Gemeinderätin, Döltschi<lb break="no" facs="#facs_53_r30"/>halde 39, 8055 Zürich; Carloni Markus, Sekretär, Dorfstrasse 53, 8427<lb facs="#facs_53_r31"/>Freienstein; Rub Beda, Gartenbau, Bergstrasse 61, 8953 Dietikon; Erne<lb facs="#facs_53_r32"/>Matthias, Jurist, Hochstrasse 28, 8044 Zürich; Wäfler Markus, Agro<lb break="no" facs="#facs_53_r33"/>techniker SLT, Stegacherstrasse 4, 8165 Schleinikon;</p>
+						<p>
+							<lb facs="#facs_53_r34"/>Aeschlimann Fritz, alt Inspektor, Tannenstrasse 3, 8620 Wetzikon;<lb facs="#facs_53_r35"/>Aeschlimann Jürg, Psychiater, Griesernweg 33, 8037 Zürich; Bartholdi<lb facs="#facs_53_r36"/>Roger, Bankangestellter, Eugen-Huber-Strasse 179, 8048 Zürich;<lb facs="#facs_53_r37"/>Bärtsch Emil, Betriebsbeamter, alt Gemeinderat, Hägelerweg 5, 8055<lb facs="#facs_53_r38"/>Zürich; Baumgartner Christoph, Lehrer, Neumarkt 3, 8001 Zürich;<lb facs="#facs_53_r39"/>Baumgartner Ulrich, Professor, dipl. Arch ., Burgstrasse 18, 8408<lb facs="#facs_53_r40"/>Winterthur; Bernet Erhard, Kioskinhaber, Kantonsrat, Zwischenbä-</p>
+						<pb n="54" facs="#facs_54"/>
+						<fw type="pageNum" place="top-left">
+							<lb facs="#facs_54_r0"/>52</fw>
+						<p>
+							<lb facs="#facs_54_r1"/>chen 21, 8048 Zürich; Bindschedler Hans-Martin, Apotheker, Im Näf,<lb facs="#facs_54_r2"/>8815 Horgenberg; Brunner Theodor, Kunsthistoriker, Schöpli, 8331<lb facs="#facs_54_r3"/>Auslikon; Fortini Mario, Revisor, Bezirksschulpfleger, Endlikerstrasse<lb facs="#facs_54_r4"/>108, 8400 Winterthur; Gnädinger Carl, Jurist, Rötelstrasse 23, 8006<lb facs="#facs_54_r5"/>Zürich; Hemmi Hans, Architekt, Bezirksschulpfleger, Neugasse 14,<lb facs="#facs_54_r6"/>8810 Horgen; Huber Barbara, Sekundarlehrerin, Hadlaubstrasse 139,<lb facs="#facs_54_r7"/>8006 Zürich; Mächler Peter, Kaufmann, Gemeinderat, Regulastrasse 27,<lb facs="#facs_54_r8"/>8046 Zürich; Meier Heinz, Rentner, Guggachstrasse 57, 8057 Zürich;<lb facs="#facs_54_r9"/>Meier Joseph, Bücherrevisor, Schönauring 42, 8052 Zürich; Pampaluchi<lb facs="#facs_54_r10"/>Kathrin, Primarlehrerin, Luegete 12, 8053 Zürich; Richner Ursula,<lb facs="#facs_54_r11"/>Pfarrerin, Untere Zäune 1, 8001 Zürich; Schmidhauser Hans, Lehrer,<lb facs="#facs_54_r12"/>Heubachstrasse 48, 8810 Horgen; Sturzenegger Rolf, Pfarrer, Oberer<lb facs="#facs_54_r13"/>Boden, 8496 Steg i. Tösstal.</p>
+						<p>
+							<lb facs="#facs_54_r14"/>Beginn der Unterschriftensammlung: <date when="1993-06-04">4. Juni 1993</date></p>
+						<p>
+							<lb facs="#facs_54_r16"/>Die Volksinitiative wurde am <date when="1993-12-03">3. Dezember 1993</date> dem Büro des<lb facs="#facs_54_r19"/>Kantonsrates eingereicht.</p>
+						<pb n="55" facs="#facs_55"/>
+						<fw type="pageNum" place="top-right">
+							<lb facs="#facs_55_r0"/>53</fw>
+					</div>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_55_r1"/>3.<lb facs="#facs_55_r2"/>Volksinitiative<lb facs="#facs_55_r3"/>«Stopp der importierten Arbeitslosigkeit»</head>
+					<p>
+						<lb facs="#facs_55_r4"/>Die nachstehenden im Kanton Zürich stimmberechtigten Bürgerin<lb break="no" facs="#facs_55_r5"/>nen und Bürger unterbreiten, gestützt auf Art. 29 KV und §§ 12 ff. des<lb facs="#facs_55_r6"/>Gesetzes über das Vorschlagsrecht des Volkes vom <date when="1969-06-01">1. Juni 1969,</date> die<lb facs="#facs_55_r9"/>Initiative auf die gesetzliche Regelung folgender</p>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_55_r10"/>Begehren</head>
+						<p>
+							<lb facs="#facs_55_r11"/>1. Solange die Arbeitslosigkeit im Kanton Zürich in einzelnen<lb facs="#facs_55_r12"/>Berufsgruppen 3% übersteigt, werden für diese Berufsgruppen<lb facs="#facs_55_r13"/>keine neuen Arbeitsbewilligungen an Ausländerinnen und Aus<lb break="no" facs="#facs_55_r14"/>länder erteilt. Diese Beschränkung gilt für alle Ausländerkatego<lb break="no" facs="#facs_55_r15"/>rien.</p>
+						<p>
+							<lb facs="#facs_55_r16"/>2. Der Regierungsrat wird beauftragt, die Details in einer Verordnung<lb facs="#facs_55_r17"/>zu regeln, so namentlich</p>
+						<p>
+							<lb facs="#facs_55_r18"/>- die Einteilung in Berufsgruppen</p>
+						<p>
+							<lb facs="#facs_55_r19"/>- die Erhebung statistischer Grundlagen</p>
+						<p>
+							<lb facs="#facs_55_r20"/>-<lb facs="#facs_55_r21"/>die mindestens alle sechs Monate erfolgende Veröffentlichung<lb facs="#facs_55_r22"/>der Zahlen von Beschäftigten, Arbeitslosen und erlassenen<lb facs="#facs_55_r23"/>Arbeitsbewilligungen in den einzelnen Berufsgruppen im Kanton<lb facs="#facs_55_r24"/>Zürich</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_55_r25"/>Begründung</head>
+						<p>
+							<lb facs="#facs_55_r26"/>Bei einer Arbeitslosigkeit von 25 884 Personen im Kanton Zürich<lb facs="#facs_55_r27"/>(Stand <date when="1993-04">April 1993),</date> was bei 663 700 Erwerbstätigen 3,9% entspricht, ist<lb facs="#facs_55_r30"/>es nicht mehr zu verantworten, dass noch mehr Erwerbstätige aus dem<lb facs="#facs_55_r31"/>Ausland angeworben werden.</p>
+						<p>
+							<lb facs="#facs_55_r32"/>Initiativkomitee: Peter Frei, Ernastrasse 6, 8004 Zürich (Vorsitz); Peter<lb facs="#facs_55_r33"/>Grau, Kantonsrat, Lerchenberg 47, 8046 Zürich; Erwin Kupper,<lb facs="#facs_55_r34"/>Kantonsrat, Schlossacher 1, 8432 Zweidlen; Ernst Kälin, Rossau, Haus<lb facs="#facs_55_r35"/>Nr. 116, 8932 Mettmenstetten; Josef Kunz, Sihlmatten 8, 8134 Adliswil;<lb facs="#facs_55_r36"/>Gertrud Meier-Bruhin, Dorfstrasse 23, 8424 Embrach; Robert Moch,<lb facs="#facs_55_r37"/>Greifenseestrasse 18, 8600 Dübendorf; Heinrich Notter, Baslerstrasse<lb facs="#facs_55_r38"/>31, 8048 Zürich; Gertrud Sommerhalder, Rapperswilerstrasse 122, 8630</p>
+						<pb n="56" facs="#facs_56"/>
+						<fw type="pageNum" place="top-left">
+							<lb facs="#facs_56_r0"/>54</fw>
+						<p>
+							<lb facs="#facs_56_r1"/>Rüti; Ursula Schnetz, Im Moos 21, 8902 Urdorf; Gery Schwyter,<lb facs="#facs_56_r2"/>Rosenbergstrasse 4, 8400 Winterthur.</p>
+						<p>
+							<lb facs="#facs_56_r3"/>Rückzugsklausel: Die Mitglieder des Initiativkomitees sind befugt, die<lb facs="#facs_56_r4"/>Initiative mit einfachem Mehr zurückzuziehen.</p>
+						<p>
+							<lb facs="#facs_56_r5"/>Beginn der Unterschriftensammlung: <date when="1993-06-04">4. Juni 1993</date></p>
+						<p>
+							<lb facs="#facs_56_r7"/>Die Volksinitiative wurde am <date when="1993-12-01">1. Dezember 1993</date> dem Büro des<lb facs="#facs_56_r10"/>Kantonsrates eingereicht.</p>
+						<pb n="57" facs="#facs_57"/>
+						<fw type="pageNum" place="top-right">
+							<lb facs="#facs_57_r0"/>55</fw>
+					</div>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_57_r1"/>4.<lb facs="#facs_57_r2"/>Einzelinitiative<lb facs="#facs_57_r3"/>Markus Knauss, Zürich, betreffend Änderung des<lb facs="#facs_57_r4"/>Einführungsgesetzes<lb facs="#facs_57_r5"/>zum Nationalstrassengesetz</head>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_57_r6"/>Antrag</head>
+						<p>
+							<lb facs="#facs_57_r7"/>Der zweite Absatz von § 15 des kantonalen Einführungsgesetzes<lb facs="#facs_57_r8"/>zum Nationalstrassengesetz vom <date when="1963-03-24">24. März 1963</date> über die Kostenbeteili<lb break="no" facs="#facs_57_r11"/>gung von Städten an die Expressstrassen wird ersatzlos gestrichen.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_57_r12"/>Begründung</head>
+						<p>
+							<lb facs="#facs_57_r13"/>§ 15 des Einführungsgesetzes zum Nationalstrassengesetz lautet<lb facs="#facs_57_r14"/>folgendermassen: «Die Baukosten der Nationalstrassen sind, soweit sie<lb facs="#facs_57_r15"/>nicht vom Bunde übernommen werden, vom Staate zu tragen.</p>
+						<p>
+							<lb facs="#facs_57_r16"/>An die Baukosten der von der Bundesversammlung als Express<lb break="no" facs="#facs_57_r17"/>strassen bezeichneten Strecken entrichten die betreffenden Städte dem<lb facs="#facs_57_r18"/>Staat einen Beitrag von 50% der nach Abzug der Bundesleistungen<lb facs="#facs_57_r19"/>verbleibenden Aufwendungen.»</p>
+						<p>
+							<lb facs="#facs_57_r20"/>Der Bund und der Kanton Zürich finanzieren den Bau und den<lb facs="#facs_57_r21"/>Unterhalt der Nationalstrassen im Kanton Zürich einerseits mit<lb facs="#facs_57_r22"/>Treibstoffzollerträgen und andererseits über die kantonalen Verkehrs<lb break="no" facs="#facs_57_r23"/>abgaben, also aus Einnahmen, die verursachergerecht von den Strassen<lb break="no" facs="#facs_57_r24"/>benützerInnen bezahlt werden. Die Stadt Zürich ist aber - gemäss<lb facs="#facs_57_r25"/>geltendem Gesetz - beim Bau von Expressstrassen verpflichtet,<lb facs="#facs_57_r26"/>ausschliesslich allgemeine Steuermittel aufzuwenden. Sie muss nämlich<lb facs="#facs_57_r27"/>die Hälfte des kantonalen Beitrages an den Bau der Expressstrassen aus<lb facs="#facs_57_r28"/>ihrem regulären Steueraufkommen bezahlen. Bei der Sihltiefstrasse<lb facs="#facs_57_r29"/>betragen die Kosten für die Stadt Zürich demnach 21% der Gesamt<lb break="no" facs="#facs_57_r30"/>summe, was mindestens 500 Mio. Franken ausmacht. Diese nicht<lb facs="#facs_57_r31"/>verursachergerechte Finanzierung ist stossend und deshalb zu beseiti<lb break="no" facs="#facs_57_r32"/>gen.</p>
+						<pb n="58" facs="#facs_58"/>
+						<fw type="pageNum" place="top-left">
+							<lb facs="#facs_58_r0"/>56</fw>
+					</div>
+				</div>
+			</div>
+		</body></text></TEI>

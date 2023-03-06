@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Beschluss des Regierungsrates über die Ausrichtung einer Teuerungszulage an das Staatspersonal für 1996 (vom <date when="1995-12-06">6. Dezember 1995)</date></title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_6_r1"/>Beschluss des Regierungsrates<lb facs="#facs_6_r2"/>über die Ausrichtung einer Teuerungszulage an das<lb facs="#facs_6_r3"/>Staatspersonal für 1996<lb facs="#facs_6_r4"/>(vom <date when="1995-12-06">6. Dezember 1995)</date></head>
+			<p>
+				<lb facs="#facs_6_r6"/>Der Regierungsrat beschliesst:</p>
+			<p>
+				<lb facs="#facs_6_r7"/>I. Unter Vorbehalt der Genehmigung des Voranschlags 1996<lb facs="#facs_6_r8"/>durch den Kantonsrat1) wird die Teuerungszulage für das Staatspersonal<lb facs="#facs_6_r9"/>ab <date when="1996-01-01">1. Januar 1996</date> auf 1% der Jahresgrundbesoldung festgesetzt.</p>
+			<p>
+				<lb facs="#facs_6_r12"/>II. Für sämtliche Besoldungen gilt damit die Teuerung nach dem<lb facs="#facs_6_r13"/>Stand des Zürcher Indexes von 102,2 Punkten als ausgeglichen.</p>
+			<p>
+				<lb facs="#facs_6_r14"/>III. Die Finanzdirektion wird beauftragt, die neuen Grundbesol<lb break="no" facs="#facs_6_r15"/>dungen mit eingebauter Teuerungszulage festzulegen, die Ansätze in<lb facs="#facs_6_r16"/>den massgebenden Verordnungen im Einvernehmen mit den beteilig<lb break="no" facs="#facs_6_r17"/>ten Direktionen des Regierungsrates anzupassen sowie die neuen<lb facs="#facs_6_r18"/>Besoldungsbeträge zu publizieren.</p>
+			<p>
+				<lb facs="#facs_6_r19"/>IV. Veröffentlichung im Amtsblatt.</p>
+			<closer>
+				<salute>
+					<lb facs="#facs_6_r20"/>Im Namen des Regierungsrates</salute>
+				<signed>
+					<lb facs="#facs_6_r21"/>Der Präsident:<lb facs="#facs_6_r22"/>Homberger</signed>
+				<signed>
+					<lb facs="#facs_6_r23"/>Der Staatsschreiber:<lb facs="#facs_6_r24"/>Husi</signed>
+			</closer>
+			<note>
+				<lb facs="#facs_6_r25"/>1) Der Kantonsrat hat den Voranschlag am <date when="1995-12-19">19. Dezember 1995</date> verabschiedet.</note>
+			<pb n="7" facs="#facs_7"/>
+			<fw type="pageNum" place="top-right">
+				<lb facs="#facs_7_r0"/>5</fw>
+		</body></text></TEI>

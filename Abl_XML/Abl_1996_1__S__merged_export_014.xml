@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Ersatzwahl für ein Mitglied der Bezirksschulpflege Uster für den Rest der Amtsdauer 1993-1997 Stille Wahl</title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_25_r1"/>Ersatzwahl für ein Mitglied der Bezirksschulpflege Uster<lb facs="#facs_25_r2"/>für den Rest der Amtsdauer 1993-1997<lb facs="#facs_25_r3"/>Stille Wahl</head>
+			<p>
+				<lb facs="#facs_25_r4"/>Nach Ablauf der siebentägigen Nachfrist sind keine neuen Wahlvor<lb break="no" facs="#facs_25_r5"/>schläge eingegangen. Damit kann die Vorgeschlagene als gewählt<lb facs="#facs_25_r6"/>erklärt werden (Stille Wahl).</p>
+			<p>
+				<lb facs="#facs_25_r7"/>Der Bezirksrat beschliesst:</p>
+			<p>
+				<lb facs="#facs_25_r8"/>1. Als Mitglied der Bezirksschulpflege Uster wird für den Rest der<lb facs="#facs_25_r9"/>Amtsdauer 1993-1997 als gewählt erklärt:<lb facs="#facs_25_r10"/>Meisterhans Ruth, geb. 1946, Sachbearbeiterin/Hausfrau<lb facs="#facs_25_r11"/>Unterdorfstrasse 16, 8605 Gutenswil</p>
+			<p>
+				<lb facs="#facs_25_r12"/>2. Beschwerden gegen diesen Beschluss sind innert 20 Tagen, von der<lb facs="#facs_25_r13"/>Veröffentlichung im Amtsblatt des Kantons Zürich an gerechnet, an<lb facs="#facs_25_r14"/>den Regierungsrat, <date when="8090">8090</date> Zürich, zu richten.</p>
+			<closer>
+				<dateline>
+					<lb facs="#facs_25_r17"/>Uster, den <date when="1995-12-27">27. Dezember 1995</date></dateline>
+				<signed>
+					<lb facs="#facs_25_r19"/>Bezirksrat Uster</signed>
+			</closer>
+		</body></text></TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Aus den Verhandlungen des Regierungsrates vom <date when="1995-12-13">13. Dezember 1995</date></title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_144_r30"/>Aus den Verhandlungen des Regierungsrates<lb facs="#facs_144_r31"/>vom <date when="1995-12-13">13. Dezember 1995</date></head>
+			<p>
+				<lb facs="#facs_144_r33"/>Der Regierungsrat 78,8 Millionen Franken für den Bau einer kombinierten Gas- und<lb facs="#facs_144_r34"/>Dampfturbinenanlage im Heizkraftwerk Aubrugg. Der Kredit muss der<lb facs="#facs_144_r35"/>Volksabstimmung unterbreitet werden.</p>
+			<p>
+				<lb facs="#facs_144_r36"/>Der Regierungsrat beantragt dem Kantonsrat, für die Beteiligung an<lb facs="#facs_144_r37"/>Investitionen der Südostbahn einen Kredit von 3,399 Millionen Franken<lb facs="#facs_144_r38"/>zu bewilligen.</p>
+			<p>
+				<lb facs="#facs_144_r39"/>Der Regierungsrat hat lic. iur. Stephan Gerber, Lenzburg, auf den<lb facs="#facs_144_r40"/><date when="1995-12-01">1. Dezember 1995</date> zum Chefsteuerkommissär gewählt.</p>
+			<p>
+				<lb facs="#facs_144_r42"/>Der Regierungsrat hat Dr. iur. Karin Andrea den <date when="1995-12-01">1. Dezember 1995</date> zur ausserordentlichen Bezirksanwältin bei der<lb facs="#facs_144_r45"/>Bezirksanwaltschaft Uster mit Amtsbefugnis für das ganze Kantons<lb break="no" facs="#facs_144_r46"/>gebiet gewählt.</p>
+			<pb n="145" facs="#facs_145"/>
+			<fw type="pageNum" place="top-right">
+				<lb facs="#facs_145_r0"/>143</fw>
+			<p>
+				<lb facs="#facs_145_r1"/>Es sind gewählt worden:<lb facs="#facs_145_r2"/>Als Hauptlehrer für Physik mit halbem Pensum an der Kantonsschule<lb facs="#facs_145_r3"/>Zürcher Unterland: Dieter Kuhn, dipl. phys ., Zürich;<lb facs="#facs_145_r4"/>als Hauptlehrer für Alte Sprachen mit reduziertem Pensum an der<lb facs="#facs_145_r5"/>Kantonsschule Zürcher Unterland: Marcel Looser, lic. phil. I, Dietlikon.</p>
+			<p>
+				<lb facs="#facs_145_r6"/>Unter Verdankung der geleisteten Dienste sind aus dem Staatsdienst<lb facs="#facs_145_r7"/>entlassen worden:</p>
+			<p>
+				<lb facs="#facs_145_r8"/>Prof. Dr. Annemarie Pestalozzi-Schärli, Hauptlehrerin für Englisch an<lb facs="#facs_145_r9"/>der Kantonsschule Oerlikon Zürich, altershalber auf Ende des Herbst<lb break="no" facs="#facs_145_r10"/>semesters 1995/96;</p>
+			<p>
+				<lb facs="#facs_145_r11"/>Prof. Walter Strehler, Dipl. Ing. ETH, Hauptlehrer für maschinentechni<lb break="no" facs="#facs_145_r12"/>sche Fächer am Technikum Winterthur Ingenieurschule, altershalber<lb facs="#facs_145_r13"/>auf Ende des Herbstsemesters 1995/96;</p>
+			<p>
+				<lb facs="#facs_145_r14"/>Regina Meister, dipl. Seminarlehrerin, Haushaltungslehrerin, wird<lb facs="#facs_145_r15"/>entsprechend ihrem Gesuch auf Ende des Herbstsemesters 1995/96 als<lb facs="#facs_145_r16"/>Hauptlehrerin für beruflichen Fachunterricht und Fachdidaktik mit<lb facs="#facs_145_r17"/>halbem Pensum am Haushaltungslehrerinnenseminar (HLS) entlassen.</p>
+			<div type="subtitle" n="3">
+				<head type="subtitle" n="3">
+					<lb facs="#facs_145_r18"/>vom <date when="1995-12-20">20. Dezember 1995</date></head>
+				<p>
+					<lb facs="#facs_145_r20"/>Für den Umbau der ehemaligen Landwirtschaftlichen Schule Unterland<lb facs="#facs_145_r21"/>für die Zwecke einer Haushaltungsschule und die Sanierung der<lb facs="#facs_145_r22"/>Liegenschaft wird ein Objektkredit von Fr.2950000 bewilligt. Die<lb facs="#facs_145_r23"/>Kosten gehen mit Fr. 1850 000 zu Lasten des Kontos Umbau von<lb facs="#facs_145_r24"/>Liegenschaften und mit Fr. 1 100 000 zu Lasten des Kontos Erneuerungs<lb break="no" facs="#facs_145_r25"/>unterhalt der Liegenschaften.</p>
+				<p>
+					<lb facs="#facs_145_r26"/>Für die Sanierung und den Umbau des Trakts G der Psychiatrischen<lb facs="#facs_145_r27"/>Universitätsklinik Zürich wird ein Kredit von Fr. 17 500000 bewilligt.<lb facs="#facs_145_r28"/>Davon gehen Fr. 16331 700 zu Lasten des Erneuerungsunterhalts (ge<lb break="no" facs="#facs_145_r29"/>bundene Ausgaben) und Fr. 1 168 300 zu Lasten des Umbaukredits.</p>
+				<p>
+					<lb facs="#facs_145_r30"/>Der Regierungsrat hat die Vollziehungsverordnung über das Ausver<lb break="no" facs="#facs_145_r31"/>kaufswesen vom <date when="1971-05-19">19. Mai 1971</date> aufgehoben.</p>
+				<p>
+					<lb facs="#facs_145_r34"/>Der Regierungsrat beantragt dem Kantonsrat, den Rahmenkredit von<lb facs="#facs_145_r35"/>sechs Millionen Franken für Beiträge an Energieplanung, an Pilotpro<lb break="no" facs="#facs_145_r36"/>jekte und zur Förderung der Information im Bereich Energie um zwei<lb facs="#facs_145_r37"/>Jahre bis Ende <date when="1997">1997</date> zu verlängern.</p>
+				<p>
+					<lb facs="#facs_145_r40"/>Der Regierungsrat hat an der letzten Sitzung im europäischen<lb facs="#facs_145_r41"/>Naturschutzjahr 1995 das Naturschutz-Gesamtkonzept für den Kanton<lb facs="#facs_145_r42"/>Zürich festgesetzt.</p>
+				<pb n="146" facs="#facs_146"/>
+				<fw type="pageNum" place="top-left">
+					<lb facs="#facs_146_r0"/>144</fw>
+				<p>
+					<lb facs="#facs_146_r1"/>Der Regierungsrat hat lic. iur. und dipl. Chem. Christoph Andreas Naef,<lb facs="#facs_146_r2"/>Zürich, auf den <date when="1996-01-01">1. Januar 1996</date> zum ausserordentlichen Bezirksanwalt<lb facs="#facs_146_r5"/>bei der Bezirksanwaltschaft Bülach mit Amtsbefugnis im ganzen<lb facs="#facs_146_r6"/>Kantonsgebiet gewählt.</p>
+				<p>
+					<lb facs="#facs_146_r7"/>Mit Brevetdatum vom <date when="1996-01-01">1. Januar 1996</date> hat der Regierungsrat die<lb facs="#facs_146_r10"/>folgenden Hauptleute zu Majoren der Infanterie befördert: Markus<lb facs="#facs_146_r11"/>Bösiger, Geroldswil, und Adrian Spörri, Thalwil.</p>
+				<p>
+					<lb facs="#facs_146_r12"/>Folgende Oberleutnants wurden zu Hauptleuten der Infanterie beför<lb break="no" facs="#facs_146_r13"/>dert: Flavio Battaini, Unterengstringen, Reto Eberle, Zürich, Daniel<lb facs="#facs_146_r14"/>Eisele, Herrliberg, Christian Helbig, Zürich, Thomas Hodel, Rüschli<lb break="no" facs="#facs_146_r15"/>kon, Jörg Köhler, Oberdorf SO, Gabor Ondo, Adliswil, und Hans-<lb facs="#facs_146_r16"/>Ulrich Rösli, Winterthur.</p>
+				<p>
+					<lb facs="#facs_146_r17"/>Unter Verdankung der geleisteten Dienste ist aus dem Staatsdienst<lb facs="#facs_146_r18"/>entlassen worden:<lb facs="#facs_146_r19"/>Prof. Dr. David Zäch, Hauptlehrer für Chemie am Mathematisch<lb break="no" facs="#facs_146_r20"/>naturwissenschaftlichen Gymnasium der Kantonsschule Rämibühl Zü<lb break="no" facs="#facs_146_r21"/>rich, altershalber auf Ende des Herbstsemesters 1995/96.</p>
+			</div>
+			<div type="subtitle" n="3">
+				<head type="subtitle" n="3">
+					<lb facs="#facs_146_r22"/>vom <date when="1996-01-03">3. Januar 1996</date></head>
+				<p>
+					<lb facs="#facs_146_r24"/>Der Regierungsrat hat die Rekurse gegen die Verfügung der Baudirek<lb break="no" facs="#facs_146_r25"/>tion zur Bau- und Zonenordnung der Stadt Zürich (BZO) abgewiesen,<lb facs="#facs_146_r26"/>soweit darauf einzutreten war.</p>
+				<p>
+					<lb facs="#facs_146_r27"/>Der Regierungsrat hat den Entwurf zum Gesetz über die Rahmen<lb break="no" facs="#facs_146_r28"/>bestimmungen für die Verwaltungsreform (Verwaltungsreform-Rah<lb break="no" facs="#facs_146_r29"/>mengesetz) zuhanden des Kantonsrates verabschiedet.</p>
+				<p>
+					<lb facs="#facs_146_r30"/>Der Regierungsrat hat die Abrechnung über den Neubau des Nord<lb break="no" facs="#facs_146_r31"/>trakts des Universitätsspitals Zürich von 131,04 Millionen Franken<lb facs="#facs_146_r32"/>genehmigt.</p>
+				<p>
+					<lb facs="#facs_146_r33"/>Der Regierungsrat hat Prof. Dr. sc. math. ETH Balz Bürgisser, Zürich,<lb facs="#facs_146_r34"/>auf Beginn des Frühlingssemesters 1996 zum Prorektor des Realgymna<lb break="no" facs="#facs_146_r35"/>siums der Kantonsschule Rämibühl Zürich gewählt.</p>
+				<pb n="147" facs="#facs_147"/>
+				<fw type="pageNum" place="top-right">
+					<lb facs="#facs_147_r0"/>145</fw>
+			</div>
+		</body></text></TEI>

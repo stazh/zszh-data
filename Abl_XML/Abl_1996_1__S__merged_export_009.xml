@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Konstituierung des Obergerichts des Kantons Zürich für die erste Hälfte des Jahres <date when="1996">1996</date></title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_12_r1"/>Konstituierung des Obergerichts des Kantons Zürich<lb facs="#facs_12_r2"/>für die erste Hälfte des Jahres <date when="1996">1996</date></head>
+			<p>
+				<lb facs="#facs_12_r4"/>Das Obergericht hat sich am <date when="1995-12-06">6. Dezember 1995</date> für die erste Hälfte des<lb facs="#facs_12_r7"/>Jahres 1996 wie folgt konstituiert:</p>
+			<p>
+				<lb facs="#facs_12_r8"/>Obergerichtspräsident: Dr. Bosshart</p>
+			<table>
+				<row>
+					<cell>1. Vizepräsident:Vizepräsidenten:</cell>
+					<cell>Dr. SchmidDr. NeumannDr. Erich BrunnerDr. SpirigBornatico</cell>
+				</row>
+				<row>
+					<cell>Generalsekretär:</cell>
+					<cell>Dr. Daniel Meyer</cell>
+				</row>
+				<row>
+					<cell>Stellvertreter:</cell>
+					<cell>Dr. Zimmermann</cell>
+				</row>
+			</table>
+			<p>
+				<lb facs="#facs_12_r20"/>Besetzung der Kammern des Obergerichts, der angegliederten<lb facs="#facs_12_r21"/>Gerichte und der Kommissionen:</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_12_r22"/>I. Zivilkammer</head>
+				<table>
+					<row>
+						<cell>Vorsitzender:</cell>
+						<cell>Dr. Spirig</cell>
+					</row>
+					<row>
+						<cell>Mitglieder:</cell>
+						<cell>Dr. Suter, Dr. Steck, Dr. Hüppi, Dr. Klopfer,Dr. Pfister</cell>
+					</row>
+					<row>
+						<cell>Sekretäre:</cell>
+						<cell>Dr. Bodmer, Frau Dr. Scherrer, Frau Dr. Trachsel,Frau Bertschi, Frau Volken Peter, Kessler undFrau B. Schärer</cell>
+					</row>
+				</table>
+				<p>
+					<lb facs="#facs_12_r32"/>Sitzungstage: Montag und Donnerstag</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_12_r33"/>II. Zivilkammer</head>
+				<table>
+					<row>
+						<cell>Vorsitzender:</cell>
+						<cell>Dr. Neumann</cell>
+					</row>
+					<row>
+						<cell>Mitglieder:</cell>
+						<cell>Späh, Dr. Schmid, Dr. Lendi, Dr. Kramis und Dr.Müller</cell>
+					</row>
+					<row>
+						<cell>Sekretäre:</cell>
+						<cell>Raschle, Gasser, Frau Senn, Heberlein, FrauEgger, Isler, Dr. Breitschmid und Frau Niggli</cell>
+					</row>
+				</table>
+				<p>
+					<lb facs="#facs_12_r42"/>Sitzungstage: Dienstag und Freitag</p>
+				<pb n="13" facs="#facs_13"/>
+				<fw type="pageNum" place="top-right">
+					<lb facs="#facs_13_r0"/>11</fw>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_13_r1"/>III. Zivilkammer</head>
+				<table>
+					<row>
+						<cell>Vorsitzender:</cell>
+						<cell>Dr. Bosshart</cell>
+					</row>
+					<row>
+						<cell>Mitglieder:</cell>
+						<cell>Dr. Fraefel, Dr. Mazurczak, Seeger, Dr. Wyler undBenz</cell>
+					</row>
+					<row>
+						<cell>Sekretäre:</cell>
+						<cell>Nägeli, Frau Mosimann, Dr. Hasler</cell>
+					</row>
+				</table>
+				<p>
+					<lb facs="#facs_13_r9"/>Anklagekammer</p>
+				<table>
+					<row>
+						<cell>Vorsitzender:</cell>
+						<cell>Dr. Neumann</cell>
+					</row>
+					<row>
+						<cell>Mitglieder:</cell>
+						<cell>Dr. Schmid, Benz, Dr. Suter, Seeger und Dr. Wyler</cell>
+					</row>
+					<row>
+						<cell>Stellvertreter:</cell>
+						<cell>Dr. Fraefel und Dr. Steck</cell>
+					</row>
+					<row>
+						<cell>Sekretäre:</cell>
+						<cell>Die Sekretäre der II. Zivilkammer</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_13_r18"/>I. Strafkammer</head>
+				<table>
+					<row>
+						<cell>Vorsitzender:</cell>
+						<cell>Bornatico</cell>
+					</row>
+					<row>
+						<cell>Mitglieder:Sekretäre:</cell>
+						<cell>Dr. Keller, Dr. Mathys, Dr. Alexander Brunner,Frau Dr. Schaffitz, Dr. Martin und Dr. SchätzleA. Schärer, Frau Meuter und Frau Augustin</cell>
+					</row>
+				</table>
+				<p>
+					<lb facs="#facs_13_r26"/>Sitzungstage: Montag, Mittwoch (nach Bedarf)<lb facs="#facs_13_r27"/>und Donnerstag</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_13_r28"/>II. Strafkammer</head>
+				<table>
+					<row>
+						<cell>Vorsitzender:</cell>
+						<cell>Dr. Erich Brunner</cell>
+					</row>
+					<row>
+						<cell>Mitglieder:</cell>
+						<cell>Dr. Hans Meyer, Dr. Hauser, Scheidegger, Diggelmann, Frau Katzenstein und Helm</cell>
+					</row>
+					<row>
+						<cell>Sekretäre:</cell>
+						<cell>Muheim und Flury</cell>
+					</row>
+				</table>
+				<p>
+					<lb facs="#facs_13_r36"/>Sitzungstage: Dienstag, Mittwoch (nach Bedarf)<lb facs="#facs_13_r37"/>und Freitag</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_13_r38"/>III. Strafkammer</head>
+				<table>
+					<row>
+						<cell>Vorsitzender:</cell>
+						<cell>Dr. Bosshart</cell>
+					</row>
+					<row>
+						<cell>Mitglieder:</cell>
+						<cell>Die Mitglieder der I. und der II. Strafkammer</cell>
+					</row>
+				</table>
+				<pb n="14" facs="#facs_14"/>
+				<fw type="pageNum" place="top-left">
+					<lb facs="#facs_14_r0"/>12</fw>
+				<p>
+					<lb facs="#facs_14_r1"/>Sekretäre:</p>
+				<p>
+					<lb facs="#facs_14_r2"/>Dr. Jörg Meier, Dr. Weibel, Marti, Achtnich, Frau<lb facs="#facs_14_r3"/>Wälti, Stricker, Frau Welti, Ernst, Frau Augustin<lb facs="#facs_14_r4"/>und Bosonnet</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_14_r5"/>Geschworenengericht</head>
+				<table>
+					<row>
+						<cell>Präsident:</cell>
+						<cell>Dr. Huber</cell>
+					</row>
+					<row>
+						<cell>Stellvertreter:</cell>
+						<cell>Dr. Mathys</cell>
+					</row>
+					<row>
+						<cell>Gerichtsschreiber:</cell>
+						<cell>Heimann</cell>
+					</row>
+					<row>
+						<cell>Sekretärin:</cell>
+						<cell>Frau Brühwiler</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_14_r14"/>Revisionskammer</head>
+				<table>
+					<row>
+						<cell>Präsident:</cell>
+						<cell>Dr. Bosshart</cell>
+					</row>
+					<row>
+						<cell>Mitglieder:</cell>
+						<cell>Späh, Dr. Suter, Seeger und Dr. Klopfer</cell>
+					</row>
+					<row>
+						<cell>Ersatzmitglieder:</cell>
+						<cell>Die übrigen Mitglieder des Obergerichts</cell>
+					</row>
+					<row>
+						<cell>Sekretäre:</cell>
+						<cell>Die Sekretäre der III. Strafkammer</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_14_r23"/>Handelsgericht</head>
+				<table>
+					<row>
+						<cell>Präsident:</cell>
+						<cell>Dr. Armand Meyer</cell>
+					</row>
+					<row>
+						<cell>Vizepräsident:</cell>
+						<cell>Dr. Früh</cell>
+					</row>
+					<row>
+						<cell>Weitere juristischeMitglieder:</cell>
+						<cell>Dr. Fraefel, Dr. Mazurczak, Seeger, Dr. Wyler undBenz</cell>
+					</row>
+					<row>
+						<cell>Gerichtsschreiber:</cell>
+						<cell>Zürcher</cell>
+					</row>
+					<row>
+						<cell>Sekretäre:</cell>
+						<cell>Dr. Brändle und Dr. Kriech, 5 Vakanzen</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_14_r36"/>Verwaltungskommission</head>
+				<table>
+					<row>
+						<cell>Präsident:</cell>
+						<cell>Dr. Bosshart</cell>
+					</row>
+					<row>
+						<cell>Vizepräsident:</cell>
+						<cell>Dr. Schmid</cell>
+					</row>
+					<row>
+						<cell>Mitglieder:</cell>
+						<cell>Dr. Hüppi, Bornatico und Dr. Erich Brunner</cell>
+					</row>
+					<row>
+						<cell>Ersatzmitglieder:</cell>
+						<cell>Benz, Dr. Suter, Dr. Klopfer, Dr. Mazurczak undFrau Katzenstein</cell>
+					</row>
+					<row>
+						<cell>Sekretariat:</cell>
+						<cell>Der Generalsekretär und sein Stellvertreter</cell>
+					</row>
+				</table>
+				<pb n="15" facs="#facs_15"/>
+				<fw type="pageNum" place="top-right">
+					<lb facs="#facs_15_r0"/>13</fw>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_15_r1"/>Kommission für die Prüfung der Rechtsanwaltskandidaten</head>
+				<table>
+					<row>
+						<cell>Vorsitzender:</cell>
+						<cell>Dr. Keller</cell>
+					</row>
+					<row>
+						<cell>Mitglieder:</cell>
+						<cell>Prof. Dr. Vogel (bis 31.12.1996), die OberrichterDr. Neumann und Dr. Suter, die RechtsanwälteDr. Roland Gmür, Dr. Claus Schellenberg und Dr.Peter Isler, Prof. Dr. Jörg Rehberg, Dr. EmilDietsch</cell>
+					</row>
+					<row>
+						<cell>Ersatzmitglieder:</cell>
+						<cell>Die Oberrichter Dr. Hans Schmid, Dr. Klopferund Dr. Steck, Prof. Dr. Karl Spühler, die Rechtsanwälte Dr. Katharina Sameli, Dr. Urs Dietrich,Dr. Robert Wolfer, Dr. Rudolf Ottomann, Dr.François Ruckstuhl, Dr. Daniel Wehrli, Dr. Stephen Berti, Hans Ulrich Hardmeier, Dr. DanielWyss und Bea Rotach Tomschin, Prof. Dr. Andreas Donatsch, VerwaltungsgerichtsvizepräsidentDr. Andreas Hintermann</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_15_r20"/>Kommission für die Prüfung der Notariatskandidaten</head>
+				<table>
+					<row>
+						<cell>Vorsitzender:</cell>
+						<cell>Oberrichter Dr. Spirig</cell>
+					</row>
+					<row>
+						<cell>Mitglieder:</cell>
+						<cell>Prof. Dr. Heinz Rey und NotariatsinspektorSchmid</cell>
+					</row>
+					<row>
+						<cell>Ersatzmitglieder:</cell>
+						<cell>Oberrichter Dr. Suter, Prof. Dr. Walter Ott undNotariatsinspektor Biber</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_15_r29"/>Bibliothekkommission</head>
+				<table>
+					<row>
+						<cell>Vorsitzender:</cell>
+						<cell>Oberrichter Dr. Fraefel</cell>
+					</row>
+					<row>
+						<cell>Mitglieder:</cell>
+						<cell>Die Oberrichter Dr. Steck und Diggelmann sowieder Generalsekretär</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_15_r35"/>Aufsichtskommission über die Rechtsanwälte</head>
+				<table>
+					<row>
+						<cell/>
+						<cell>Vom Obergericht gewählt:</cell>
+					</row>
+					<row>
+						<cell>Präsident:</cell>
+						<cell>Oberrichter Späh</cell>
+					</row>
+					<row>
+						<cell>Vizepräsident:</cell>
+						<cell>Oberrichter Dr. Früh</cell>
+					</row>
+					<row>
+						<cell>Mitglieder:</cell>
+						<cell>Oberrichter Dr. Lendi und Staatsanwalt Dr. Hansruedi Müller</cell>
+					</row>
+				</table>
+				<pb n="16" facs="#facs_16"/>
+				<fw type="pageNum" place="top-left">
+					<lb facs="#facs_16_r0"/>14</fw>
+				<table>
+					<row>
+						<cell>Ersatzmitglieder:</cell>
+						<cell>Von der Anwaltschaft gewählt:Die Rechtsanwälte Dr. Eugen Isler, Dr. MarkusWirth, Dr. Jürg FurgerVom Obergericht gewählt:Die Oberrichter Benz und Dr. Klopfer, die Bezirksgerichtsvizepräsidenten Hediger und Dr.Daetwyler</cell>
+					</row>
+					<row>
+						<cell>Sekretariat:</cell>
+						<cell>Von der Anwaltschaft gewählt:Die Rechtsanwälte Dr. Stefan Kraft, Dr. PeterTrautvetter und Dr. Christoph HohlerDer Generalsekretär des Obergerichts und alsStellvertreterin Frau Dr. Scherrer</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_16_r15"/>Ersatzrichter des Obergerichts:</head>
+				<p>
+					<lb facs="#facs_16_r16"/>1. Dr. Marcel Lautner, Bezirksgerichtsvizepräsident</p>
+				<p>
+					<lb facs="#facs_16_r17"/>2. Dr. Andreas Gerber, Bezirksgerichtsvizepräsident</p>
+				<p>
+					<lb facs="#facs_16_r18"/>3. Dr. Bernhard Sager, Bezirksrichter</p>
+				<p>
+					<lb facs="#facs_16_r19"/>4. Dr. Iso Schumacher, Bezirksrichter</p>
+				<p>
+					<lb facs="#facs_16_r20"/>5. Lic. iur. Anton Schärer, jur. Sekretär mbA am Obergericht</p>
+				<p>
+					<lb facs="#facs_16_r21"/>6. Dr. Doris Weber, Bezirksrichterin</p>
+				<p>
+					<lb facs="#facs_16_r22"/>7. Dr. Georg Naegeli, Bezirksrichter</p>
+				<p>
+					<lb facs="#facs_16_r23"/>8. Dr. Werner Hotz, Bezirksgerichtspräsident</p>
+				<p>
+					<lb facs="#facs_16_r24"/>9. Lic. iur. Eleonora Lichti Aschwanden, Bezirksrichterin</p>
+				<p>
+					<lb facs="#facs_16_r25"/>10. Dr. Helen Kneubühler Dienst</p>
+				<p>
+					<lb facs="#facs_16_r26"/>11. Dr. Verena Gick, Rechtsanwältin</p>
+				<p>
+					<lb facs="#facs_16_r27"/>12. Dr. Gustav Hug, Bezirksgerichtsvizepräsident</p>
+				<p>
+					<lb facs="#facs_16_r28"/>13. Dr. Franz Bollinger, Bezirksgerichtsvizepräsident</p>
+				<p>
+					<lb facs="#facs_16_r29"/>14. Lic. iur. Peter Hodel, Bezirksgerichtsvizepräsident</p>
+				<p>
+					<lb facs="#facs_16_r30"/>15. Lic. iur. Willy Meyer, Bezirksgerichtspräsident</p>
+				<p>
+					<lb facs="#facs_16_r31"/>16. Dr. Eugène Brunner</p>
+				<p>
+					<lb facs="#facs_16_r32"/>17. Dr. Dieter Hierholzer, Rechtsanwalt</p>
+				<p>
+					<lb facs="#facs_16_r33"/>18. Prof. Dr. Peter Nobel, Rechtsanwalt</p>
+				<p>
+					<lb facs="#facs_16_r34"/>19. Lic. iur. Regula Affolter</p>
+				<p>
+					<lb facs="#facs_16_r35"/>20. Lic. iur. Peter Raschle, jur. Sekretär mbA am Obergericht</p>
+				<p>
+					<lb facs="#facs_16_r36"/>21. Dr. Dieter Gessler, Bezirksgerichtspräsident</p>
+				<p>
+					<lb facs="#facs_16_r37"/>22. Lic. iur. Johann Zürcher, Handelsgerichtsschreiber</p>
+				<pb n="17" facs="#facs_17"/>
+				<fw type="pageNum" place="top-right">
+					<lb facs="#facs_17_r0"/>15</fw>
+				<p>
+					<lb facs="#facs_17_r1"/>23. Dr. Richard Altherr, Bezirksgerichtsvizepräsident</p>
+				<p>
+					<lb facs="#facs_17_r2"/>24. Lic. iur. Kurt Balmer, Bezirksgerichtsvizepräsident</p>
+				<p>
+					<lb facs="#facs_17_r3"/>25.<lb facs="#facs_17_r4"/>Dr. Dieter Brändle, jur. Sekretär mbA am Obergericht</p>
+				<p>
+					<lb facs="#facs_17_r5"/>26. Lic. iur. Yvona Griesser</p>
+				<p>
+					<lb facs="#facs_17_r6"/>27. Dr. Eva Vontobel-Lareida</p>
+				<p>
+					<lb facs="#facs_17_r7"/>28. Lic. iur. Victor Muheim, juristischer Sekretär am Obergericht</p>
+				<p>
+					<lb facs="#facs_17_r8"/>29. Lic. iur. Verena Bräm, alt Oberrichterin</p>
+				<p>
+					<lb facs="#facs_17_r9"/>30. Dr. Rudolf Bodmer, juristischer Sekretär am Obergericht</p>
+				<p>
+					<lb facs="#facs_17_r10"/>(Nrn. 1-15 vom Kantonsrat, Nrn. 16-30 vom Obergericht gewählt)</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_17_r11"/>Geschäftsverteilung unter den Kammern des Obergerichts</head>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_17_r12"/>Die I. Zivilkammer behandelt:</head>
+					<p>
+						<lb facs="#facs_17_r13"/>1. die beim Obergericht als einziger kantonaler Instanz anhängig<lb facs="#facs_17_r14"/>gemachten Zivilprozesse;</p>
+					<p>
+						<lb facs="#facs_17_r15"/>2. die Berufungen gegen Urteile der Bezirksgerichte in Ehesachen;</p>
+					<p>
+						<lb facs="#facs_17_r16"/>3. Berufungen gegen andere Urteile der Bezirksgerichte, mit Aus<lb break="no" facs="#facs_17_r17"/>nahme der Vaterschafts- und Vormundschaftssachen;</p>
+					<p>
+						<lb facs="#facs_17_r18"/>4. die Berufungen gegen Urteile der Arbeitsgerichte;</p>
+					<p>
+						<lb facs="#facs_17_r19"/>5. die Gesuche um Wiederherstellung (Revision) gegenüber ihren<lb facs="#facs_17_r20"/>Urteilen und Beschlüssen;</p>
+					<p>
+						<lb facs="#facs_17_r21"/>6. die Rekurse</p>
+					<p>
+						<lb facs="#facs_17_r22"/>a) gegen Verfügungen der Einzelrichter in Ehesachen,</p>
+					<p>
+						<lb facs="#facs_17_r23"/>b) gegen Verfügungen und Beschlüsse der Arbeitsgerichte und der<lb facs="#facs_17_r24"/>Bezirksgerichte, mit Ausnahme der Vaterschafts -, Vormund<lb break="no" facs="#facs_17_r25"/>schafts -, Nachlass -, Stundungs- und Sanierungssachen sowie der<lb facs="#facs_17_r26"/>Rekurse gegen Entscheide der erstinstanzlichen Aufsichtsbehör<lb break="no" facs="#facs_17_r27"/>den,</p>
+					<p>
+						<lb facs="#facs_17_r28"/>c) gegen der Berufung unterliegende Urteile der Bezirksgerichte,<lb facs="#facs_17_r29"/>mit Ausnahme der Vaterschafts- und Vormundschaftssachen,<lb facs="#facs_17_r30"/>wenn sie nur mit Bezug auf die Kosten- und Entschädigungs<lb break="no" facs="#facs_17_r31"/>bestimmungen angefochten werden.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_17_r32"/>Die II. Zivilkammer behandelt:</head>
+					<p>
+						<lb facs="#facs_17_r33"/>1. die Berufungen gegen Urteile der Bezirksgerichte in Vaterschafts<lb break="no" facs="#facs_17_r34"/>sachen;</p>
+					<pb n="18" facs="#facs_18"/>
+					<fw type="pageNum" place="top-left">
+						<lb facs="#facs_18_r0"/>16</fw>
+					<p>
+						<lb facs="#facs_18_r1"/>2. Berufungen gegen andere Urteile der Bezirksgerichte, mit Aus<lb break="no" facs="#facs_18_r2"/>nahme der Ehesachen;</p>
+					<p>
+						<lb facs="#facs_18_r3"/>3. Berufungen gegen Urteile der Einzelrichter im beschleunigten<lb facs="#facs_18_r4"/>Verfahren und im ordentlichen Verfahren (§ 271 EG ZGB);</p>
+					<p>
+						<lb facs="#facs_18_r5"/>4. Berufungen gegen Urteile der Mietgerichte;</p>
+					<p>
+						<lb facs="#facs_18_r6"/>5. Berufungen betreffend Fürsorgerische Freiheitsentziehung;</p>
+					<p>
+						<lb facs="#facs_18_r7"/>6. die Gesuche um Wiederherstellung (Revision) gegenüber ihren<lb facs="#facs_18_r8"/>Urteilen und Beschlüssen;</p>
+					<p>
+						<lb facs="#facs_18_r9"/>7. die Rekurse</p>
+					<p>
+						<lb facs="#facs_18_r10"/>a) gegen Verfügungen und Beschlüsse der Bezirksgerichte in<lb facs="#facs_18_r11"/>Vaterschafts- und Vormundschaftssachen,</p>
+					<p>
+						<lb facs="#facs_18_r12"/>b) gegen Verfügungen und Beschlüsse der Bezirksgerichte in<lb facs="#facs_18_r13"/>Nachlass -, Stundungs- und Sanierungssachen,</p>
+					<p>
+						<lb facs="#facs_18_r14"/>c) gegen Verfügungen der Einzelrichter im summarischen Verfah<lb break="no" facs="#facs_18_r15"/>ren (ausser Ehesachen), im ordentlichen und im beschleunigten<lb facs="#facs_18_r16"/>Verfahren,</p>
+					<p>
+						<lb facs="#facs_18_r17"/>d) gegen Verfügungen, Beschlüsse und Urteile der Mietgerichte,</p>
+					<p>
+						<lb facs="#facs_18_r18"/>e) gegen Entscheide der erstinstanzlichen Aufsichtsbehörden in<lb facs="#facs_18_r19"/>Schuldbetreibungs- und Konkurssachen, in gemeindeammann<lb break="no" facs="#facs_18_r20"/>amtlichen Sachen, in Viehverschreibungssachen sowie in Sachen<lb facs="#facs_18_r21"/>der Notariate und Grundbuchämter,</p>
+					<p>
+						<lb facs="#facs_18_r22"/>f) gegen der Berufung unterliegende Urteile der Bezirksgerichte in<lb facs="#facs_18_r23"/>Vaterschaftssachen, wenn sie nur mit Bezug auf die Kosten- und<lb facs="#facs_18_r24"/>Entschädigungsbestimmungen angefochten werden,</p>
+					<p>
+						<lb facs="#facs_18_r25"/>g) gegen der Berufung unterliegende Urteile der Einzelrichter im<lb facs="#facs_18_r26"/>ordentlichen und im beschleunigten Verfahren, wenn sie nur mit<lb facs="#facs_18_r27"/>Bezug auf die Kosten- und Entschädigungsbestimmungen ange<lb break="no" facs="#facs_18_r28"/>fochten werden,</p>
+					<p>
+						<lb facs="#facs_18_r29"/>h) gegen Entscheide der zuständigen Direktionen des Regierungs<lb break="no" facs="#facs_18_r30"/>rates betr. Ehemündigkeit und Namensänderung,</p>
+					<p>
+						<lb facs="#facs_18_r31"/>8. die Gesuche um amtliche Anweisung (§ 65 GVG und § 17 Abs. 2<lb facs="#facs_18_r32"/>ZPO) und um Anweisung eines gemeinsamen Gerichtsstandes (§ 14<lb facs="#facs_18_r33"/>ZPO);</p>
+					<p>
+						<lb facs="#facs_18_r34"/>9. die gerichtliche Beurteilung von Entscheiden der Bezirksräte über</p>
+					<p>
+						<lb facs="#facs_18_r35"/>a) Vormundschaftsbeschwerden,</p>
+					<p>
+						<lb facs="#facs_18_r36"/>b) die Entziehung oder Nichtwiederherstellung der elterlichen<lb facs="#facs_18_r37"/>Gewalt,</p>
+					<p>
+						<lb facs="#facs_18_r38"/>c) die Entmündigung und Verbeiratung sowie die Aufhebung<lb facs="#facs_18_r39"/>dieser Massnahmen.</p>
+					<pb n="19" facs="#facs_19"/>
+					<fw type="pageNum" place="top-right">
+						<lb facs="#facs_19_r0"/>17</fw>
+					<p>
+						<lb facs="#facs_19_r1"/>Die I. Zivilkammer und die II. Zivilkammer behandeln:<lb facs="#facs_19_r2"/>die Rekurse gegen die Beschlüsse der Anklagekammer.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_19_r3"/>Die III. Zivilkammer behandelt:</head>
+					<p>
+						<lb facs="#facs_19_r4"/>1. die Nichtigkeitsbeschwerden in Zivilsachen</p>
+					<p>
+						<lb facs="#facs_19_r5"/>a) gegen Urteile und Verfügungen der Einzelrichter,</p>
+					<p>
+						<lb facs="#facs_19_r6"/>b) gegen Urteile, Verfügungen und Beschlüsse der Arbeitsgerichte,<lb facs="#facs_19_r7"/>Mietgerichte und der Bezirksgerichte,</p>
+					<p>
+						<lb facs="#facs_19_r8"/>c) gegen Zuständigkeitsentscheide, Schiedssprüche und Teil<lb break="no" facs="#facs_19_r9"/>schiedssprüche der Schiedsgerichte;</p>
+					<p>
+						<lb facs="#facs_19_r10"/>2. die Gesuche um Wiederherstellung (Revision)</p>
+					<p>
+						<lb facs="#facs_19_r11"/>a) gegenüber Schiedssprüchen der Schiedsgerichte,</p>
+					<p>
+						<lb facs="#facs_19_r12"/>b) gegenüber ihren eigenen Urteilen, Verfügungen und Beschlüs<lb break="no" facs="#facs_19_r13"/>sen;</p>
+					<p>
+						<lb facs="#facs_19_r14"/>3. die Beschwerden im Sinne von Art. 190 Abs. 2 und 3 in Verbindung<lb facs="#facs_19_r15"/>mit Art. 191 Abs. 2 IPRG gegen Vorentscheide, Teilentscheide und<lb facs="#facs_19_r16"/>Schiedsentscheide der Schiedsgerichte;</p>
+					<p>
+						<lb facs="#facs_19_r17"/>4. die Gesuche um Ernennung und Ersetzung von Schiedsrichtern<lb facs="#facs_19_r18"/>(Art. 12 und 23 Abs. 2 KSchG bzw. Art. 179 Abs. 2 und 3 IPRG) und<lb facs="#facs_19_r19"/>Verlängerung der Amtsdauer von Schiedsrichtern (Art. 16 Abs. KSchG) sowie die Begehren über die Frage der Weitergeltung<lb facs="#facs_19_r20"/>bisheriger</p>
+					<p> Prozesshandlungen (Art. 23 Abs. 3 KSchG);</p>
+					<p>
+						<lb facs="#facs_19_r22"/>5. die Gesuche um Hinterlegung und Zustellung von Schiedssprüchen<lb facs="#facs_19_r23"/>(Art. 35 KSchG bzw. Art. 193 Abs. 1 IPRG) sowie um Ausstellung<lb facs="#facs_19_r24"/>von Vollstreckbarkeitsbescheinigungen bezüglich Schiedssprüchen<lb facs="#facs_19_r25"/>(Art. 44 KSchG bzw. Art. 193 Abs. 2 IPRG).</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_19_r26"/>Die I. Strafkammer und die II. Strafkammer behandeln:</head>
+					<p>
+						<lb facs="#facs_19_r27"/>1. die von der Anklagekammer dem Obergericht überwiesenen<lb facs="#facs_19_r28"/>Strafsachen;</p>
+					<p>
+						<lb facs="#facs_19_r29"/>2. die Berufungen gegen Urteile der Bezirksgerichte, der Gerichtsvor<lb break="no" facs="#facs_19_r30"/>stände, der Jugendgerichte und der Einzelrichter;</p>
+					<pb n="20" facs="#facs_20"/>
+					<fw type="pageNum" place="top-left">
+						<lb facs="#facs_20_r0"/>18</fw>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_20_r1"/>Die III. Strafkammer behandelt:</head>
+					<p>
+						<lb facs="#facs_20_r2"/>1. die Nichtigkeitsbeschwerden gegen Urteile und Erledigungsent<lb break="no" facs="#facs_20_r3"/>scheide der Einzelrichter, des Präsidenten des Jugendgerichtes, der<lb facs="#facs_20_r4"/>Gerichtsvorstände, der Bezirksgerichte und der Jugendgerichte;</p>
+					<p>
+						<lb facs="#facs_20_r5"/>2. die Rekurse</p>
+					<p>
+						<lb facs="#facs_20_r6"/>a) gegen das Verfahren, die Verfügungen und Beschlüsse der<lb facs="#facs_20_r7"/>Bezirksgerichts- und Jugendgerichtspräsidenten, der bezirksge<lb break="no" facs="#facs_20_r8"/>richtlichen Untersuchungsrichter, der Einzelrichter, der Be<lb break="no" facs="#facs_20_r9"/>zirksgerichte und Jugendgerichte in Sachen, die von ihnen<lb facs="#facs_20_r10"/>erstinstanzlich erledigt werden,</p>
+					<p>
+						<lb facs="#facs_20_r11"/>b) gegen die Verfügungen der Bezirksanwaltschaften im Rechts<lb break="no" facs="#facs_20_r12"/>hilfeverfahren für ausländische Staaten,</p>
+					<p>
+						<lb facs="#facs_20_r13"/>c) gegen Urteile der Bezirksgerichte, der Einzelrichter und der<lb facs="#facs_20_r14"/>Jugendgerichte, wenn sich der Rekurs nur auf die Kostenauflage<lb facs="#facs_20_r15"/>bezieht;</p>
+					<p>
+						<lb facs="#facs_20_r16"/>d) gegen das Verfahren und die Verfügungen der Staatsanwaltschaft<lb facs="#facs_20_r17"/>im Falle der Nichtanhandnahme oder Einstellung einer Unter<lb break="no" facs="#facs_20_r18"/>suchung.</p>
+					<p>
+						<lb facs="#facs_20_r19"/>3. die Gesuche um Wiederaufnahme des Verfahrens (Revision)<lb facs="#facs_20_r20"/>gegenüber Urteilen der Bezirksgerichte, der Jugendgerichte, der<lb facs="#facs_20_r21"/>Einzelrichter und gegenüber Strafbefehlen;</p>
+					<p>
+						<lb facs="#facs_20_r22"/>4. Gesuche um Rehabilitation und Löschung von Strafregistereinträ<lb break="no" facs="#facs_20_r23"/>gen;</p>
+					<p>
+						<lb facs="#facs_20_r24"/>5. Begehren um Vollstreckung ausländischer Strafentscheide (Art.<lb facs="#facs_20_r25"/>94 ff. IRSG);</p>
+					<p>
+						<lb facs="#facs_20_r26"/>6. a) Gesuche um nachträgliche Umwandlung nicht vollstreckter<lb facs="#facs_20_r27"/>Bussen in Haft und um nachträgliche Ausschliessung der<lb facs="#facs_20_r28"/>Umwandlung,</p>
+					<p>
+						<lb facs="#facs_20_r29"/>b) Erlass der Mahnung an den mit bedingtem Strafvollzug Ver<lb break="no" facs="#facs_20_r30"/>urteilten, Anordnung des Strafvollzuges und Widerruf der<lb facs="#facs_20_r31"/>bedingten Löschbarkeit einer Busse im Falle der Nichtbewäh<lb break="no" facs="#facs_20_r32"/>rung, Veranlassung der Löschung des Urteils im Strafregister im<lb facs="#facs_20_r33"/>Bewährungsfalle,</p>
+					<p>
+						<lb facs="#facs_20_r34"/>c) Anordnung des Vollzuges aufgeschobener Strafen,</p>
+					<p>
+						<lb facs="#facs_20_r35"/>d) Aufhebung des Wirtshausverbots,</p>
+					<p>
+						<lb facs="#facs_20_r36"/>e) nachträglicher Entscheid darüber, ob eine Strafe noch zu<lb facs="#facs_20_r37"/>vollziehen sei,</p>
+					<p>
+						<lb facs="#facs_20_r38"/>f) die Begutachtung von Begnadigungsgesuchen;</p>
+					<pb n="21" facs="#facs_21"/>
+					<fw type="pageNum" place="top-right">
+						<lb facs="#facs_21_r0"/>19</fw>
+					<p>
+						<lb facs="#facs_21_r1"/>7. a) Beschlüsse, die nach Beendigung des geschworenengerichtlichen<lb facs="#facs_21_r2"/>Verfahrens zu fassen sind (§ 53 Abs. 2 GVG),</p>
+					<p>
+						<lb facs="#facs_21_r3"/>b) die Beurteilung von Sachen des Geschworenengerichtes, in<lb facs="#facs_21_r4"/>denen nach Wiederaufnahme des Verfahrens zugunsten des<lb facs="#facs_21_r5"/>Verurteilten der Staatsanwalt auf weitere strafrechtliche Verfol<lb break="no" facs="#facs_21_r6"/>gung verzichtet.</p>
+					<closer>
+						<dateline>
+							<lb facs="#facs_21_r7"/>Zürich, den <date when="1995-12-06">6. Dezember 1995</date></dateline>
+						<salute>
+							<lb facs="#facs_21_r9"/>Im Namen des Obergerichts</salute>
+						<signed>
+							<lb facs="#facs_21_r10"/>Der Präsident:<lb facs="#facs_21_r11"/>Dr. Dieter Bosshart</signed>
+						<signed>
+							<lb facs="#facs_21_r12"/>Der Generalsekretär:<lb facs="#facs_21_r13"/>Dr. Daniel Meyer</signed>
+					</closer>
+				</div>
+			</div>
+		</body></text></TEI>

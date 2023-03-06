@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Beschluss des Regierungsrates über die Erhöhung der Teuerungszulagen an die Bezüger staatlicher Renten (vom <date when="1995-12-06">6. Dezember 1995)</date></title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_10_r1"/>Beschluss des Regierungsrates<lb facs="#facs_10_r2"/>über die Erhöhung der Teuerungszulagen<lb facs="#facs_10_r3"/>an die Bezüger staatlicher Renten<lb facs="#facs_10_r4"/>(vom <date when="1995-12-06">6. Dezember 1995)</date></head>
+			<p>
+				<lb facs="#facs_10_r6"/>Der Regierungsrat beschliesst:</p>
+			<p>
+				<lb facs="#facs_10_r7"/>I. Die Teuerungszulagen an die staatlichen Renten- und Ruhe<lb break="no" facs="#facs_10_r8"/>gehaltsbezüger werden mit Wirkung ab <date when="1996-01-01">1. Januar 1996</date> um 1% erhöht,<lb facs="#facs_10_r11"/>sofern dem Staatspersonal eine Teuerungszulage von 1% ab <date when="1996-01-01">1. Januar<lb facs="#facs_10_r13"/>1996</date> ausgerichtet wird.1)</p>
+			<p>
+				<lb facs="#facs_10_r15"/>Als Berechnungsbasis gilt die im <date when="1995-12">Dezember 1995</date> bezogene Gesamt<lb break="no" facs="#facs_10_r18"/>summe aus Rente bzw. Ruhegehalt und Teuerungszulage.</p>
+			<p>
+				<lb facs="#facs_10_r19"/>Die Zulage für Halbwaisen und Kinder wird um Fr. 17 im Jahr und<lb facs="#facs_10_r20"/>für Vollwaisen um Fr. 34 im Jahr erhöht.</p>
+			<p>
+				<lb facs="#facs_10_r21"/>II. Für die Festsetzung der Teuerungszulagen sind bei den<lb facs="#facs_10_r22"/>Rentenbezügern der Beamtenversicherungskasse die Rentnerkatego<lb break="no" facs="#facs_10_r23"/>rien 1 bis 26, bei den Renten- und Ruhegehaltsbezügern der übrigen<lb facs="#facs_10_r24"/>staatlichen Zahlstellen die Rentnerkategorien A bis Z bzw. 16 bis 26<lb facs="#facs_10_r25"/>massgebend.</p>
+			<p>
+				<lb facs="#facs_10_r26"/>III. Die Summe aus Rente bzw. Ruhegehalt zuzüglich Teuerungs<lb break="no" facs="#facs_10_r27"/>zulagen darf jeweils die Rente eines entsprechenden Neurentners nicht<lb facs="#facs_10_r28"/>übersteigen, wobei der Besitzstand gewahrt bleibt.</p>
+			<p>
+				<lb facs="#facs_10_r29"/>IV. Die BVK leistet eine einmalige Zulage in der Höhe der<lb facs="#facs_10_r30"/>gesamten Teuerungszulagen, die an die Teuerungszulagen des Staates<lb facs="#facs_10_r31"/>und der angeschlossenen Arbeitgeber angerechnet wird.</p>
+			<p>
+				<lb facs="#facs_10_r32"/>V. Ab <date when="1996-01-01">1. Januar 1996</date> gelten folgende Ansätze für die Ausrichtung<lb facs="#facs_10_r35"/>von Teuerungszulagen auf Renten bzw. Ruhegehältern:</p>
+			<note>
+				<lb facs="#facs_10_r36"/>1) Vgl. S.4.</note>
+			<pb n="11" facs="#facs_11"/>
+			<fw type="pageNum" place="top-right">
+				<lb facs="#facs_11_r0"/>9</fw>
+			<p>
+				<lb facs="#facs_11_r2"/>Rentnerkategorie</p>
+			<figure facs="#facs_11_f0"/>
+			<p>
+				<lb facs="#facs_11_r193"/>VI. Veröffentlichung im Amtsblatt.</p>
+			<closer>
+				<salute>
+					<lb facs="#facs_11_r194"/>Im Namen des Regierungsrates</salute>
+				<signed>
+					<lb facs="#facs_11_r195"/>Der Präsident:<lb facs="#facs_11_r196"/>Homberger</signed>
+				<signed>
+					<lb facs="#facs_11_r197"/>Der Staatsschreiber:<lb facs="#facs_11_r198"/>Husi</signed>
+			</closer>
+			<pb n="12" facs="#facs_12"/>
+			<fw type="pageNum" place="top-left">
+				<lb facs="#facs_12_r0"/>10</fw>
+		</body></text></TEI>

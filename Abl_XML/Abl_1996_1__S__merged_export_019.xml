@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Verordnung über die Fähigkeitsprüfung für den Rechtsanwaltberuf (Änderung) (vom <date when="1995-12-06">6. Dezember 1995)</date></title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_40_r4"/>Verordnung<lb facs="#facs_40_r5"/>über die Fähigkeitsprüfung für den Rechtsanwaltberuf<lb facs="#facs_40_r6"/>(Änderung)<lb facs="#facs_40_r7"/>(vom <date when="1995-12-06">6. Dezember 1995)</date></head>
+			<div>
+				<ab type="remark">
+					<lb facs="#facs_40_r9"/>Antrag des Obergerichts vom <date when="1995-12-06">6. Dezember 1995</date></ab>
+			</div>
+			<div>
+				<ab type="remark">
+					<lb facs="#facs_40_r11"/>KR-Nr. 341/1995</ab>
+			</div>
+			<div>
+				<p>
+					<lb facs="#facs_40_r12"/>Das Obergericht beschliesst:</p>
+				<p>
+					<lb facs="#facs_40_r13"/>I. Die Verordnung über die Fähigkeitsprüfung für den Rechts<lb break="no" facs="#facs_40_r14"/>anwaltberuf vom <date when="1974-06-26">26. Juni 1974</date> wird wie folgt geändert:</p>
+				<p>
+					<lb facs="#facs_40_r17"/>§ 5 lit. a wird gestrichen.<lb facs="#facs_40_r18"/>II. Diese Änderung tritt nach der Genehmigung durch den<lb facs="#facs_40_r19"/>Kantonsrat in Kraft.</p>
+				<p>
+					<lb facs="#facs_40_r20"/>III. Veröffentlichung in der Gesetzessammlung.</p>
+				<div type="subtitle" n="1">
+					<head type="subtitle" n="1">
+						<lb facs="#facs_40_r21"/>Weisung</head>
+					<p>
+						<lb facs="#facs_40_r22"/>Mit Ziffer IV des Gesetzes über die Angleichung des kantonalen<lb facs="#facs_40_r23"/>Prozessrechts an übergeordnetes Recht und über die Rationalisierung<lb facs="#facs_40_r24"/>der Rechtspflege ist das Schweizer Bürgerrecht als Voraussetzung für<lb facs="#facs_40_r25"/>die Berufsausübung aus dem Anwaltsgesetz gestrichen worden. Aus<lb facs="#facs_40_r26"/>diesem Grunde ist die Verordnung über die Fähigkeitsprüfung für den<lb facs="#facs_40_r27"/>Anwaltsberuf entsprechend anzupassen.</p>
+					<p>
+						<lb facs="#facs_40_r28"/>Das Obergericht beantragt, die Änderung der Verordnung über die<lb facs="#facs_40_r29"/>Fähigkeitsprüfung für den Anwaltsberuf vom <date when="1974-06-26">26. Juni 1974</date> zu genehmi<lb break="no" facs="#facs_40_r34"/>gen.</p>
+					<closer>
+						<dateline>
+							<lb facs="#facs_40_r35"/>Zürich, den <date when="1995-12-06">6. Dezember 1995</date></dateline>
+						<salute>
+							<lb facs="#facs_40_r37"/>Im Namen des Obergerichts des Kantons Zürich</salute>
+						<signed>
+							<lb facs="#facs_40_r38"/>Der Präsident:<lb facs="#facs_40_r39"/>Bosshart</signed>
+						<signed>
+							<lb facs="#facs_40_r40"/>Der Generalsekretär:<lb facs="#facs_40_r41"/>Meyer</signed>
+					</closer>
+					<pb n="41" facs="#facs_41"/>
+					<fw type="pageNum" place="top-right">
+						<lb facs="#facs_41_r0"/>39</fw></div></div></body></text></TEI>

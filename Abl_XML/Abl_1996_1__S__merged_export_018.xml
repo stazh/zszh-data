@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Beschluss des Obergerichts über den Stufenaufstieg und die Beförderungen für <date when="1996">1996</date> (vom <date when="1995-12-06">6. Dezember 1995)</date></title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_38_r29"/>Beschluss des Obergerichts<lb facs="#facs_38_r30"/>über den Stufenaufstieg und die Beförderungen für <date when="1996">1996</date><lb facs="#facs_38_r32"/>(vom <date when="1995-12-06">6. Dezember 1995)</date></head>
+			<p>
+				<lb facs="#facs_38_r34"/>Das Obergericht beschliesst:</p>
+			<p>
+				<lb facs="#facs_38_r35"/>I. Für <date when="1996">1996</date> werden folgende Vorschriften erlassen:</p>
+			<p>
+				<lb facs="#facs_38_r38"/>1. 1996 erfolgt kein Aufstieg in den Erfahrungs- und Leistungsstufen.</p>
+			<p>
+				<lb facs="#facs_38_r39"/>2. Individuelle Unterbrechungen des Stufenaufstiegs oder Rück<lb break="no" facs="#facs_38_r40"/>stufungen bleiben unter Vorbehalt von Ziff. 3 bis Ende 1996<lb facs="#facs_38_r41"/>wirksam.</p>
+			<pb n="39" facs="#facs_39"/>
+			<fw type="pageNum" place="top-right">
+				<lb facs="#facs_39_r0"/>37</fw>
+			<p>
+				<lb facs="#facs_39_r1"/>3. Auf <date when="1996-01-01">1. Januar 1996</date> erfolgen keine Beförderungen. Auf <date when="1996-07-01">1. Juli 1996</date><lb facs="#facs_39_r5"/>können im Rahmen des Voranschlags Beförderungen im Umfange<lb facs="#facs_39_r6"/>einer Quote von 15% zuzüglich der aus den Vorjahren übertragenen<lb facs="#facs_39_r7"/>Restquote vorgenommen werden. Beförderungen in Verbindung<lb facs="#facs_39_r8"/>mit Wahlen können frühestens auf <date when="1996-07-01">1. Juli 1996</date> erfolgen.</p>
+			<p>
+				<lb facs="#facs_39_r11"/>4. Im Rahmen des Voranschlages kann auf <date when="1996-01-01">1. Januar 1996</date> ausnahms<lb break="no" facs="#facs_39_r14"/>weise und im Einzelfall auf die Sistierung des Stufenaufstiegs für<lb facs="#facs_39_r15"/>vorzüglich qualifizierte Personen verzichtet werden, die im Laufe<lb facs="#facs_39_r16"/>des Jahres 1996 altershalber zurücktreten, sofern der ausfallende<lb facs="#facs_39_r17"/>Stufenaufstieg zu einer unverhältnismässigen Reduktion ihrer<lb facs="#facs_39_r18"/>Altersrenten führen würde. Solche Fälle sind besonders zu beantra<lb break="no" facs="#facs_39_r19"/>gen und zu begründen und bedürfen der Zustimmung der Verwal<lb break="no" facs="#facs_39_r20"/>tungskommission des Obergerichts.</p>
+			<p>
+				<lb facs="#facs_39_r21"/>5. Zulässig sind 1996 ferner während des ganzen Jahres im Rahmen der<lb facs="#facs_39_r22"/>massgebenden Vorschriften und des Voranschlages:</p>
+			<p>
+				<lb facs="#facs_39_r23"/>5.1 Nicht auf die Beförderungsquote anrechenbare Besoldungs<lb break="no" facs="#facs_39_r24"/>anpassungen bei Funktionswechseln;</p>
+			<p>
+				<lb facs="#facs_39_r25"/>5.2 nicht auf die Beförderungsquote anrechenbare Änderungen<lb facs="#facs_39_r26"/>der Einreihungsklasse aufgrund klarer Vorgaben der Richt<lb break="no" facs="#facs_39_r27"/>positionsumschreibungen;</p>
+			<p>
+				<lb facs="#facs_39_r28"/>5.3 Besoldungserhöhungen in Ausbildungsverhältnissen (Lehr<lb break="no" facs="#facs_39_r29"/>linge, Auditoren), die nach dem jeweiligen Besoldungsregle<lb break="no" facs="#facs_39_r30"/>ment nach Massgabe des Alters oder der Ausbildungsdauer<lb facs="#facs_39_r31"/>vorgesehen sind;</p>
+			<p>
+				<lb facs="#facs_39_r32"/>5.4 auf <date when="--01-01">1. Januar</date> und <date when="1996-07-01">1. Juli 1996</date> Aufstiege aus Anlaufklassen und<lb facs="#facs_39_r37"/>-stufen;</p>
+			<p>
+				<lb facs="#facs_39_r38"/>5.5 einmalige Zulagen gemäss § 33 Abs. 2 BVO.</p>
+			<p>
+				<lb facs="#facs_39_r39"/>II. Dieser Beschluss wird im Amtsblatt des Kantons Zürich<lb facs="#facs_39_r40"/>veröffentlicht.</p>
+			<closer>
+				<salute>
+					<lb facs="#facs_39_r41"/>Für das Obergericht:</salute>
+				<signed>
+					<lb facs="#facs_39_r42"/>Der Präsident<lb facs="#facs_39_r43"/>Dr. Dieter Bosshart</signed>
+				<signed>
+					<lb facs="#facs_39_r44"/>Der Generalsekretär:<lb facs="#facs_39_r45"/>Dr. Daniel Meyer</signed>
+			</closer>
+			<pb n="40" facs="#facs_40"/>
+			<fw type="pageNum" place="top-left">
+				<lb facs="#facs_40_r0"/>38</fw>
+		</body></text></TEI>

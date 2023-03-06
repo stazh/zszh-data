@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Beschluss des Regierungsrates über die für die Beamtenversicherung anrechenbare Besoldung des Staatspersonals (vom <date when="1995-12-06">6. Dezember 1995)</date></title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_8_r7"/>Beschluss des Regierungsrates<lb facs="#facs_8_r8"/>über die für die Beamtenversicherung anrechenbare<lb facs="#facs_8_r9"/>Besoldung des Staatspersonals<lb facs="#facs_8_r10"/>(vom <date when="1995-12-06">6. Dezember 1995)</date></head>
+			<p>
+				<lb facs="#facs_8_r12"/>Der Regierungsrat beschliesst:</p>
+			<p>
+				<lb facs="#facs_8_r13"/>I. Die für die Versicherung anrechenbare Besoldung des versi<lb break="no" facs="#facs_8_r14"/>cherten Staatspersonals wird um die ab 1. Januar <date when="1996">1996</date> geltende<lb facs="#facs_8_r17"/>Teuerungszulage von 1% erhöht.</p>
+			<p>
+				<lb facs="#facs_8_r18"/>II. Die versicherte, für die Berechnung der Beiträge und Leistun<lb break="no" facs="#facs_8_r19"/>gen massgebende Besoldung entspricht der um den Koordinationsab<lb break="no" facs="#facs_8_r20"/>zug von Fr. 23 280 verminderten anrechenbaren Besoldung (§ 14 der<lb facs="#facs_8_r21"/>Statuten der Versicherungskasse für das Staatspersonal vom <date when="--01-27">27. Januar</date><lb facs="#facs_8_r23"/>1988). Eine versicherte Besoldung von weniger als Fr. 2910 muss nach<lb facs="#facs_8_r24"/>Art. 8 Abs. 2 BVG auf diesen Betrag aufgerundet werden.</p>
+			<p>
+				<lb facs="#facs_8_r25"/>Für das nach BR 5 im Stundenlohn angestellte Personal ist der<lb facs="#facs_8_r26"/>versicherte Jahresverdienst aufgrund eines Koordinationsabzugs von<lb facs="#facs_8_r27"/>Fr. 10.65 je geleistete Arbeitsstunde festzusetzen.</p>
+			<p>
+				<lb facs="#facs_8_r28"/>III. Die Differenz zwischen der neu berechneten versicherten<lb facs="#facs_8_r29"/>Besoldung und derjenigen per <date when="--12-31">31. Dezember</date> 1995 wird gemäss § 72<lb facs="#facs_8_r32"/>Statuten durch Abzüge von der Besoldung eingekauft.</p>
+			<p>
+				<lb facs="#facs_8_r33"/>IV. Die vertraglich der BVK angeschlossenen Arbeitgeber sind<lb facs="#facs_8_r34"/>berechtigt, die für die Versicherung anrechenbaren Besoldungen ihrer<lb facs="#facs_8_r35"/>Versicherten im Rahmen des für das Staatspersonal ab <date when="1996-01-01">1. Januar 1996</date><lb facs="#facs_8_r37"/>gültigen Ansatzes zu erhöhen. Für die Festsetzung der versicherten (und<lb facs="#facs_8_r38"/>beitragspflichtigen) Besoldung sowie für den Einkauf der Erhöhung gilt<lb facs="#facs_8_r39"/>die für das Staatspersonals beschlossene Regelung.</p>
+			<pb n="9" facs="#facs_9"/>
+			<fw type="pageNum" place="top-right">
+				<lb facs="#facs_9_r0"/>7</fw>
+			<p>
+				<lb facs="#facs_9_r1"/>V. Die beitragspflichtigen freiwillig Versicherten können ihre<lb facs="#facs_9_r2"/>versicherte Besoldung bei Entrichtung der entsprechenden Einmalein<lb break="no" facs="#facs_9_r3"/>lagen ab <date when="1996-01-01">1. Januar 1996</date> um 1% erhöhen.</p>
+			<p>
+				<lb facs="#facs_9_r6"/>VI. In Fällen mit einer Herabsetzung des Beschäftigungsgrades auf<lb facs="#facs_9_r7"/>den <date when="1996-01-01">1. Januar 1996</date> wird die Erhöhung gleichwohl gemäss Disp. III.<lb facs="#facs_9_r10"/>eingekauft. Die Herabsetzung wird anschliessend gemäss § 16 Abs. 1<lb facs="#facs_9_r11"/>Statuten in eine Verbesserung der Versicherungsleistungen umgerech<lb break="no" facs="#facs_9_r12"/>net.</p>
+			<p>
+				<lb facs="#facs_9_r13"/>VII. Dieser Beschluss tritt am <date when="1996-01-01">1. Januar 1996</date> in Kraft. Er findet<lb facs="#facs_9_r16"/>keine Anwendung auf die vor diesem Datum eintretenden Versiche<lb break="no" facs="#facs_9_r17"/>rungsfälle.</p>
+			<p>
+				<lb facs="#facs_9_r18"/>VIII. Veröffentlichung im Amtsblatt.</p>
+			<closer>
+				<salute>
+					<lb facs="#facs_9_r19"/>Im Namen des Regierungsrates</salute>
+				<signed>
+					<lb facs="#facs_9_r20"/>Der Präsident:<lb facs="#facs_9_r21"/>Homberger</signed>
+				<signed>
+					<lb facs="#facs_9_r22"/>Der Staatsschreiber:<lb facs="#facs_9_r23"/>Husi</signed>
+			</closer>
+		</body></text></TEI>

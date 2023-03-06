@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Beschluss des Regierungsrates über den Stufenaufstieg und die Beförderungen für 1996 (vom <date when="1995-12-06">6. Dezember 1995)</date></title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_7_r1"/>Beschluss des Regierungsrates<lb facs="#facs_7_r2"/>über den Stufenaufstieg und die Beförderungen für 1996<lb facs="#facs_7_r3"/>(vom <date when="1995-12-06">6. Dezember 1995)</date></head>
+			<p>
+				<lb facs="#facs_7_r5"/>Der Regierungsrat beschliesst:</p>
+			<p>
+				<lb facs="#facs_7_r6"/>I. Unter Vorbehalt der Genehmigung des Voranschlags 1996<lb facs="#facs_7_r7"/>durch den Kantonsrat1) werden folgende Vorschriften erlassen:</p>
+			<p>
+				<lb facs="#facs_7_r8"/>1. 1996 erfolgt kein Aufstieg in den Erfahrungs- und Leistungsstufen.<lb facs="#facs_7_r9"/>Volksschul -, Mittelschul- und Berufsschullehrer sowie Pfarrer, die<lb facs="#facs_7_r10"/>sich per <date when="1996-01-01">1. Januar 1996</date> in einem Wartejahr befinden, verbleiben in<lb facs="#facs_7_r13"/>ihrer Stufe.</p>
+			<p>
+				<lb facs="#facs_7_r14"/>2. Individuelle Unterbrechungen des Stufenaufstiegs oder Rück<lb break="no" facs="#facs_7_r15"/>stufungen bleiben unter Vorbehalt von Ziff. 3 bis Ende <date when="1996">1996</date><lb facs="#facs_7_r17"/>wirksam.</p>
+			<p>
+				<lb facs="#facs_7_r18"/>3.<lb facs="#facs_7_r19"/>Auf <date when="1996-01-01">1. Januar 1996</date> erfolgen keine Beförderungen. Auf <date when="1996-07-01">1. Juli 1996</date><lb facs="#facs_7_r23"/>können im Rahmen des Voranschlags Beförderungen im Umfange<lb facs="#facs_7_r24"/>einer Quote von 15% zuzüglich der aus den Vorjahren übertrage<lb break="no" facs="#facs_7_r25"/>nen Restquote vorgenommen werden. Beförderungen in Ver<lb break="no" facs="#facs_7_r26"/>bindung mit Wahlen können frühestens auf <date when="1996-07-01">1. Juli 1996</date> erfolgen.</p>
+			<p>
+				<lb facs="#facs_7_r29"/>4.<lb facs="#facs_7_r30"/>Zulässig sind 1996 ferner während des ganzen Jahres im Rahmen<lb facs="#facs_7_r31"/>der massgebenden Vorschriften und des Voranschlages:</p>
+			<p>
+				<lb facs="#facs_7_r32"/>4.1 Nicht auf die Beförderungsquote anrechenbare Besoldungsanpas<lb break="no" facs="#facs_7_r33"/>sungen bei Funktionswechseln;</p>
+			<p>
+				<lb facs="#facs_7_r34"/>4.2 nicht auf die Beförderungsquote anrechenbare Änderungen der<lb facs="#facs_7_r35"/>Einreihungsklasse aufgrund klarer Vorgaben der Richtpositions<lb break="no" facs="#facs_7_r36"/>umschreibungen einschliesslich der Einreihung in eine höhere<lb facs="#facs_7_r37"/>Klasse bei Assistenten und Oberassistenten der Universität,<lb facs="#facs_7_r38"/>Laufbahn- und Funktionsbeförderungen beim Polizeikorps;</p>
+			<p>
+				<lb facs="#facs_7_r39"/>4.3<lb facs="#facs_7_r40"/>Besoldungserhöhungen in Ausbildungsverhältnissen (Lehrlinge,<lb facs="#facs_7_r41"/>Schüler, Praktikanten, Polizeiaspiranten, Auditoren), die nach<lb facs="#facs_7_r42"/>dem jeweiligen Besoldungsreglement nach Massgabe des Alters<lb facs="#facs_7_r43"/>oder der Ausbildungsdauer vorgesehen sind;</p>
+			<p>
+				<lb facs="#facs_7_r44"/>4.4 auf <date when="--01-01">1. Januar</date> und <date when="1996-07-01">1. Juli 1996:</date> Aufstiege aus Anlaufklassen und<lb facs="#facs_7_r49"/>-stufen;</p>
+			<p>
+				<lb facs="#facs_7_r50"/>4.5 einmalige Zulagen gemäss § 33 Abs. 2 BVO.</p>
+			<note>
+				<lb facs="#facs_7_r51"/>1) Der Kantonsrat hat den Voranschlag am <date when="1995-12-19">19. Dezember 1995</date> verabschiedet.</note>
+			<pb n="8" facs="#facs_8"/>
+			<fw type="pageNum" place="top-left">
+				<lb facs="#facs_8_r0"/>6</fw>
+			<p>
+				<lb facs="#facs_8_r1"/>II. Veröffentlichung im Amtsblatt.</p>
+			<closer>
+				<salute>
+					<lb facs="#facs_8_r2"/>Im Namen des Regierungsrates</salute>
+				<signed>
+					<lb facs="#facs_8_r3"/>Der Präsident:<lb facs="#facs_8_r4"/>Homberger</signed>
+				<signed>
+					<lb facs="#facs_8_r5"/>Der Staatsschreiber:<lb facs="#facs_8_r6"/>Husi</signed>
+			</closer>
+		</body></text></TEI>

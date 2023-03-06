@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>3481 Beschluss des Kantonsrates über die Beteiligung des Staates an der 7. Investitionsvereinbarung der Schweizerischen Südostbahn (vom</title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_115_r4"/>3481<lb facs="#facs_115_r5"/>Beschluss des Kantonsrates über die Beteiligung<lb facs="#facs_115_r6"/>des Staates an der 7. Investitionsvereinbarung<lb facs="#facs_115_r7"/>der Schweizerischen Südostbahn<lb facs="#facs_115_r8"/>(vom</head>
+			<p>
+				<lb facs="#facs_115_r11"/>Der Kantonsrat,<lb facs="#facs_115_r12"/>nach Einsichtnahme in einen Antrag des Regierungsrates<lb facs="#facs_115_r13"/>beschliesst:</p>
+			<p>
+				<lb facs="#facs_115_r14"/>I. Für die Finanzierung von Investitionen der Schweizerischen<lb facs="#facs_115_r15"/>Südostbahn gemäss der 7. Vereinbarung mit dem Bund und den<lb facs="#facs_115_r16"/>Kantonen Zürich, Schwyz und St. Gallen wird ein Kredit von Fr. 3 399 000<lb facs="#facs_115_r17"/>bewilligt.</p>
+			<p>
+				<lb facs="#facs_115_r18"/>II. Die Kreditsumme erhöht oder ermässigt sich um 19,37% der<lb facs="#facs_115_r19"/>Mehr- oder Minderkosten, die durch eine allfällige Verteuerung oder<lb facs="#facs_115_r20"/>Verbilligung der Arbeiten in der Zeit zwischen der Aufstellung des<lb facs="#facs_115_r21"/>Kostenvoranschlags (Preisbasis <date when="1995-03-31">31. März 1995)</date> und der tatsächlichen<lb facs="#facs_115_r24"/>Ausführung entstehen.</p>
+			<p>
+				<lb facs="#facs_115_r25"/>III. Die Beteiligung des Kantons erfolgt unter dem Vorbehalt, dass<lb facs="#facs_115_r26"/>die übrigen Beteiligungen gemäss dem vom Bundesamt für Verkehr<lb facs="#facs_115_r27"/>festgelegten Verteilschlüssel erfolgen oder eventuelle Ausfälle durch<lb facs="#facs_115_r28"/>andere Beiträge ersetzt werden.</p>
+			<p>
+				<lb facs="#facs_115_r29"/>IV. Dispositiv I und II dieses Beschlusses unterliegen dem<lb facs="#facs_115_r30"/>fakultativen Referendum.</p>
+			<p>
+				<lb facs="#facs_115_r31"/>V. Veröffentlichung im Amtsblatt, Textteil.</p>
+			<p>
+				<lb facs="#facs_115_r32"/>VI. Mitteilung an den Regierungsrat zum Vollzug.</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_115_r33"/>Weisung:</head>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_115_r34"/>1. Ausgangslage</head>
+					<p>
+						<lb facs="#facs_115_r35"/>Die Schweizerische Südostbahn AG (SOB) mit Sitz in Wädenswil<lb facs="#facs_115_r36"/>bildet mit ihren beiden Linien Rapperswil-Arth-Goldau und Wädens-</p>
+					<pb n="116" facs="#facs_116"/>
+					<fw type="pageNum" place="top-left">
+						<lb facs="#facs_116_r0"/>114</fw>
+					<p>
+						<lb facs="#facs_116_r1"/>wil-Einsiedeln sowohl für die Verbindungen zwischen Ostschweiz und<lb facs="#facs_116_r2"/>Zentralschweiz und zwischen der Agglomeration Zürich und dem<lb facs="#facs_116_r3"/>Erholungsgebiet Einsiedeln als auch für die Erschliessung eines grossen<lb facs="#facs_116_r4"/>Teils des Kantons Schwyz einen ausserordentlich wichtigen Verkehrs<lb break="no" facs="#facs_116_r5"/>träger. Bis 1974 konnte die Unternehmung ihre Betriebsrechnung ohne<lb facs="#facs_116_r6"/>Defizit abschliessen, wobei allerdings festgestellt werden muss, dass bei<lb facs="#facs_116_r7"/>diesen Bemühungen um einen Ausgleich der Betriebsrechnung die<lb facs="#facs_116_r8"/>technische Erneuerung etwas zu kurz gekommen ist. Daraus ergab sich<lb facs="#facs_116_r9"/>ein Nachholbedarf, welcher trotz grosser Anstrengungen noch nicht<lb facs="#facs_116_r10"/>völlig abgebaut werden konnte.</p>
+					<p>
+						<lb facs="#facs_116_r11"/>Eine erfreuliche Verkehrsentwicklung von 2083000 beförderten<lb facs="#facs_116_r12"/>Personen im Jahr <date when="1950">1950</date> auf 3118000 Passagiere <date when="1980">1980</date> und 3 690 000<lb facs="#facs_116_r17"/>Fahrgäste 1994 liess bestehende Lücken bei den baulichen Anlagen und<lb facs="#facs_116_r18"/>beim Rollmaterial noch deutlicher in Erscheinung treten. Im Rahmen<lb facs="#facs_116_r19"/>der etappenweisen technischen Verbesserung hat die SOB seit 1976<lb facs="#facs_116_r20"/>ihren Triebfahrzeugpark teilweise erneuert und ergänzt, die Energie<lb break="no" facs="#facs_116_r21"/>versorgung verbessert und einen grossen Teil der baulich ungenügen<lb break="no" facs="#facs_116_r22"/>den Streckenabschnitte und Stationsanlagen saniert. Dafür standen<lb facs="#facs_116_r23"/>Leistungen des Bundes aus dem fünften, sechsten und siebten<lb facs="#facs_116_r24"/>Rahmenkredit sowie der Kantone Schwyz, Zürich und St. Gallen zur<lb facs="#facs_116_r25"/>Verfügung. Der Kantonsrat bewilligte dafür am <date when="1976-03-15">15. März 1976,</date> am<lb facs="#facs_116_r28"/><date when="1982-12-13">13. Dezember 1982,</date> am <date when="1988-08-22">22. August 1988</date> und am <date when="1993-09-27">27. September 1993</date><lb facs="#facs_116_r33"/>vier Kredite von zusammen Fr. 22557 811. Weitere unaufschiebbare<lb facs="#facs_116_r34"/>Investitionen wurden ihrer Dringlichkeit wegen über die Betriebsrech<lb break="no" facs="#facs_116_r35"/>nung finanziert.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_116_r36"/>2. Das Investitionsprogramm 1993-1997</head>
+					<p>
+						<lb facs="#facs_116_r37"/>Im Hinblick auf den 8. Rahmenkredit des Bundes zur Förderung<lb facs="#facs_116_r38"/>konzessionierter Transportunternehmungen hat die SOB ihren Investi<lb break="no" facs="#facs_116_r39"/>tionsbedarf für die Jahre 1993-1997 ermittelt. Der Bund hat sich bereit<lb facs="#facs_116_r40"/>erklärt, in diesem Zeitraum ein Investitionsvolumen von 79 Millionen<lb facs="#facs_116_r41"/>Franken mitzutragen und diesen Betrag auch in dem inzwischen von<lb facs="#facs_116_r42"/>den eidgenössischen Räten bewilligten und später um 3 Jahre verlänger<lb break="no" facs="#facs_116_r43"/>ten Rahmenkredit berücksichtigt.</p>
+					<p>
+						<lb facs="#facs_116_r44"/>In einer ersten Tranche wurden davon mit der 6. Vereinbarung<lb facs="#facs_116_r45"/>Fr. 31 300 000 mit einem Anteil des Kantons Zürich von Fr. 6 197 400<lb facs="#facs_116_r46"/>(Kantonsratsbeschluss vom <date when="1993-09-27">27. September 1993)</date> bewilligt. Dieser<lb facs="#facs_116_r49"/>Kredit war vor allem für die Beschaffung von 4 Pendelzügen bestimmt.<lb facs="#facs_116_r50"/>Für die Finanzierung einer zweiten Tranche von Fr. 17 550 000 soll nun<lb facs="#facs_116_r51"/>eine 7. Vereinbarung abgeschlossen werden. Über eine allfällige dritte<lb facs="#facs_116_r52"/>Tranche wird erst später entschieden, weil die im Zusammenhang mit</p>
+					<pb n="117" facs="#facs_117"/>
+					<fw type="pageNum" place="top-right">
+						<lb facs="#facs_117_r0"/>115</fw>
+					<p>
+						<lb facs="#facs_117_r1"/>dem Anschluss der Ostschweiz an die NEAT (Hirzel-Tunnel) beste<lb break="no" facs="#facs_117_r2"/>hende Unsicherheit über die weitere Zukunft der SOB dazu zwingt, sich<lb facs="#facs_117_r3"/>vorläufig auf notwendige Ersatzinvestitionen zu beschränken und auf<lb facs="#facs_117_r4"/>kapazitätssteigernde Investitionen vor allem auf der Südrampe zu<lb facs="#facs_117_r5"/>verzichten.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_117_r6"/>3. Die 7. Vereinbarung</head>
+					<p>
+						<lb facs="#facs_117_r7"/>Die 1996 zwischen dem Bund, den Kantonen Schwyz, Zürich und<lb facs="#facs_117_r8"/>St. Gallen und der SOB abzuschliessende 7. Vereinbarung umfasst ein<lb facs="#facs_117_r9"/>Investitionsvolumen von Fr. 17 550 000. Diese Mittel werden wie folgt<lb facs="#facs_117_r10"/>verwendet:</p>
+					<table>
+						<row>
+							<cell>1. Trassee-Erneuerung auf 4 Abschnitten</cell>
+							<cell>Fr. 7 800 000</cell>
+						</row>
+						<row>
+							<cell>2. Ausbau der Station Rothenthurm</cell>
+							<cell>Fr. 2750 000</cell>
+						</row>
+						<row>
+							<cell>3. Beschaffung der Reisezugwagen</cell>
+							<cell>Fr. 7 000 000</cell>
+						</row>
+						<row>
+							<cell>Total</cell>
+							<cell>Fr. 17 550 000</cell>
+						</row>
+					</table>
+					<p>
+						<lb facs="#facs_117_r19"/>Bei der Erneuerung des Gleiskörpers besteht ein Nachholbedarf,<lb facs="#facs_117_r20"/>weil die beschränkt vorhandenen Mittel der Bahn während längerer<lb facs="#facs_117_r21"/>Zeit vor allem in Kapazitätsausbauten investiert werden mussten. Statt<lb facs="#facs_117_r22"/>der gemäss langfristiger Planung im Jahresdurchschnitt zu erneuernden<lb facs="#facs_117_r23"/>2,4 km Gleis konnten seit 1980 nur jährlich 1,36 km Gleis erneuert<lb facs="#facs_117_r24"/>werden. Es ist daher vorgesehen, in den nächsten vier Jahren vier<lb facs="#facs_117_r25"/>Streckenabschnitte aus den 60er Jahren mit einer Länge von zusammen<lb facs="#facs_117_r26"/>8,200 km zu sanieren. Es handelt sich um die Abschnitte Rapperswil-<lb facs="#facs_117_r27"/>Hurden (km 0,470-km 1,960), Freienbach-Wollerau (km 5,065-km<lb facs="#facs_117_r28"/>7,828), 780 m Strecke zwischen Wollerau und Samstagern und den<lb facs="#facs_117_r29"/>Abschnitt Biberbrugg-Altmatt (km 18,783-km 21,950). Mit rund 2 km<lb facs="#facs_117_r30"/>Erneuerung pro Jahr bleibt der Sanierungsumfang weiterhin unter dem<lb facs="#facs_117_r31"/>Sollwert von 2,4 km. Die Bahn beschränkt sich auf die zur Aufrecht<lb break="no" facs="#facs_117_r32"/>erhaltung des Betriebs unabdingbaren Investitionen.</p>
+					<p>
+						<lb facs="#facs_117_r33"/>Bei der Station Rothenthurm bildet die notwendige Gesamterneue<lb break="no" facs="#facs_117_r34"/>rung der Fahrleitungsanlage aus dem Jahr <date when="1939">1939</date> den Anlass für die<lb facs="#facs_117_r37"/>Sanierung und die Behebung verschiedener betrieblicher und sicher<lb break="no" facs="#facs_117_r38"/>heitsmässiger Mängel. So stellen die regelmässigen Zugskreuzungen ein<lb facs="#facs_117_r39"/>erhebliches Sicherheitsrisiko dar, weil für die Reisenden kein Perron<lb facs="#facs_117_r40"/>und keine schienenfreien Zugänge zur Verfügung stehen. Ausserdem<lb facs="#facs_117_r41"/>genügen die vorhandenen Gleislängen den im Verkehr St. Gallen-Arth-<lb facs="#facs_117_r42"/>Goldau/Luzern eingesetzten längeren Zügen nicht mehr. Die Sanierung<lb facs="#facs_117_r43"/>sieht darum neben der Gesamterneuerung der Fahrleitungsanlage die<lb facs="#facs_117_r44"/>Erstellung eines 186 m langen Zwischenperrons mit einer Unterführung</p>
+					<pb n="118" facs="#facs_118"/>
+					<fw type="pageNum" place="top-left">
+						<lb facs="#facs_118_r0"/>116</fw>
+					<p>
+						<lb facs="#facs_118_r1"/>vom Bahnhofgebäude her und eine Verlängerung der Kreuzungslängen<lb facs="#facs_118_r2"/>um 35 m vor. Dazu sind Anpassungen an den Kabeltrassen und<lb facs="#facs_118_r3"/>Sicherungsanlagen und am Gleis 3 erforderlich. Nach der Sanierung von<lb facs="#facs_118_r4"/>Rothenthurm sind alle Bahnhöfe der SOB ausser Biberbrugg den<lb facs="#facs_118_r5"/>Erfordernissen des heutigen Betriebs angepasst.</p>
+					<p>
+						<lb facs="#facs_118_r6"/>Die Reisezugwagen der SOB weisen im Verhältnis zu anderen<lb facs="#facs_118_r7"/>Bahnen eine hohe Altersstruktur auf. Entsprechend werden die<lb facs="#facs_118_r8"/>heutigen Ansprüche trotz hohem Unterhaltsaufwand nicht mehr erfüllt.<lb facs="#facs_118_r9"/>Ein weiteres Zuwarten mit der Erneuerung würde um die Jahrtausend<lb break="no" facs="#facs_118_r10"/>wende zu einer Beschaffungsspitze und damit zu Finanzierungsproble<lb break="no" facs="#facs_118_r11"/>men führen. Die ersten Erfahrungen mit der verbesserten Verbindung<lb facs="#facs_118_r12"/>Ostschweiz-Innerschweiz haben ausserdem gezeigt, dass das vorhan<lb break="no" facs="#facs_118_r13"/>dene Marktpotential beim wirtschaftlich interessanten Transitverkehr<lb facs="#facs_118_r14"/>mit komfortablen Reisezugwagen besser ausgeschöpft werden kann.<lb facs="#facs_118_r15"/>Das künftige Rollmaterial muss deshalb schnellzugstauglich und<lb facs="#facs_118_r16"/>komfortabel sein. Gestützt auf ein gemeinsames Pflichtenheft der SOB<lb facs="#facs_118_r17"/>und der benachbarten Bodensee-Toggenburg-Bahn und das ebenfalls<lb facs="#facs_118_r18"/>gemeinsame Einsatzkonzept sieht die SOB vor, acht vollständig<lb facs="#facs_118_r19"/>modernisierte Einheitswagen vom Typ EW I zu beschaffen. Die<lb facs="#facs_118_r20"/>geforderte hohe Komfortstufe verlangt unter anderem die Erreichung<lb facs="#facs_118_r21"/>der für die Einheitswagen EW IV der SBB geltenden Lärmwerte nach<lb facs="#facs_118_r22"/>innen und nach aussen.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_118_r23"/>4. Die Finanzierung</head>
+					<p>
+						<lb facs="#facs_118_r24"/>An der SOB sind die Kantone Schwyz, Zürich und St. Gallen<lb facs="#facs_118_r25"/>beteiligt. Eine Beitragsleistung des Bundes nach Art. 56 des Eisenbahn<lb break="no" facs="#facs_118_r26"/>gesetzes setzt die Mitwirkung dieser drei Kantone voraus. Gemäss dem<lb facs="#facs_118_r27"/>seit <date when="1993">1993</date> geltenden Verteilschlüssel betragen die Anteile von Zürich<lb facs="#facs_118_r30"/>21,4%, von Schwyz 74,2% und von St. Gallen 4,4%. Die Anteile des<lb facs="#facs_118_r31"/>Bundes betragen 10% für Zürich, 37% für Schwyz und 27% für St.<lb facs="#facs_118_r32"/>Gallen, je gemäss einem Sparbeschluss des Bundesrates um 5% gekürzt.<lb facs="#facs_118_r33"/>Daraus ergibt sich folgende Verteilung auf die vier Partner:</p>
+					<table>
+						<row>
+							<cell>Bund</cell>
+							<cell>29,24%</cell>
+							<cell>Fr. 5 132 128</cell>
+						</row>
+						<row>
+							<cell>Kanton Zürich</cell>
+							<cell>19,37%</cell>
+							<cell>Fr. 3 398 909</cell>
+						</row>
+						<row>
+							<cell>Kanton Schwyz</cell>
+							<cell>48,12%</cell>
+							<cell>Fr. 8 444 832</cell>
+						</row>
+						<row>
+							<cell>Kanton St. Gallen</cell>
+							<cell>3,27%</cell>
+							<cell>Fr.574 131</cell>
+						</row>
+						<row>
+							<cell/>
+							<cell>100,00%</cell>
+							<cell>Fr. 17 550 000</cell>
+						</row>
+					</table>
+					<p>
+						<lb facs="#facs_118_r49"/>Die Vereinbarung wird nach allseitiger Kreditbewilligung unter<lb break="no" facs="#facs_118_r50"/>zeichnet.</p>
+					<pb n="119" facs="#facs_119"/>
+					<fw type="pageNum" place="top-right">
+						<lb facs="#facs_119_r0"/>117</fw>
+					<p>
+						<lb facs="#facs_119_r1"/>Die benötigten Mittel werden von den beteiligten Partnern in<lb facs="#facs_119_r2"/>jährlichen Tranchen auf ein Sperrkonto einbezahlt. Die Anteile des<lb facs="#facs_119_r3"/>Kantons Zürich sind in der Finanzplanung berücksichtigt. Allfällige<lb facs="#facs_119_r4"/>teuerungsbedingte Mehrkosten sind im gleichen Beteiligungsverhältnis<lb facs="#facs_119_r5"/>zu übernehmen.</p>
+					<p>
+						<lb facs="#facs_119_r6"/>Aufgrund der Richtlinien des Bundes werden die Aufwendungen<lb facs="#facs_119_r7"/>für die Fahrzeuge entsprechend den Abschreibungen durch die SOB in<lb facs="#facs_119_r8"/>jährlichen Raten von drei Prozent zurückbezahlt, wobei die Rückerstat<lb break="no" facs="#facs_119_r9"/>tung mit den Beiträgen für die Abgeltung der ungedeckten Betriebs<lb break="no" facs="#facs_119_r10"/>kosten verrechnet wird.</p>
+					<p>
+						<lb facs="#facs_119_r11"/>Die Beteiligung des Kantons Zürich an der Investitionshilfe für die<lb facs="#facs_119_r12"/>SOB stützt sich auf §§ 8 und 9 des Gesetzes über den öffentlichen<lb facs="#facs_119_r13"/>Personenverkehr vom <date when="1988-03-06">6. März 1988.</date> Danach übernimmt der Staat die<lb facs="#facs_119_r16"/>auf das Eisenbahngesetz gestützten Verpflichtungen allein. Die Bei<lb break="no" facs="#facs_119_r17"/>träge sind dem Verkehrsfonds zu belasten.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_119_r18"/>5. Schlussbemerkungen</head>
+					<p>
+						<lb facs="#facs_119_r19"/>Die mit der 7. Vereinbarung zwischen dem Bund, den Kantonen<lb facs="#facs_119_r20"/>Schwyz, Zürich und St. Gallen und der SOB zu finanzierenden<lb facs="#facs_119_r21"/>Investitionen entsprechen einem dringenden Bedürfnis und stehen im<lb facs="#facs_119_r22"/>Einklang mit einem zweckmässigen Betriebskonzept. Die Bahn ist nicht<lb facs="#facs_119_r23"/>in der Lage, diese Investitionen aus eigenen Mitteln zu finanzieren und<lb facs="#facs_119_r24"/>ist darum auf die Beitragsleistungen der öffentlichen Hand angewiesen.<lb facs="#facs_119_r25"/>Der Anteil des Kantons Zürich von Fr.3399000 unterliegt dem<lb facs="#facs_119_r26"/>fakultativen Referendum.</p>
+					<p>
+						<lb facs="#facs_119_r27"/>Der Regierungsrat beantragt dem Kantonsrat, dem Kredit zu<lb break="no" facs="#facs_119_r28"/>zustimmen.</p>
+					<closer>
+						<dateline>
+							<lb facs="#facs_119_r29"/>Zürich, den <date when="1995-12-13">13. Dezember 1995</date></dateline>
+						<salute>
+							<lb facs="#facs_119_r31"/>Im Namen des Regierungsrates</salute>
+						<signed>
+							<lb facs="#facs_119_r32"/>Der Präsident:<lb facs="#facs_119_r33"/>Homberger</signed>
+						<signed>
+							<lb facs="#facs_119_r34"/>Der Staatsschreiber:<lb facs="#facs_119_r35"/>Husi</signed>
+					</closer>
+					<pb n="120" facs="#facs_120"/>
+					<fw type="pageNum" place="top-left">
+						<lb facs="#facs_120_r0"/>118</fw>
+				</div>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_120_r1"/>Besoldungsänderung<lb facs="#facs_120_r2"/>mit Wirkung ab <date when="1996-01-01">1. Januar 1996</date></head>
+				<p>
+					<lb facs="#facs_120_r4"/>Mit Beschluss vom <date when="1995-12-06">6. Dezember 1995</date> hat der Regierungsrat die<lb facs="#facs_120_r7"/>Ausrichtung einer Teuerungszulage von 1% ab <date when="1996-01-01">1. Januar 1996</date> auf der<lb facs="#facs_120_r10"/>Jahresgrundbesoldung vom <date when="1995-01-01">1. Januar 1995</date> an das Staatspersonal<lb facs="#facs_120_r13"/>bewilligt. Die Teuerungszulage wird in die ab diesem Zeitpunkt gültige<lb facs="#facs_120_r14"/>verordnungsgemässe Jahresgrundbesoldung eingebaut.</p>
+				<p>
+					<lb facs="#facs_120_r15"/>Die neuen Grundbesoldungen betragen demnach:</p>
+				<div type="subtitle" n="2">
+					<pb n="121" facs="#facs_121"/>
+					<head type="subtitle" n="2">
+						<lb facs="#facs_121_r0"/>Grundbesoldungen nach Beamtenverordnung<lb facs="#facs_121_r1"/>(Beamte und Angestellte sowie für Angehörige des Polizeikorps)</head>
+					<p>
+						<lb facs="#facs_121_r3"/>Besoldungsklasse</p>
+					<figure facs="#facs_121_f0"/>
+					<p>
+						<lb facs="#facs_121_r294"/>119</p>
+					<pb n="122" facs="#facs_122"/>
+					<p>
+						<lb facs="#facs_122_r2"/>Besoldungsklasse</p>
+					<p>
+						<lb facs="#facs_122_r1"/>120</p>
+					<figure facs="#facs_122_f0"/>
+					<pb n="123" facs="#facs_123"/>
+					<fw type="pageNum" place="top-right">
+						<lb facs="#facs_123_r0"/>121</fw>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_123_r1"/>Besoldungen der Pfarrer</head>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_123_r2"/>Pfarrer der evangelisch-reformierten Kirchgemeinden sowie Pfarrer mit<lb facs="#facs_123_r3"/>besonderen Diensten</head>
+						<table>
+							<row>
+								<cell>Jahresstufe</cell>
+								<cell>Grundbesoldung</cell>
+								<cell>Staatliche Besoldung</cell>
+							</row>
+							<row>
+								<cell/>
+								<cell>inkl. 13. Monats-Besoldung</cell>
+								<cell>63%</cell>
+							</row>
+							<row>
+								<cell/>
+								<cell>Franken</cell>
+								<cell>Franken</cell>
+							</row>
+							<row>
+								<cell>201918171614-151312119-1087654321</cell>
+								<cell>174 847171 397167 946164 496161 044157 593154 143150 692147 240143 214139 189135 162131 137127 110123 084119 059115 032111 006</cell>
+								<cell>110154107 980105 806103 632101 45899 28497 11094 93692 76190 22587 68985 15282 61680 07977 54375 00772 47069 934</cell>
+							</row>
+						</table>
+					</div>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_123_r65"/>Besoldungen der Volksschullehrer</head>
+					<p>
+						<lb facs="#facs_123_r66"/>Lehrkräfte, Verweserinnen und Verweser der Volksschule sowie der<lb facs="#facs_123_r67"/>Handarbeits- und Haushaltungslehrerinnen und -lehrer an der Volks<lb break="no" facs="#facs_123_r68"/>und Fortbildungsschule</p>
+					<table>
+						<row>
+							<cell/>
+							<cell>Kategorie I(Klasse 17 BVO)</cell>
+							<cell>Kategorie II(Klasse 19 BVO)</cell>
+						</row>
+						<row>
+							<cell>Stufe</cell>
+							<cell>Franken</cell>
+							<cell>Franken</cell>
+						</row>
+						<row>
+							<cell>242322212019181714-16</cell>
+							<cell>116 642114340112 038109 736107 434105 132102 830101 25198 949</cell>
+							<cell>132 952130 328127 703125 080122 455119 831117 207114 584111 959</cell>
+						</row>
+					</table>
+					<pb n="124" facs="#facs_124"/>
+					<fw type="pageNum" place="top-left">
+						<lb facs="#facs_124_r0"/>122</fw>
+					<table>
+						<row>
+							<cell/>
+							<cell>Kategorie I(Klasse 17 BVO)</cell>
+							<cell>Kategorie II(Klasse 19 BVO)</cell>
+						</row>
+						<row>
+							<cell>Stufe</cell>
+							<cell>Franken</cell>
+							<cell>Franken</cell>
+						</row>
+						<row>
+							<cell>1312118-107654321</cell>
+							<cell>9626493 57890 89188 20786 24483 56080 8737818875 50272 81570 128</cell>
+							<cell>108 898105 836102 775100 43897 37794 31591 25488 19385 85582 79479 733</cell>
+						</row>
+					</table>
+					<table>
+						<row>
+							<cell/>
+							<cell>Kategorie III(Klasse 20 BVO)</cell>
+							<cell>Kategorie IV(Klasse 21 BVO)</cell>
+						</row>
+						<row>
+							<cell>Stufe</cell>
+							<cell>Franken</cell>
+							<cell>Franken</cell>
+						</row>
+						<row>
+							<cell>232221201918171613-1512118-107654321</cell>
+							<cell>142 209139 404136 596133 789130 982128 176125 369122 563119755116 482113 206109 931106 657103 383100 83397 55894 28491 00987 733</cell>
+							<cell>152 253149 247146 242143 239140 232137 228134 222131 219128212124 707121 201117 696114190110 684107 179103 673100 89197 38693 880</cell>
+						</row>
+					</table>
+					<pb n="125" facs="#facs_125"/>
+					<fw type="pageNum" place="top-right">
+						<lb facs="#facs_125_r0"/>123</fw>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_125_r1"/>Besoldungen der Berufsschullehrer</head>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_125_r2"/>Hauptlehrer (inkl. Hauptlehrer an landwirtschaftlichen Fach- und<lb facs="#facs_125_r3"/>Bäuerinnenschulen)</head>
+						<table>
+							<row>
+								<cell>Jahresstufe</cell>
+								<cell>Kategorie A(Klasse 22 BVO)</cell>
+								<cell>Kategorie B(Klasse 21 BVO)</cell>
+								<cell>Kategorie C(Klasse 19 BVO)</cell>
+							</row>
+							<row>
+								<cell/>
+								<cell>Fr.</cell>
+								<cell>Fr.</cell>
+								<cell>Fr.</cell>
+							</row>
+							<row>
+								<cell>201918171614-151312119-1087654321</cell>
+								<cell>163 119159 901156 680153 461150 241147 023143 803140 584137 363133 608129 851126 096122 341118 583114 827111 071107 315103 560</cell>
+								<cell>152 253149 247146 242143 239140 323137 228134 222131 219128212124 707121 201117 696114190110 684107 179103 673100 89197 386</cell>
+								<cell>132 952130 328127 703125 080122 455119 831117 207114 584111 959108 898105 836102 775100 43897 37794 31591 25488 19385 855</cell>
+							</row>
+						</table>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_125_r86"/>Lehrbeauftragte I und II (inkl. Hauptlehrer an landwirtschaftlichen<lb facs="#facs_125_r87"/>Fach- und Bäuerinnenschulen)</head>
+						<table>
+							<row>
+								<cell>Jahresstufe</cell>
+								<cell>Kategorie A(Klasse 20 BVO)Lehrbeauftragte II</cell>
+								<cell>Kategorie B(Klasse 19 BVO)Lehrbeauftragte II</cell>
+								<cell>Kategorie C(Klasse 17 BVO)Lehrbeauftragte Iund II</cell>
+							</row>
+							<row>
+								<cell/>
+								<cell>Fr.</cell>
+								<cell>Fr.</cell>
+								<cell>Fr.</cell>
+							</row>
+							<row>
+								<cell>201918171614-1513</cell>
+								<cell>142 209139 404136 596133 789130 982128 176125 369</cell>
+								<cell>132 952130 328127 703125 080122 455119 831117 207</cell>
+								<cell>116 642114339112 038109 736107 434105 132102 830</cell>
+							</row>
+						</table>
+						<pb n="126" facs="#facs_126"/>
+						<fw type="pageNum" place="top-left">
+							<lb facs="#facs_126_r0"/>124</fw>
+						<table>
+							<row>
+								<cell>Jahresstufe</cell>
+								<cell>BVO)<figure facs="#facs_126_f0"/>II</cell>
+								<cell>Kategorie B(Klasse 19 BVO)Lehrbeauftragte II</cell>
+								<cell>Kategorie C(Klasse 17 BVO)Lehrbeauftragte Iund II</cell>
+							</row>
+							<row>
+								<cell/>
+								<cell/>
+								<cell>Fr</cell>
+								<cell>Fr.</cell>
+							</row>
+							<row>
+								<cell>12119-1087654321</cell>
+								<cell>122 563119755116 482113 206109 931106 657103 383100 83397 55894 28491 009</cell>
+								<cell>114 584111 959108 898105 836102 775100 43897 37794 31591 2548819385 855</cell>
+								<cell>101 25198 94996 26493 57890 89188 20786 24483 56080 87378 18875 502</cell>
+							</row>
+						</table>
+						<p>
+							<lb facs="#facs_126_r63"/>Lehrbeauftragte II mit abgeschlossener pädagogischer Ausbildung<lb facs="#facs_126_r64"/>und Lehrbeauftragte III</p>
+						<table>
+							<row>
+								<cell>Jahresstufe</cell>
+								<cell>Kategorie A(Klasse 21 BVO)</cell>
+								<cell>Kategorie B(Klasse 20 BVO)</cell>
+								<cell>Kategorie C(Klasse 18 BVO)</cell>
+							</row>
+							<row>
+								<cell/>
+								<cell>Fr.</cell>
+								<cell>Fr.</cell>
+								<cell>Fr.</cell>
+							</row>
+							<row>
+								<cell>201918171614-151312119-1087654321</cell>
+								<cell>152 253149 247146 242143 239140232137 228134 222131 219128212124 707121 201117 696114190110 684107 179103 673100 89197 386</cell>
+								<cell>142 209139 404136 596133 789130 982128 176125 369122 563119755116 482113 206109 931106 657103 383100 83397 55894 28491 009</cell>
+								<cell>124 440121 984119 529117 074114 617112 161109 705107 249104 793102 65399 78696 92294 05591 18988 32586 18383 31880 452</cell>
+							</row>
+						</table>
+						<pb n="127" facs="#facs_127"/>
+						<fw type="pageNum" place="top-right">
+							<lb facs="#facs_127_r0"/>125</fw>
+					</div>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_127_r1"/>Besoldungen der Mittelschullehrer</head>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_127_r2"/>Hauptlehrer an Mittelschulen</head>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_127_r3"/>Hauptlehrer an Seminaren zur Lehrerausbildung und am TWI</head>
+						<table>
+							<row>
+								<cell>Jahresstufen(Klasse 22 BVO)</cell>
+								<cell>Fr.</cell>
+								<cell>Jahresstufen(Klasse 22 BVO)</cell>
+								<cell>Fr.</cell>
+							</row>
+							<row>
+								<cell>20191817161514131211</cell>
+								<cell>163 119159 901156 680153 461150 241147 023147 023143 803140 584137 363</cell>
+								<cell>10987654321</cell>
+								<cell>133 608133 608129 851126 096122 341118 583114 827111 071107 315103 560</cell>
+							</row>
+						</table>
+						<p>
+							<lb facs="#facs_127_r50"/>Hauptlehrer am TWI mit HTL -, Hochschulabschluss in einem tech<lb break="no" facs="#facs_127_r51"/>nisch-naturwissenschaftlichen Fach oder einem Abschluss und mehrjäh<lb break="no" facs="#facs_127_r52"/>riger Berufspraxis</p>
+						<table>
+							<row>
+								<cell>Jahresstufen(Klasse 23 BVO)</cell>
+								<cell>Fr.</cell>
+								<cell>Jahresstufen(Klasse 23 BVO)</cell>
+								<cell>Fr.</cell>
+							</row>
+							<row>
+								<cell>20191817161514131211</cell>
+								<cell>174 848171 397167 946164 496161 044157 593157 593154 143150 692147 240</cell>
+								<cell>10987654321</cell>
+								<cell>143 214143 214139 189135 162131 137127 110123 084119 059115 032111 006</cell>
+							</row>
+						</table>
+						<pb n="128" facs="#facs_128"/>
+						<fw type="pageNum" place="top-left">
+							<lb facs="#facs_128_r0"/>126</fw>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_128_r1"/>Lehrbeauftragte an kantonalen Mittelschulen, Seminaren und Techni<lb break="no" facs="#facs_128_r2"/>kum Winterthur</head>
+						<table>
+							<row>
+								<cell>Jahresstufen(Klasse 17 BVO)</cell>
+								<cell>Fr.</cell>
+								<cell>Jahresstufen(Klasse 17 BVO)</cell>
+								<cell>Fr.</cell>
+							</row>
+							<row>
+								<cell>20191817161514131211</cell>
+								<cell>116 642114 339112 038109 736107 434105 132105 132102 830101 25198 949</cell>
+								<cell>10987654321</cell>
+								<cell>96 26496 26493 57890 89188 20786 24483 56080 87378 18875 502</cell>
+							</row>
+						</table>
+						<table>
+							<row>
+								<cell>Jahresstufen(Klasse 19 BVO)</cell>
+								<cell>Fr.</cell>
+								<cell>Jahresstufen(Klasse 19 BVO)</cell>
+								<cell>Fr.</cell>
+							</row>
+							<row>
+								<cell>20191817161514131211</cell>
+								<cell>132 952130 328127 703125 080122 455119 831119 831117 207114 584111 959</cell>
+								<cell>10987654321</cell>
+								<cell>108 898108 898105 836102 775100 43897 37794 31591 25488 19385 855</cell>
+							</row>
+						</table>
+						<table>
+							<row>
+								<cell>Jahresstufen(Klasse 20 BVO)</cell>
+								<cell>Fr.</cell>
+								<cell>Jahresstufen(Klasse 20 BVO)</cell>
+								<cell>Fr.</cell>
+							</row>
+							<row>
+								<cell>20191817161514131211</cell>
+								<cell>142 209139 404136 596133 789130 982128 176128 176125 369122 563119 755</cell>
+								<cell>10987654321</cell>
+								<cell>116 482116 482113 206109 931106 657103 383100 83397 55894 28491 009</cell>
+							</row>
+						</table>
+						<pb n="129" facs="#facs_129"/>
+						<fw type="pageNum" place="top-right">
+							<lb facs="#facs_129_r0"/>127</fw>
+						<table>
+							<row>
+								<cell>Jahresstufen(Klasse 21 BVO)</cell>
+								<cell>Fr.</cell>
+								<cell>Jahresstufen(Klasse 21 BVO)</cell>
+								<cell>Fr.</cell>
+							</row>
+							<row>
+								<cell>20191817161514131211</cell>
+								<cell>152 253149 247146 242143 239140 232137 228137 228134 222131 219128 212</cell>
+								<cell>10987654321</cell>
+								<cell>124 707124 707121 201117 696114 190110 684107 179103 673100 89197 386</cell>
+							</row>
+						</table>
+					</div>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_129_r47"/>Besoldung der Professoren der Universität Zürich</head>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_129_r48"/>Ordentliche Professoren</head>
+						<table>
+							<row>
+								<cell>Jahresstufen(Klasse 27 BVO)</cell>
+								<cell>Fr.</cell>
+								<cell>Jahresstufen(Klasse 27 BVO)</cell>
+								<cell>Fr.</cell>
+							</row>
+							<row>
+								<cell>15141312111098</cell>
+								<cell>222 055217 492212 930208 366203 803199 241194 679189 355</cell>
+								<cell>7654321</cell>
+								<cell>184 031178 709173 385168 062162 740157 416152 092</cell>
+							</row>
+						</table>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_129_r85"/>Ausserordentliche Professoren</head>
+						<table>
+							<row>
+								<cell>Jahresstufen(Klasse 26 BVO)</cell>
+								<cell>Fr.</cell>
+								<cell>Jahresstufen(Klasse 26 BVO)</cell>
+								<cell>Fr.</cell>
+							</row>
+							<row>
+								<cell>15141312111098</cell>
+								<cell>207 093202 837198 583194 326190 072185 816181 561176 597</cell>
+								<cell>7654321</cell>
+								<cell>171 632166 668161 703156 738151 773146 810141 845</cell>
+							</row>
+						</table>
+						<pb n="130" facs="#facs_130"/>
+						<fw type="pageNum" place="top-left">
+							<lb facs="#facs_130_r0"/>128</fw>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_130_r1"/>Assistenzprofessoren</head>
+						<table>
+							<row>
+								<cell>Jahresstufen(Klasse 24 BVO)</cell>
+								<cell>Fr.</cell>
+								<cell>Jahresstufen(Klasse 24 BVO)</cell>
+								<cell>Fr.</cell>
+							</row>
+							<row>
+								<cell>15141312111098</cell>
+								<cell>180 077176 377172 677168 977165 277161 577157 877153 560</cell>
+								<cell>7654321</cell>
+								<cell>149 242144 925140 609136 292131 975127 658123 342</cell>
+							</row>
+						</table>
+					</div>
+				</div>
+			</div>
+		</body></text></TEI>

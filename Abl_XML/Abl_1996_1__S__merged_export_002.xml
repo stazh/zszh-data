@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Verfügung der Direktion der öffentlichen Bauten des Kantons Zürich (vom <date when="1995-12-07">7. Dezember 1995)</date></title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_3_r4"/>Verfügung<lb facs="#facs_3_r5"/>der Direktion der öffentlichen Bauten des Kantons Zürich<lb facs="#facs_3_r6"/>(vom <date when="1995-12-07">7. Dezember 1995)</date></head>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_3_r8"/>Stadt Zürich. Bau- und Zonenordnung<lb facs="#facs_3_r9"/>(aufsichtsrechtliche Anordnung)</head>
+				<p>
+					<lb facs="#facs_3_r10"/>Mit aufsichtsrechtlicher Verfügung vom <date when="1995-05-09">9. Mai 1995</date> setzte die<lb facs="#facs_3_r13"/>Baudirektion 24 Artikel und einen Teil des Zonenplans der noch nicht<lb facs="#facs_3_r14"/>in Kraft stehenden, von den Stimmberechtigten am <date when="1992-05-17">17. Mai 1992</date><lb facs="#facs_3_r16"/>angenommenen Bau- und Zonenordnung der Stadt Zürich in teilweise<lb facs="#facs_3_r17"/>abgeänderter Fassung als vorläufige Regelung im Sinne von § 344 PBG<lb facs="#facs_3_r18"/>in Kraft (BDVzBZO); allfälligen Rekursen wurde die aufschiebende<lb facs="#facs_3_r19"/>Wirkung entzogen. Diese Verfügung wurde am <date when="1992-05-19">19. Mai 1992</date> gemäss § 6<lb facs="#facs_3_r22"/>des Planungs- und Baugesetzes (PBG) öffentlich bekanntgemacht. Bis<lb facs="#facs_3_r23"/>zum Entscheid des Regierungsrates über die dagegen erhobenen<lb facs="#facs_3_r24"/>Rekurse, in denen zum Teil die Wiederherstellung der aufschiebenden<lb facs="#facs_3_r25"/>Wirkung beantragt wurde, konnte die mit dieser Verfügung getroffene<lb facs="#facs_3_r26"/>Regelung noch nicht zur Anwendung gelangen.</p>
+				<p>
+					<lb facs="#facs_3_r27"/>Die Baudirektion hatte in den Erwägungen zu ihrer Verfügung<lb facs="#facs_3_r28"/>darauf hingewiesen, dass sie anhand der Rekurseingaben prüfen werde,<lb facs="#facs_3_r29"/>ob allenfalls einzelne Änderungen wiedererwägungsweise vorzuneh<lb break="no" facs="#facs_3_r30"/>men seien. Aufgrund dieser Prüfung drängt es sich auf, Art. 8, 14 und 19<lb facs="#facs_3_r31"/>BDVzBZO zu ändern bzw. zu ergänzen:</p>
+				<p>
+					<lb facs="#facs_3_r32"/>In Art. 8 ist für die Wohnzonen W2, W3, W4 und W5 (ohne<lb facs="#facs_3_r33"/>Besondere Wohngebiete) die zulässige Ausnützung mit einer einheit<lb break="no" facs="#facs_3_r34"/>lichen Überbauungsziffer (§§ 251 ff ., spez. § 254 PBG) von 35% festgelegt<lb facs="#facs_3_r35"/>worden. Dieses Mass entspricht im wesentlichen den bisher in der Stadt<lb facs="#facs_3_r36"/>Zürich für Arealüberbauungen geltenden Ausnützungsziffern; es er<lb break="no" facs="#facs_3_r37"/>scheint daher unter Berücksichtigung der PBG-Revision von 1991<lb facs="#facs_3_r38"/>grundsätzlich als angemessen. Der vorhandene Gebäudebestand weist<lb facs="#facs_3_r39"/>jedoch zufolge früher geltender Regelungen teilweise höhere Aus<lb break="no" facs="#facs_3_r40"/>nützungen auf; dies gilt vor allem für Überbauungen längs Strassen und<lb facs="#facs_3_r41"/>Plätzen, wenn seitlich zusammengebaut, auf die Strassengrenze und<lb facs="#facs_3_r42"/>teilweise mit reduzierten Abständen gebaut werden konnte. Da diese<lb facs="#facs_3_r43"/>Bauweise in den Zonen W4 und W5 im wesentlichen weiterhin zulässig<lb facs="#facs_3_r44"/>sein soll, sind dafür höhere Überbauungsziffern festzulegen. In einzel<lb break="no" facs="#facs_3_r45"/>nen Spezialfällen werden allerdings Umzonungen in die Zentrums<lb break="no" facs="#facs_3_r46"/>zonen Z4 oder Z5, in denen keine Nutzungsziffern gelten, zu prüfen<lb facs="#facs_3_r47"/>sein; auf solche Massnahmen hat die Baudirektion bisher in der</p>
+				<pb n="4" facs="#facs_4"/>
+				<fw type="pageNum" place="top-left">
+					<lb facs="#facs_4_r0"/>2</fw>
+				<p>
+					<lb facs="#facs_4_r1"/>Meinung verzichtet, dass sie der Stadt Zürich bzw. der zuständigen<lb facs="#facs_4_r2"/>Baurekurskommission überlassen werden können.</p>
+				<p>
+					<lb facs="#facs_4_r3"/>In Art. 14 Abs. 2 hat die Baudirektion die für den Wohnanteil<lb facs="#facs_4_r4"/>massgeblichen Flächen in Anlehnung an § 255 Abs. 1 PBG definiert.<lb facs="#facs_4_r5"/>Diese Bestimmung ist insofern zu ergänzen, als in Untergeschossen für<lb facs="#facs_4_r6"/>den Wohnanteil nur Räume anrechenbar sein können, die den<lb facs="#facs_4_r7"/>Anforderungen an Wohn- und Schlafräume gemäss § 302 Abs. 2 PBG<lb facs="#facs_4_r8"/>genügen.</p>
+				<p>
+					<lb facs="#facs_4_r9"/>Für die Gewerbezone GHD ist in Art. 19 die nach §279 PBG<lb facs="#facs_4_r10"/>zulässige Gebäudehöhe nicht herabgesetzt worden, damit auch eigent<lb break="no" facs="#facs_4_r11"/>liche Gewerbebauten mit ausreichender Geschosshöhe erstellt werden<lb facs="#facs_4_r12"/>können. Da diese Zonen in einzelnen Fällen unmittelbar an Wohn<lb break="no" facs="#facs_4_r13"/>zonen W2 oder W3 angrenzen, wird aus Gründen der Wohnhygiene und<lb facs="#facs_4_r14"/>der Einordnung ergänzend festgelegt, dass diese Gebäudehöhe dort erst<lb facs="#facs_4_r15"/>nach einem Übergangsbereich beansprucht werden darf.</p>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_4_r16"/>Die Baudirektion verfügt:</head>
+					<p>
+						<lb facs="#facs_4_r17"/>I. Ziffer I der Baudirektionsverfügung Nr. 568 vom <date when="1995-05-09">9. Mai 1995</date><lb facs="#facs_4_r19"/>wird wie folgt geändert bzw. ergänzt:</p>
+					<p>
+						<lb facs="#facs_4_r20"/>Art. 8 neue Abs. 2 und 3:</p>
+					<p>
+						<lb facs="#facs_4_r21"/>Für geschlossene Überbauungen längs Strassen und Plätzen in den<lb facs="#facs_4_r22"/>Wohnzonen W4 und W5 erhöht sich die Überbauungsziffer</p>
+					<p>
+						<lb facs="#facs_4_r23"/>-<lb facs="#facs_4_r24"/>bei einseitigem seitlichem Grenzbau<lb facs="#facs_4_r25"/>auf 43%</p>
+					<p>
+						<lb facs="#facs_4_r26"/>-<lb facs="#facs_4_r27"/>bei zweiseitigem seitlichem Grenzbau<lb facs="#facs_4_r28"/>auf 51%</p>
+					<p>
+						<lb facs="#facs_4_r29"/>Beim erlaubten oder vorgeschriebenen Bauen auf die Strassen<lb break="no" facs="#facs_4_r30"/>grenze oder mit einem Strassenabstand von weniger als 6m können<lb facs="#facs_4_r31"/>zusätzlich folgende Zuschläge beansprucht werden:</p>
+					<p>
+						<lb facs="#facs_4_r32"/>-<lb facs="#facs_4_r33"/>bei einseitigem Bauen auf die Strassengrenze<lb facs="#facs_4_r34"/>14%</p>
+					<p>
+						<lb facs="#facs_4_r35"/>-<lb facs="#facs_4_r36"/>bei mehrseitigem Bauen auf die Strassengrenze<lb facs="#facs_4_r37"/>28%</p>
+					<p>
+						<lb facs="#facs_4_r38"/>-<lb facs="#facs_4_r39"/>Für Gebäude mit Strassenabständen zwischen 0 und 6m werden<lb facs="#facs_4_r40"/>diese Zuschläge verhältnismässig herabgesetzt.</p>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_4_r41"/>Art. 14 Abs. 2, neuer 2. Satz:</head>
+						<p>
+							<lb facs="#facs_4_r42"/>Ausser Ansatz fallen Räume in Untergeschossen, die nach § 302<lb facs="#facs_4_r43"/>Abs. 2 PBG für eine Wohnnutzung nicht geeignet sind.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_4_r44"/>Art. 19 neuer Abs. 2:</head>
+						<p>
+							<lb facs="#facs_4_r45"/>Wo die Zone GHD an die Wohnzone W2 oder W3 angrenzt, darf<lb facs="#facs_4_r46"/>innerhalb von 10m ab Zonengrenze die in der Wohnzone zulässige</p>
+						<pb n="5" facs="#facs_5"/>
+						<fw type="pageNum" place="top-right">
+							<lb facs="#facs_5_r0"/>3</fw>
+						<p>
+							<lb facs="#facs_5_r1"/>Gebäudehöhe nicht überschritten werden. Diese Einschränkung gilt<lb facs="#facs_5_r2"/>nicht, wenn zwischen den Grundstücken in der Zone GHD und in der<lb facs="#facs_5_r3"/>Wohnzone eine Strasse liegt.</p>
+						<p>
+							<lb facs="#facs_5_r4"/>Abs. 2 wird Abs. 3<lb facs="#facs_5_r5"/>II. Diese Verfügung tritt mit der öffentlichen Bekanntmachung in<lb facs="#facs_5_r6"/>Kraft.</p>
+						<p>
+							<lb facs="#facs_5_r7"/>III. Gegen diese Verfügung kann innert 20 Tagen nach öffent<lb break="no" facs="#facs_5_r8"/>licher Bekanntmachung beim Regierungsrat Rekurs erhoben werden.<lb facs="#facs_5_r9"/>Allfälligen Rekursen wird die aufschiebende Wirkung entzogen.</p>
+						<closer>
+							<signed>
+								<lb facs="#facs_5_r10"/>Direktion der öffentlichen Bauten</signed>
+							<signed>
+								<lb facs="#facs_5_r11"/>Hans Hofmann, Regierungsrat</signed>
+						</closer>
+					</div>
+				</div>
+			</div>
+		</body></text></TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Regierungsratsbeschluss über die Taxen der kantonalen und staatsbeitragsberechtigten Krankenhäuser, Festsetzung für die Dauer des vertragslosen Zustands (vom <date when="1995-12-20">20. Dezember 1995)</date></title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_37_r14"/>Regierungsratsbeschluss<lb facs="#facs_37_r15"/>über die Taxen der kantonalen und<lb facs="#facs_37_r16"/>staatsbeitragsberechtigten Krankenhäuser, Festsetzung<lb facs="#facs_37_r17"/>für die Dauer des vertragslosen Zustands<lb facs="#facs_37_r18"/>(vom <date when="1995-12-20">20. Dezember 1995)</date></head>
+			<p>
+				<lb facs="#facs_37_r20"/>Der Regierungsrat beschliesst:</p>
+			<p>
+				<lb facs="#facs_37_r21"/>I. Für die Dauer des vertragslosen Zustands werden mit Wirkung<lb facs="#facs_37_r22"/>ab <date when="1996-01-01">1. Januar 1996</date> für grundversicherte Kantonseinwohner (zürcherische<lb facs="#facs_37_r25"/>Akutpatienten) der allgemeinen Abteilung in den kantonalen und<lb facs="#facs_37_r26"/>staatsbeitragsberechtigten Akutspitälern Tagespauschalen wie folgt<lb facs="#facs_37_r27"/>festgesetzt:</p>
+			<p>
+				<lb facs="#facs_37_r28"/>Fr.<lb facs="#facs_37_r29"/>Universitätsspital Zürich</p>
+			<p>
+				<lb facs="#facs_37_r30"/>515<lb facs="#facs_37_r31"/>Kinderspital</p>
+			<p>
+				<lb facs="#facs_37_r32"/>398<lb facs="#facs_37_r33"/>Zentralspitäler</p>
+			<p>
+				<lb facs="#facs_37_r34"/>359<lb facs="#facs_37_r35"/>(Kantonsspital Winterthur, Triemli)<lb facs="#facs_37_r36"/>Schwerpunktspitäler</p>
+			<p>
+				<lb facs="#facs_37_r37"/>339<lb facs="#facs_37_r38"/>(Waid, Limmattal, Wetzikon, Uster, Bülach, Männedorf)</p>
+			<pb n="38" facs="#facs_38"/>
+			<fw type="pageNum" place="top-left">
+				<lb facs="#facs_38_r0"/>36</fw>
+			<p>
+				<lb facs="#facs_38_r1"/>Übrige Akutspitäler</p>
+			<p>
+				<lb facs="#facs_38_r2"/>324<lb facs="#facs_38_r3"/>(Pflegerinnenschule, Neumünster, Rüti, Affoltern, Horgen,<lb facs="#facs_38_r4"/>Wädenswil, Bauma, Maternité Inselhof, Pfäffikon, Sanitas,<lb facs="#facs_38_r5"/>Thalwil, Wald, Dielsdorf)<lb facs="#facs_38_r6"/>Höhenkliniken</p>
+			<p>
+				<lb facs="#facs_38_r7"/>198<lb facs="#facs_38_r8"/>(Wald, Clavadel)<lb facs="#facs_38_r9"/>Klink Wilhelm Schulthess</p>
+			<p>
+				<lb facs="#facs_38_r10"/>399<lb facs="#facs_38_r11"/>Orthopädisches Universitätsspital Balgrist</p>
+			<p>
+				<lb facs="#facs_38_r12"/>349<lb facs="#facs_38_r13"/>Paraplegikerzentrum Balgrist</p>
+			<p>
+				<lb facs="#facs_38_r14"/>493<lb facs="#facs_38_r15"/>Drogenklinik Sonnenbühl</p>
+			<p>
+				<lb facs="#facs_38_r16"/>147</p>
+			<p>
+				<lb facs="#facs_38_r17"/>II. Gegen diesen Beschluss kann innert 30 Tagen ab Eröffnung<lb facs="#facs_38_r18"/>beim Bundesrat Beschwerde erhoben werden; die im Doppel einzurei<lb break="no" facs="#facs_38_r19"/>chende Beschwerdeschrift muss einen Antrag und dessen Begründung<lb facs="#facs_38_r20"/>enthalten. Der angefochtene Beschluss ist beizulegen und genau zu<lb facs="#facs_38_r21"/>bezeichnen. Die angerufenen Beweismittel sind genau zu bezeichnen<lb facs="#facs_38_r22"/>und soweit möglich beizulegen.</p>
+			<p>
+				<lb facs="#facs_38_r23"/>III. Veröffentlichung im Amtsblatt, Textteil (Dispositiv I und II).</p>
+			<closer>
+				<salute>
+					<lb facs="#facs_38_r24"/>Im Namen des Regierungsrates</salute>
+				<signed>
+					<lb facs="#facs_38_r25"/>Der Präsident:<lb facs="#facs_38_r26"/>Homberger</signed>
+				<signed>
+					<lb facs="#facs_38_r27"/>Der Staatsschreiber:<lb facs="#facs_38_r28"/>Husi</signed>
+			</closer>
+		</body></text></TEI>

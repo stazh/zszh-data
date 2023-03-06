@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Auszug aus dem Protokoll des Kantonsrates 14. Sitzung, Montag, <date when="1995-09-11">11. September 1995,</date> 8.15 Uhr</title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_33_r31"/>Auszug aus dem Protokoll des Kantonsrates<lb facs="#facs_33_r32"/>14. Sitzung, Montag, <date when="1995-09-11">11. September 1995,</date> 8.15 Uhr</head>
+			<p>
+				<lb facs="#facs_33_r35"/>Antworten auf vier Anfragen</p>
+			<p>
+				<lb facs="#facs_33_r36"/>-<lb facs="#facs_33_r37"/>von Anjuska Weil (FraP !, Zürich) betreffend Wahrung der Men<lb break="no" facs="#facs_33_r38"/>schenwürde bei Polizeirazzien</p>
+			<p>
+				<lb facs="#facs_33_r39"/>-<lb facs="#facs_33_r40"/>von Irène Meier (Grüne, Küsnacht) und Felix Müller (Grüne,<lb facs="#facs_33_r41"/>Winterthur) betreffend Beteiligungen der Kant. Beamtenversiche<lb break="no" facs="#facs_33_r42"/>rungskasse</p>
+			<p>
+				<lb facs="#facs_33_r43"/>-<lb facs="#facs_33_r44"/>von Susanne Huggel-Neuenschwander (EVP, Hombrechtikon)<lb facs="#facs_33_r45"/>betreffend Bewilligungspraxis</p>
+			<p> für Heilpraktiker</p>
+			<p>
+				<lb facs="#facs_33_r47"/>=<lb facs="#facs_33_r48"/>von Martin Ott (Grüne, Bäretswil) und Daniel Vischer (Grüne,<lb facs="#facs_33_r49"/>Zürich) betreffend Tolerierung von Interessenkonflikten bei ärzt<lb break="no" facs="#facs_33_r50"/>licher Sterbehilfe</p>
+			<p>
+				<lb facs="#facs_33_r51"/>Einzelinitiative Erich Müller, Greifensee, betreffend gesetzliche An<lb break="no" facs="#facs_33_r52"/>erkennung von Astrologie und Radiästhesie (Ruten- und Pendelkunde)<lb facs="#facs_33_r53"/>Auf die vorläufige Unterstützung entfällt keine Stimme. Die Einzel<lb break="no" facs="#facs_33_r54"/>initiative ist abgelehnt.</p>
+			<p>
+				<lb facs="#facs_33_r55"/>Einzelinitiative Peter Bresch, Zürich, betreffend Orientierung über die<lb facs="#facs_33_r56"/>Vernichtung beschlagnahmter Drogen und Rauschgifte<lb facs="#facs_33_r57"/>Für die vorläufige Unterstützung der Einzelinitiative stimmen 35<lb facs="#facs_33_r58"/>Ratsmitglieder. Damit ist das notwendige Quorum von 60 Stimmen<lb facs="#facs_33_r59"/>nicht erreicht. Die Einzelinitiative ist abgelehnt.</p>
+			<pb n="34" facs="#facs_34"/>
+			<fw type="pageNum" place="top-left">
+				<lb facs="#facs_34_r0"/>32</fw>
+			<p>
+				<lb facs="#facs_34_r1"/>Einzelinitiative Sandro Bassola, Zürich, betreffend «Verankerung einer<lb facs="#facs_34_r2"/>Ausgabenbremse in der Kantonsverfassung»<lb facs="#facs_34_r3"/>Für die vorläufige Unterstützung der Einzelinitiative stimmen 6<lb facs="#facs_34_r4"/>Ratsmitglieder. Damit ist das notwendige Quorum von 60 Stimmen<lb facs="#facs_34_r5"/>nicht erreicht. Die Einzelinitiative ist abgelehnt.</p>
+			<p>
+				<lb facs="#facs_34_r6"/>Postulat Peter Grau, Zürich, und Erwin Kupper (aus dem Kantonsrat<lb facs="#facs_34_r7"/>ausgeschieden), Glattfelden, betreffend gute Beleuchtung und Warn<lb break="no" facs="#facs_34_r8"/>blinkanlagen bei Fussgängerstreifen<lb facs="#facs_34_r9"/>Der Kantonsrat beschliesst mit 80 : 7 Stimmen, das Postulat nicht zu<lb facs="#facs_34_r10"/>überweisen.</p>
+			<p>
+				<lb facs="#facs_34_r11"/>Postulat Franziska Troesch-Schnyder, Zollikon, und Dr. Jörg Rappold,<lb facs="#facs_34_r12"/>Küsnacht, betreffend Bericht über Auswirkungen auf den Verkehr bei<lb facs="#facs_34_r13"/>einer Totalsperrung des Limmatquais<lb facs="#facs_34_r14"/>Das Postulat ist zurückgezogen worden.</p>
+			<p>
+				<lb facs="#facs_34_r15"/>Postulat Hans Rutschmann, Rafz, und Ernst Schibli, Otelfingen,<lb facs="#facs_34_r16"/>betreffend Privatisierung der Abfallentsorgung<lb facs="#facs_34_r17"/>Der Kantonsrat stimmt dem Postulat mit 85 : 12 Stimmen zu. Es geht an<lb facs="#facs_34_r18"/>den Regierungsrat zu Bericht und Antragstellung.</p>
+			<p>
+				<lb facs="#facs_34_r19"/>Postulat Thomas Büchi (Grüne, Zürich), betreffend Fussgängerverbin<lb break="no" facs="#facs_34_r20"/>dung Altstetten-Grünau<lb facs="#facs_34_r21"/>Der Kantonsrat beschliesst mit 65 : 32 Stimmen, das Postulat nicht zu<lb facs="#facs_34_r22"/>überweisen.</p>
+			<p>
+				<lb facs="#facs_34_r23"/>Postulat Vreni Püntener-Bugmann, Wallisellen, und Mitunterzeich<lb break="no" facs="#facs_34_r24"/>nende betreffend Energie 2000 und Verpflichtung zur Reduktion des<lb facs="#facs_34_r25"/>CO2-Ausstosses im Bereich der Treibstoffe<lb facs="#facs_34_r26"/>Der Kantonsrat beschliesst mit 76 : 46 Stimmen, das Postulat nicht zu<lb facs="#facs_34_r27"/>überweisen.</p>
+			<p>
+				<lb facs="#facs_34_r28"/>Motion Roland Brunner, Rheinau, und Barbara Marty Kälin, Gossau,<lb facs="#facs_34_r29"/>betreffend gesetzliche Förderung von Sonnenenergieanlagen<lb facs="#facs_34_r30"/>Die Motion wird zurückgezogen.</p>
+			<p>
+				<lb facs="#facs_34_r31"/>Interpellation Regula Ziegler, Winterthur, Felix Müller, Winterthur,<lb facs="#facs_34_r32"/>und Julia Rüegg Gerber, Wädenswil, betreffend Förderung und Koor<lb break="no" facs="#facs_34_r33"/>dination der Zusammenarbeit der KVA-Zweckverbände im Kanton<lb facs="#facs_34_r34"/>Zürich</p>
+			<p>
+				<lb facs="#facs_34_r35"/>Die Interpellantin hat ihre Erklärung abgegeben.<lb facs="#facs_34_r36"/>Das Geschäft ist mit Diskussion erledigt.</p>
+			<pb n="35" facs="#facs_35"/>
+			<fw type="pageNum" place="top-right">
+				<lb facs="#facs_35_r0"/>33</fw>
+			<p>
+				<lb facs="#facs_35_r1"/>Der Kantonsrat,<lb facs="#facs_35_r2"/>nach Einsichtnahme in einen Antrag des Regierungsrates,<lb facs="#facs_35_r3"/>beschliesst:</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_35_r4"/>A. Einzelinitiative Dr. Marianne Klug Arter, Zürich, betreffend<lb facs="#facs_35_r5"/>Änderung des Gesetzes über die Finanzierung von Massnahmen<lb facs="#facs_35_r6"/>für den Natur- und Heimatschutz und für Erholungsgebiete</head>
+				<p>
+					<lb facs="#facs_35_r7"/>Die Einzelinitiative Dr. Marianne Klug Arter, Zürich, betreffend<lb facs="#facs_35_r8"/>Änderung des Gesetzes über die Finanzierung von Massnahmen für den<lb facs="#facs_35_r9"/>Natur- und Heimatschutz und für Erholungsgebiete wird nicht definitiv<lb facs="#facs_35_r10"/>unterstützt. Den Stimmberechtigten wird ein Gegenvorschlag des<lb facs="#facs_35_r11"/>Kantonsrates unterbreitet und zur Annahme empfohlen.</p>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_35_r12"/>Minderheitsantrag Vreni Püntener-Bugmann, Mario Fehr<lb facs="#facs_35_r13"/>und Peter Oser</head>
+					<p>
+						<lb facs="#facs_35_r14"/>Die Einzelinitiative Dr. Marianne Klug Arter, Zürich, betreffend<lb facs="#facs_35_r15"/>Änderung des Gesetzes über die Finanzierung von Massnahmen für den</p>
+					<note>
+						<lb facs="#facs_35_r16"/>* Die Kommission besteht aus folgenden Mitgliedern: Dr. Marlies Voser-<lb facs="#facs_35_r17"/>Huber, Männedorf (Präsidentin); Fredi Binder, Knonau; Walter Bosshard,<lb facs="#facs_35_r18"/>Horgen; Dr. Robert Chanson, Zürich; Mario Fehr, Adliswil; Ernst Frischknecht,<lb facs="#facs_35_r19"/>Dürnten; Dr. Ulrich E. Gut, Küsnacht; Werner Honegger, Bubikon; Astrid<lb facs="#facs_35_r20"/>Kugler-Biedermann, Zürich; Barbara Marty Kälin, Gossau; Peter Oser, Fischen<lb break="no" facs="#facs_35_r21"/>thal; Hans-Peter Portmann, Zürich; Vreni Püntener-Bugmann, Wallisellen;<lb facs="#facs_35_r22"/>Richard Weilenmann, Buch am Irchel; Karl Weiss, Schlieren; Sekretär: Hans<lb facs="#facs_35_r23"/>Moser, Schwerzenbach</note>
+				</div>
+			</div>
+		</body></text></TEI>

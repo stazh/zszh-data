@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Ersatzwahl in die evangelisch-reformierte Kirchensynode im Synodalwahlkreis VII</title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_23_r1"/>Ersatzwahl<lb facs="#facs_23_r2"/>in die evangelisch-reformierte Kirchensynode<lb facs="#facs_23_r3"/>im Synodalwahlkreis VII</head>
+			<p>
+				<lb facs="#facs_23_r4"/>Im Synodalwahlkreis VII (Dietikon, Gemeinden des Bezirks<lb facs="#facs_23_r5"/>Dietikon) ist die Ersatzwahl für die zurückgetretene Synodale Jeanne<lb facs="#facs_23_r6"/>Pestalozzi-Racine, Mühlehaldenstr. 25, 8953 Dietikon, vorzunehmen.</p>
+			<p>
+				<lb facs="#facs_23_r7"/>Auf die Ausschreibung vom <date when="1995-10-27">27. Oktober 1995</date> im kantonalen<lb facs="#facs_23_r10"/>Amtsblatt hin ist der Direktion des Innern innert der gesetzlich<lb facs="#facs_23_r11"/>angeordneten Frist der nachstehende Wahlvorschlag eingereicht wor<lb break="no" facs="#facs_23_r12"/>den. Er wird in Anwendung von § 55 Abs. 2 des Gesetzes über Wahlen<lb facs="#facs_23_r13"/>und Abstimmungen (Wahlgesetz) vom <date when="1983-09-04">4. September 1983</date> bekannt<lb break="no" facs="#facs_23_r16"/>gemacht.<lb facs="#facs_23_r17"/>Johanna Roth, 1933, pens. Sozialarbeiterin,<lb facs="#facs_23_r18"/>Badenerstr. 15, 8953 Dietikon.</p>
+			<p>
+				<lb facs="#facs_23_r19"/>Der eingebrachte Wahlvorschlag kann bis am <date when="1996-01-12">12. Januar 1996</date><lb facs="#facs_23_r21"/>geändert oder zurückgezogen werden. Auch können der Direktion des<lb facs="#facs_23_r22"/>Innern, Abteilung Abstimmungen und Wahlen, Bleicherweg 5, 8090<lb facs="#facs_23_r23"/>Zürich, bis zu diesem Datum weitere Wahlvorschläge eingereicht<lb facs="#facs_23_r24"/>werden. Jeder Wahlvorschlag muss von mindestens 15 der evangelisch<lb break="no" facs="#facs_23_r25"/>reformierten Landeskirche des Kantons Zürich angehörenden Stimm<lb break="no" facs="#facs_23_r26"/>berechtigten, die im Synodalwahlkreis VII politischen Wohnsitz haben,<lb facs="#facs_23_r27"/>unterzeichnet sein. Die Mitglieder der französischen Kirchgemeinschaf<lb break="no" facs="#facs_23_r28"/>ten sind bei dieser Wahl vom Stimmrecht ausgeschlossen. Für die<lb facs="#facs_23_r29"/>Unterzeichner eines Wahlvorschlags sind Namen, Vornamen, Geburts<lb break="no" facs="#facs_23_r30"/>jahr und genaue Adresse erforderlich. Die oder der Vorgeschlagene<lb facs="#facs_23_r31"/>muss mit Namen und Vornamen, Geburtsjahr, Beruf und genauer<lb facs="#facs_23_r32"/>Adresse bezeichnet sein.</p>
+			<p>
+				<lb facs="#facs_23_r33"/>Sollte nach dieser siebentägigen Nachfrist nur ein Wahlvorschlag<lb facs="#facs_23_r34"/>bestehen, würde der oder die Vorgeschlagene durch die Direktion des<lb facs="#facs_23_r35"/>Innern als gewählt erklärt (Stille Wahl).</p>
+			<closer>
+				<dateline>
+					<lb facs="#facs_23_r36"/>Zürich, den <date when="1996-01-05">5. Januar 1996</date></dateline>
+				<signed>
+					<lb facs="#facs_23_r38"/>Direktion des Innern<lb facs="#facs_23_r39"/>Der Stellvertreter</signed>
+				<signed>
+					<lb facs="#facs_23_r40"/>Honegger</signed>
+			</closer>
+			<pb n="24" facs="#facs_24"/>
+			<fw type="pageNum" place="top-left">
+				<lb facs="#facs_24_r0"/>22</fw>
+		</body></text></TEI>

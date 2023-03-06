@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Amtsblatt des Kantons Zürich 1996 Textteil</title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><pb n="1" facs="#facs_1"/>
+			<head type="announcement">
+				<lb facs="#facs_1_r0"/>Amtsblatt<lb facs="#facs_1_r1"/>des Kantons Zürich<lb facs="#facs_1_r2"/>1996<lb facs="#facs_1_r3"/>Textteil</head>
+			<p>
+				<lb facs="#facs_1_r4"/>Beilage zum Zürcher Amtsblatt</p>
+			<pb n="2" facs="#facs_2"/>
+			<p>
+				<lb facs="#facs_2_r0"/>2</p>
+			<p>
+				<lb facs="#facs_2_r1"/>Inhaltsverzeichnis</p>
+			<p>
+				<lb facs="#facs_2_r2"/>Abstimmungen, siehe auch Beschwerden<lb facs="#facs_2_r3"/>Termine für 1997, RRB 949<lb facs="#facs_2_r4"/>Eidgenössische:</p>
+			<p>
+				<lb facs="#facs_2_r5"/>
+				<date when="1996-03-10">10. März 1996:</date> Bundesbeschluss über die Revision des Sprachenartikels;<lb facs="#facs_2_r7"/>Bundesbeschluss über den Übertritt der bernischen Gemeinde Vellerat<lb facs="#facs_2_r8"/>zum Kanton Jura; Bundesbeschluss über die Aufhebung der kantonalen<lb facs="#facs_2_r9"/>Zuständigkeit im Bereich der persönlichen Ausrüstung der Armeeange<lb break="no" facs="#facs_2_r10"/>hörigen; Bundesbeschluss über die Aufhebung der Pflicht zum Ankauf<lb facs="#facs_2_r11"/>von Brennapparaten und zur Übernahme von Branntwein; Bundes<lb break="no" facs="#facs_2_r12"/>beschluss über die Aufhebung der Bundesbeiträge an Bahnhofpark<lb break="no" facs="#facs_2_r13"/>platzanlagen, Volksabstimmung, Ergebnisse 385</p>
+			<p>
+				<lb facs="#facs_2_r14"/>
+				<date when="1996-06-09">9. Juni 1996:</date> Gegenentwurf der Bundesversammlung zur Volksinitiative<lb facs="#facs_2_r16"/>«Bauern und Konsumenten - für eine naturnahe Landwirtschaft»;<lb facs="#facs_2_r17"/>Regierungs- und Verwaltungsorganisationsgesetz (RVOG), Volks<lb break="no" facs="#facs_2_r18"/>abstimmung, Durchführung 620; Ergebnisse 993</p>
+			<p>
+				<lb facs="#facs_2_r19"/>
+				<date when="1996-12-01">1. Dezember 1996:</date> Volksinitiative «gegen die illegale Einwanderung»;<lb facs="#facs_2_r21"/>Änderung des Bundesgesetzes über die Arbeit in Industrie, Gewerbe<lb facs="#facs_2_r22"/>und Handel (Arbeitsgesetz), Volksabstimmung, Durchführung 1865;<lb facs="#facs_2_r23"/>Ergebnisse 2089</p>
+			<p>
+				<lb facs="#facs_2_r24"/>Kantonale:</p>
+			<p>
+				<lb facs="#facs_2_r25"/>
+				<date when="1996-03-10">10. März 1996:</date> Unterrichtsgesetz (Beitrag der Nichthochschulkantone<lb facs="#facs_2_r27"/>an die Universität), Änderung; Volksinitiative-«gegen Meinungsüber<lb break="no" facs="#facs_2_r28"/>wachung»; Volksinitiative «Stopp der importierten Arbeitslosigkeit»;<lb facs="#facs_2_r29"/>Einzelinitiative Markus Knauss, Zürich, betreffend Änderung des EG<lb facs="#facs_2_r30"/>zum Nationalstrassengesetz; Volksabstimmung, Abstimmungsvorlage<lb facs="#facs_2_r31"/>49; Ergebnisse 441; Erwahrung 948</p>
+			<p>
+				<lb facs="#facs_2_r32"/>
+				<date when="1996-09-22">22. September 1996:</date> Gesetz über den Beitritt des Kantons Zürich zur<lb facs="#facs_2_r34"/>Interkantonalen Vereinbarung über die Anerkennung von Ausbil<lb break="no" facs="#facs_2_r35"/>dungsabschlüssen; Gesetz über den Beitritt des Kantons Zürich zur<lb facs="#facs_2_r36"/>Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen;<lb facs="#facs_2_r37"/>Gesetz über die Finanzierung von Massnahmen für den Natur- und<lb facs="#facs_2_r38"/>Heimatschutz und für Erholungsgebiete (Änderung); Unterrichtsgesetz<lb facs="#facs_2_r39"/>(Gymnasialausbildung) (Änderung), Volksabstimmung, Anordnung<lb facs="#facs_2_r40"/>1073; Abstimmungsvorlage 1393; Ergebnisse 1641; Erwahrung 2048</p>
+			<pb n="3" facs="#facs_3"/>
+			<fw type="pageNum" place="top-right">
+				<lb facs="#facs_3_r0"/>1</fw>
+		</body></text></TEI>

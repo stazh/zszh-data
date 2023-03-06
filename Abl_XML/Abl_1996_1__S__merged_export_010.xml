@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp ref="#OCR" key="transcript">Transkript: OCR<date when="2021-10-01">01.10.2021</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2022</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Ersatzwahl eines Mitgliedes des Kantonsrates (vom <date when="1995-12-13">13. Dezember 1995)</date></title><pubPlace>Zürich</pubPlace>
+					<publisher>Druck der Genossenschafts-Buchdruckerei</publisher>
+					<edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text><body><head type="announcement">
+				<lb facs="#facs_21_r14"/>Ersatzwahl eines Mitgliedes des Kantonsrates<lb facs="#facs_21_r15"/>(vom <date when="1995-12-13">13. Dezember 1995)</date></head>
+			<p>
+				<lb facs="#facs_21_r17"/>In Anwendung von § 90 des Gesetzes über die Wahlen und Abstimmun<lb break="no" facs="#facs_21_r18"/>gen (Wahlgesetz) vom <date when="1983-09-04">4. September 1983</date><lb facs="#facs_21_r20"/>beschliesst der Regierungsrat:</p>
+			<p>
+				<lb facs="#facs_21_r21"/>I. Als Mitglied des Kantonsrates im IX. Wahlkreis (Horgen) für<lb facs="#facs_21_r22"/>die zurückgetretene Vreni Müller-Hemmi (Liste der Sozialdemokrati<lb break="no" facs="#facs_21_r23"/>schen Partei, SP) wird als gewählt erklärt:<lb facs="#facs_21_r24"/>Hansruedi Schmid, Maschineningenieur HTL<lb facs="#facs_21_r25"/>Kirchstrasse 13, 8805 Richterswil</p>
+			<p>
+				<lb facs="#facs_21_r26"/>II. Mitteilung an den Gewählten, den Kantonsrat und die<lb facs="#facs_21_r27"/>Direktion des Innern sowie Veröffentlichung im Amtsblatt, Textteil<lb facs="#facs_21_r28"/>(Dispositiv I).</p>
+			<closer>
+				<dateline>
+					<lb facs="#facs_21_r29"/>Zürich, den <date when="1995-12-13">13. Dezember 1995</date></dateline>
+				<salute>
+					<lb facs="#facs_21_r31"/>Im Namen des Regierungsrates</salute>
+				<signed>
+					<lb facs="#facs_21_r32"/>Der Präsident:<lb facs="#facs_21_r33"/>Homberger</signed>
+				<signed>
+					<lb facs="#facs_21_r34"/>Der Staatsschreiber:<lb facs="#facs_21_r35"/>Husi</signed>
+			</closer>
+			<pb n="22" facs="#facs_22"/>
+			<fw type="pageNum" place="top-left">
+				<lb facs="#facs_22_r0"/>20</fw>
+		</body></text></TEI>
