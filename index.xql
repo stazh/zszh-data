@@ -28,24 +28,15 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
     return
         switch ($field)
             case "title" return
-                string-join((
-                    $header//tei:msDesc/tei:head, $header//tei:titleStmt/tei:title
-                ), " - ")
-            case "author" return 
-                idx:get-person($header//tei:msDesc//tei:msItem/tei:author)
+                $header//tei:sourceDesc/tei:bibl/tei:title
             case "place" return 
                 's.l.'
             case "keyword" return
                 $header//tei:profileDesc//tei:keywords//tei:term
             case "notAfter" return
-                idx:get-notAfter(head($header//tei:sourceDesc//tei:history/tei:origin/tei:origDate))
+                idx:get-notAfter(head($header//tei:sourceDesc/tei:bibl/tei:date/@when))
             case "notBefore" return
-                idx:get-notBefore(
-                    head((
-                        $header//tei:sourceDesc/tei:msDesc/tei:msContents/tei:msItem//tei:origDate,
-                        $header//tei:sourceDesc//tei:history/tei:origin/tei:origDate
-                    ))
-                )
+                idx:get-notBefore(head($header//tei:sourceDesc/tei:bibl/tei:date/@when))
             case "type" return
                 if ($root/@type=('volinfo', 'biblio') or empty($root//tei:body/*)) then 
                     'variant'
