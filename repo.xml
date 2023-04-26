@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<meta xmlns="http://exist-db.org/xquery/repo" commit-id="92272cd26292f7285af70a0363f1307a601ce26b" commit-time="1678111798">
-  <description>Dieses Paket enthält die Daten für die Zentralen Serien des Kantons Zürich</description>
+<meta xmlns="http://exist-db.org/xquery/repo" commit-id="02d03a7d22ffd3545be47f14c92e49e656d9084c" commit-time="1682511127">
+  <description>Dieses Paket enthält die Daten für die Rechtsquellen des Kantons Zürich</description>
   <author/>
   <website/>
   <status>alpha</status>
