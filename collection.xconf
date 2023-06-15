@@ -13,24 +13,6 @@
                 <field name="type" expression="nav:get-metadata(., 'type')"/>
             </text>
             <text match="/tei:TEI/tei:text">
-                <!--field name="type" expression="nav:get-metadata(ancestor::tei:TEI, 'type')"/>
-                <field name="date-min" expression="nav:get-metadata(ancestor::tei:TEI, 'notBefore')" type="xs:date"/>
-                <field name="date-max" expression="nav:get-metadata(ancestor::tei:TEI, 'notAfter')" type="xs:date"/>
-
-                <field name="title" expression="nav:get-metadata(ancestor::tei:TEI, 'title')"/>
-                <field name="author" expression="nav:get-metadata(ancestor::tei:TEI, 'author')"/>
-                <field name="place" expression="nav:get-metadata(ancestor::tei:TEI, 'place')"/>
-                <field name="notAfter" expression="nav:get-metadata(ancestor::tei:TEI, 'notAfter')"/>
-                <field name="notBefore" expression="nav:get-metadata(ancestor::tei:TEI, 'notBefore')" type="xs:date"/>
-
-                <field name="year" expression="substring(nav:get-metadata(ancestor::tei:TEI, 'notAfter'), 1, 4)"/>
-                <field name="keyword" expression="nav:get-metadata(ancestor::tei:TEI, 'keyword')"/>
-
-                <field name="language" expression="nav:get-metadata(ancestor::tei:TEI, 'language')"/>
-                <field name="corpus" expression="'zszh'"/>
-
-                <field name="date" expression="nav:get-metadata(ancestor::tei:TEI, 'date')"/>
-                <field name="file" expression="util:document-name(.)"/-->
             </text>
             <text qname="tei:body">
                 <ignore qname="tei:note"/>

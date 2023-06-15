@@ -1,0 +1,40 @@
+<?xml-model href="https://www.ssrq-sds-fds.ch/tei/TEI_Schema_SSRQ.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.ssrq-sds-fds.ch/tei/TEI_Schema_SSRQ.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ssrq="http://ssrq-sds-fds.ch/ns/nonTEI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" n="02_11" type="volinfo" xml:lang="de">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kantonsratsprotokolle</title>
+            <respStmt/>
+         </titleStmt>
+         <publicationStmt>
+            <date type="print" when="2022-01-01"/>
+         </publicationStmt>
+         <seriesStmt xml:id="ssrq-sds-fds">
+            <title>Zentrale Serien des Kantons Zürich</title>
+            <respStmt>
+               <orgName>Staatsarchiv des Kantons Zürich</orgName>
+               <resp>Herausgeberschaft</resp>
+            </respStmt>
+            <idno type="machine">Kantonsratsprotokolle</idno>
+            <idno type="human">Kantonsratsprotokolle</idno>
+         </seriesStmt>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>
+               <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+            </p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+
+   <text>
+      <group>
+         <text>
+            <body/>
+         </text>
+      </group>
+   </text>
+
+</TEI>
