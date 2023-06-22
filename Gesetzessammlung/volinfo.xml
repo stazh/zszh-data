@@ -10,7 +10,7 @@
          <publicationStmt>
             <date type="print" when="2022-01-01"/>
          </publicationStmt>
-         <seriesStmt xml:id="ssrq-sds-fds">
+         <seriesStmt>
             <title>Zentrale Serien des Kantons Zürich</title>
             <respStmt>
                <orgName>Staatsarchiv des Kantons Zürich</orgName>

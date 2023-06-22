@@ -36,7 +36,7 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
             case "notAfter" return
                 idx:get-notAfter(head($header//tei:sourceDesc/tei:bibl/tei:date/@when))
             case "notBefore" return
-                idx:get-notBefore(head($header//tei:sourceDesc/tei:bibl/tei:date/@when))
+                idx:get-notBefore(head($header//tei:sourceDesc/tei:bibl/tei:date))
             case "type" return
                 if ($root/@type=('volinfo', 'biblio') or empty($root//tei:body/*)) then 
                     'variant'
