@@ -16,7 +16,7 @@
                <orgName>Staatsarchiv des Kantons Zürich</orgName>
                <resp>Herausgeberschaft</resp>
             </respStmt>
-            <idno type="machine">Regierungsratsbeschluesse</idno>
+            <idno type="machine">4_Regierungsratsbeschluesse</idno>
             <idno type="human">Regierungsratsbeschlüsse</idno>
          </seriesStmt>
       </fileDesc>

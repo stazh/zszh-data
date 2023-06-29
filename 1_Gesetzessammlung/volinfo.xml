@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Amtsblatt</title>
+            <title>Gesetzessammlung</title>
             <respStmt/>
          </titleStmt>
          <publicationStmt>
@@ -16,8 +16,8 @@
                <orgName>Staatsarchiv des Kantons Zürich</orgName>
                <resp>Herausgeberschaft</resp>
             </respStmt>
-            <idno type="machine">Amtsblatt</idno>
-            <idno type="human">Amntsblatt</idno>
+            <idno type="machine">1_Gesetzessammlung</idno>
+            <idno type="human">Gesetzessammlung</idno>
          </seriesStmt>
       </fileDesc>
       <encodingDesc>
